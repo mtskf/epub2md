@@ -28,7 +28,7 @@ describe('Converter Integration Test', () => {
         // 1. Check Frontmatter
         expect(content).toContain('title: "Complex Test Book"');
         expect(content).toContain('cover: "assets/cover.jpeg"');
-        expect(content).toContain('tags: [epub, book]');
+        expect(content).toContain('tags: [converted-from-epub, book]');
 
         // 1a. TOC + chapter-level anchors stay linked
         expect(content).toContain('[[#Introduction|Introduction]]');
