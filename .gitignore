@@ -1,6 +1,6 @@
 node_modules/
 .DS_Store
 sample/
-/test.epub
-test.md
 output_test
+.agent/
+GEMINI.md

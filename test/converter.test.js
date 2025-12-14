@@ -64,5 +64,22 @@ describe('Converter Integration Test', () => {
         // ![A random placeholder image](assets/...)
         expect(content).toMatch(/!\[A random placeholder image\]\(assets\/.*\.jpe?g\)/);
 
+        // 6. Check Complex Formatting
+        // Lists (dash bullet)
+        expect(content).toMatch(/- +Item 1/);
+        expect(content).toMatch(/- +Item 2/);
+        expect(content).toMatch(/- +Subitem A/);
+
+        // Code Blocks (fenced)
+        expect(content).toMatch(/```/);
+        expect(content).toContain("console.log('Hello World');");
+
+        // Text Styles
+        expect(content).toMatch(/\*\*Bold\*\*/);
+        expect(content).toMatch(/_Italic_/); // Turndown default is underscore for italic, but can be asterisk
+
+        // Blockquotes
+        expect(content).toMatch(/> This is a blockquote\./);
+
     }, 30000); // 30s timeout
 });

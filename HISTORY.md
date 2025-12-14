@@ -25,3 +25,14 @@ User reported issues with broken internal links, missing images, and desired a m
 ### Lessons Learned
 - **Test Quality**: Simple `toContain` checks are insufficient for Markdown link verification. Tests must use regex to verify the syntax `[text](url)` is intact.
 - **EPUB Variability**: Different libraries (`nodepub` vs `epub-gen`) produce slightly different HTML structures. The converter must be robust against these variations.
+
+## 2025-12-15: Translate AI Context
+
+### Context
+User requested `GEMINI.md` to be in English.
+
+### Changes
+- **Docs**: Translated `GEMINI.md` from Japanese to English.
+
+### Lessons Learned
+- Validating the new automated PR workflow.
