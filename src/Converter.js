@@ -113,7 +113,7 @@ class Converter {
 
                 // If element has ID, preserve it as an anchor
                 if (id) {
-                    prefix = `<a id="${id}"></a>`;
+                    prefix = `<a id="${id}" name="${id}"></a>`;
                 }
 
                 if (!href) return content; // Should be handled by 'anchors' rule if no href, but just in case.
@@ -139,7 +139,7 @@ class Converter {
             filter: (node) => node.nodeName === 'A' && node.hasAttribute('id') && !node.hasAttribute('href'),
             replacement: (content, node) => {
                 // Preserve content inside the anchor if any
-                return `<a id="${node.getAttribute('id')}"></a>${content}`;
+                return `<a id="${node.getAttribute('id')}" name="${node.getAttribute('id')}"></a>${content}`;
             }
         });
     }
@@ -220,7 +220,7 @@ class Converter {
         // Targets: h1-h6, p, div, span, li
         // Removed 'a' matching from here to avoid nested anchor issues (<a ...><a ...></a>...</a>).
         // 'a' tags are handled by Turndown rules instead.
-        return htmlText.replace(/(<(?:h[1-6]|p|div|span|li)[^>]*\s+id=["']([^"']+)["'][^>]*>)/gi, '$1<a id="$2"></a>');
+        return htmlText.replace(/(<(?:h[1-6]|p|div|span|li)[^>]*\s+id=["']([^"']+)["'][^>]*>)/gi, '$1<a id="$2" name="$2"></a>');
     }
 
     getChapterText(epub, chapterId) {

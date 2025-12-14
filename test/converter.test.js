@@ -32,8 +32,8 @@ describe('Converter Integration Test', () => {
         // 2. Check ATX Headers
         // Note: Our anchor injection puts <a id="..."></a> INSIDE or BEFORE the content text depending on regex.
         // Current output: "# <a id=\"intro\"></a>Introduction"
-        expect(content).toMatch(/#\s*<a id="intro"><\/a>Introduction/);
-        expect(content).toMatch(/#\s*<a id="chap2"><\/a>Visuals & Links/);
+        expect(content).toMatch(/#\s*<a id="intro" name="intro"><\/a>Introduction/);
+        expect(content).toMatch(/#\s*<a id="chap2" name="chap2"><\/a>Visuals & Links/);
 
         // 3. Check Anchor Injection (ID preservation)
         // Already verified above.
