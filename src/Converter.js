@@ -76,7 +76,8 @@ class Converter {
     configureTurndown() {
         this._addRuleImages();
         this._addRuleInternalLinks();
-        this._addRuleAnchors();
+        // Removed _addRuleAnchors();
+        this._addRuleObsidianIds();
     }
 
     _addRuleImages() {
@@ -108,38 +109,76 @@ class Converter {
             filter: 'a',
             replacement: (content, node) => {
                 const href = node.getAttribute('href');
-                const id = node.getAttribute('id');
-                let prefix = '';
+                // const id = node.getAttribute('id'); // ID on anchor tag itself is less relevant for Obsidian links unless it's a block anchor, which we handle via block rules.
 
-                // If element has ID, preserve it as an anchor
-                if (id) {
-                    prefix = `<a id="${id}" name="${id}"></a>`;
-                }
-
-                if (!href) return content; // Should be handled by 'anchors' rule if no href, but just in case.
+                if (!href) return content;
 
                 if (href.startsWith('http') || href.startsWith('mailto:')) {
-                    return `${prefix}[${content}](${href})`;
+                    return `[${content}](${href})`;
                 }
 
-                // Rewrite file.html#id to #id
+                // Rewrite file.html#id to [[#^id|content]]
                 const hashIndex = href.indexOf('#');
                 if (hashIndex !== -1) {
-                    const hash = href.substring(hashIndex);
-                    return `${prefix}[${content}](${hash})`;
+                    const id = href.substring(hashIndex + 1); // Get ID without #
+                    // Obsidian WikiLink format: [[#^id|content]]
+                    // If content is empty or same as id? Just use content.
+                    if (content) {
+                        return `[[#^${id}|${content}]]`;
+                    }
+                     return `[[#^${id}]]`;
                 }
 
-                return prefix + content;
+                return content;
             }
         });
     }
 
-    _addRuleAnchors() {
-        this.turndownService.addRule('anchors', {
-            filter: (node) => node.nodeName === 'A' && node.hasAttribute('id') && !node.hasAttribute('href'),
+    _addRuleObsidianIds() {
+        // Add rule to append ^block-id to block elements with ID
+        this.turndownService.addRule('obsidian-ids', {
+            filter: (node) => {
+                const tags = ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'blockquote'];
+                return tags.includes(node.nodeName.toLowerCase()) && node.hasAttribute('id');
+            },
             replacement: (content, node) => {
-                // Preserve content inside the anchor if any
-                return `<a id="${node.getAttribute('id')}" name="${node.getAttribute('id')}"></a>${content}`;
+                const id = node.getAttribute('id');
+                // Since filter guarantees ID presence, we don't need 'if (id)' check here strictly, but good for safety.
+                if (id) {
+                     // Check if it's a heading
+                    const headingMatch = node.nodeName.match(/^H([1-6])$/);
+                    if (headingMatch) {
+                         const level = parseInt(headingMatch[1]);
+                         const prefix = '#'.repeat(level) + ' ';
+                         return prefix + content + ` ^${id}`;
+                    }
+
+                    // Check if it's a list item
+                    if (node.nodeName === 'LI') {
+                        // Very basic list item support for IDs.
+                        // Note: Losing ordered/unordered distinction if we override, but this only affects LI with IDs.
+                        // Default to dash.
+                        return '- ' + content + ` ^${id}`;
+                    }
+
+                    // Paragraphs / Blockquotes
+                    // We might lose blockquote '>' if we just return content.
+                    if (node.nodeName === 'BLOCKQUOTE') {
+                         return '> ' + content + ` ^${id}`;
+                    }
+
+                    return content + ` ^${id}`;
+                }
+                // If it was a header but had no ID, we MUST still return standard markdown header
+                // because this rule MATCHES the node. If we return 'content', it strips the header formatting!
+                const headingMatch = node.nodeName.match(/^H([1-6])$/);
+                if (headingMatch) {
+                     const level = parseInt(headingMatch[1]);
+                     const prefix = '#'.repeat(level) + ' ';
+                     return prefix + content;
+                }
+
+                return content;
             }
         });
     }
@@ -201,7 +240,7 @@ class Converter {
             for (const chapter of epub.flow) {
                 let text = await this.getChapterText(epub, chapter.id);
                 if (text) {
-                    text = this._injectAnchors(text);
+                    // Removed legacy anchor injection
                     const markdown = this.turndownService.turndown(text);
                     textContent += markdown + '\n\n---\n\n';
                 }
@@ -215,17 +254,7 @@ class Converter {
         return textContent;
     }
 
-    _injectAnchors(htmlText) {
-        // Headers: Inject BEFORE the tag to ensure clean Markdown headers
-        // Result: <a id="val" name="val"></a><h1 id="val">...</h1>
-        htmlText = htmlText.replace(/(<(?:h[1-6])[^>]*\s+id=["']([^"']+)["'][^>]*>)/gi, '<a id="$2" name="$2"></a>$1');
-
-        // Others (p, div, span, li): Inject INSIDE (after opening tag)
-        // Result: <p id="val"><a id="val" name="val"></a>...</p>
-        htmlText = htmlText.replace(/(<(?:p|div|span|li)[^>]*\s+id=["']([^"']+)["'][^>]*>)/gi, '$1<a id="$2" name="$2"></a>');
-
-        return htmlText;
-    }
+    // _injectAnchors method removed
 
     getChapterText(epub, chapterId) {
         return new Promise((resolve) => {

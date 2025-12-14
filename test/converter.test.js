@@ -30,28 +30,29 @@ describe('Converter Integration Test', () => {
         expect(content).toContain('tags: [epub, book]');
 
         // 2. Check ATX Headers
-        // Note: Our anchor injection now puts <a id="..."></a> BEFORE the header for better Obsidian compatibility.
-        // Current output: "<a id=\"intro\" name=\"intro\"></a>\n# Introduction"
-        expect(content).toMatch(/<a id="intro" name="intro"><\/a>\s*#\s*Introduction/);
-        expect(content).toMatch(/<a id="chap2" name="chap2"><\/a>\s*#\s*Visuals & Links/);
+        // Note: Obsidian style is "# Heading ^id" (or similar, Turndown might produce "# Heading ^id")
+        // Turndown defaults: <h1 id="intro">Introduction</h1> -> # Introduction ^intro
+        expect(content).toMatch(/#\s*Introduction\s*\^intro/);
+        expect(content).toMatch(/#\s*Visuals & Links\s*\^chap2/);
 
         // 3. Check Anchor Injection (ID preservation)
         // Already verified above.
 
         // 4. Check Link Rewriting
         // Link to anchor in same file
-        // Expect: [local anchor](#local-anchor)
-        expect(content).toMatch(/\[local anchor\]\(#local-anchor\)/);
+        // Expect: [[#^local-anchor|local anchor]]
+        expect(content).toMatch(/\[\[#\^local-anchor\|local anchor\]\]/);
 
         // Link to another chapter's section
-        // Expect: [Section 2.1](#chap2-section)
-        expect(content).toMatch(/\[Section 2\.1\]\(#chap2-section\)/);
+        // Expect: [[#^chap2-section|Section 2.1]]
+        expect(content).toMatch(/\[\[#\^chap2-section\|Section 2\.1\]\]/);
 
         // Footnote link
         // Expect: [<a id="ref1"></a>[1]](#note1) or similar depending on where the anchor is attached
-        // Based on current output: <a id="ref1"></a>[\[1\]](#note1)
-        // or just check that (#note1) is preceded by [something]
-        expect(content).toMatch(/\[\\?\[1\\?\]\]\(#note1\)/);
+        // Footnote link
+        // Expect: [[#^note1|\[1\]]] (or similar escaping)
+        // Turndown might escape [1] -> \[1\]
+        expect(content).toMatch(/\[\[#\^note1\|\\?\[1\\?\]\]\]/);
 
         // 5. Check Image Extraction
         const assetsDir = path.join(outputDir, 'assets');
