@@ -30,10 +30,10 @@ describe('Converter Integration Test', () => {
         expect(content).toContain('tags: [epub, book]');
 
         // 2. Check ATX Headers
-        // Note: Our anchor injection puts <a id="..."></a> INSIDE or BEFORE the content text depending on regex.
-        // Current output: "# <a id=\"intro\"></a>Introduction"
-        expect(content).toMatch(/#\s*<a id="intro" name="intro"><\/a>Introduction/);
-        expect(content).toMatch(/#\s*<a id="chap2" name="chap2"><\/a>Visuals & Links/);
+        // Note: Our anchor injection now puts <a id="..."></a> BEFORE the header for better Obsidian compatibility.
+        // Current output: "<a id=\"intro\" name=\"intro\"></a>\n# Introduction"
+        expect(content).toMatch(/<a id="intro" name="intro"><\/a>\s*#\s*Introduction/);
+        expect(content).toMatch(/<a id="chap2" name="chap2"><\/a>\s*#\s*Visuals & Links/);
 
         // 3. Check Anchor Injection (ID preservation)
         // Already verified above.

@@ -216,11 +216,15 @@ class Converter {
     }
 
     _injectAnchors(htmlText) {
-        // Injects <a id="val"></a> before content of elements with IDs
-        // Targets: h1-h6, p, div, span, li
-        // Removed 'a' matching from here to avoid nested anchor issues (<a ...><a ...></a>...</a>).
-        // 'a' tags are handled by Turndown rules instead.
-        return htmlText.replace(/(<(?:h[1-6]|p|div|span|li)[^>]*\s+id=["']([^"']+)["'][^>]*>)/gi, '$1<a id="$2" name="$2"></a>');
+        // Headers: Inject BEFORE the tag to ensure clean Markdown headers
+        // Result: <a id="val" name="val"></a><h1 id="val">...</h1>
+        htmlText = htmlText.replace(/(<(?:h[1-6])[^>]*\s+id=["']([^"']+)["'][^>]*>)/gi, '<a id="$2" name="$2"></a>$1');
+
+        // Others (p, div, span, li): Inject INSIDE (after opening tag)
+        // Result: <p id="val"><a id="val" name="val"></a>...</p>
+        htmlText = htmlText.replace(/(<(?:p|div|span|li)[^>]*\s+id=["']([^"']+)["'][^>]*>)/gi, '$1<a id="$2" name="$2"></a>');
+
+        return htmlText;
     }
 
     getChapterText(epub, chapterId) {
