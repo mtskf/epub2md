@@ -64,7 +64,8 @@ class Converter {
 
     _generateFrontmatterRecursive(epub) {
         if (!this.options.noFrontmatter) {
-            return generateFrontmatter(epub.metadata);
+            const coverPath = this.coverImageFilename ? path.join(this.assetsDir, this.coverImageFilename) : null;
+            return generateFrontmatter(epub.metadata, coverPath);
         } else if (epub.metadata && epub.metadata.title) {
             return `# ${epub.metadata.title}\n\n`;
         }
@@ -120,6 +121,10 @@ class Converter {
 
                     const destPath = path.join(this.assetsOutputDir, filename);
                     fs.writeFileSync(destPath, data);
+
+                    if (epub.metadata.cover === id) {
+                        this.coverImageFilename = filename;
+                    }
                 } catch (err) {
                     console.warn(`Warning: Could not extract image ${id}: ${err.message}`);
                 }

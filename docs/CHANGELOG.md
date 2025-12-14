@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Added `cover` property to YAML frontmatter pointing to the extracted cover image
+
 ### Refactor
 
 - Split `src/Converter.js` into modular components under `src/rules/` and `src/utils/`
