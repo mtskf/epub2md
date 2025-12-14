@@ -59,6 +59,16 @@ describe('Converter Integration Test', () => {
         // Expect: [^note1]: This is the footnote content.
         expect(content).toMatch(/\[\^note1\]: This is the footnote content\./);
 
+        // EXTRA: Strict Obsidian Compliance Checks
+        // 1. No HTML Anchors (<a id="...">)
+        expect(content).not.toMatch(/<a\s+id=["'][^"']+["']\s*>/);
+        expect(content).not.toMatch(/<a\s+name=["'][^"']+["']\s*>/);
+
+        // 2. No Standard Markdown Internal Links ([text](#id))
+        // We want ONLY [[#^id|text]]
+        // This regex looks for [text](#id) pattern where id starts with #
+        expect(content).not.toMatch(/\[.+?\]\(#.+?\)/);
+
         // 5. Check Image Extraction
         const assetsDir = path.join(outputDir, 'assets');
         expect(fs.existsSync(assetsDir)).toBe(true);
