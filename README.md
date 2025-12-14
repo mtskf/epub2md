@@ -23,7 +23,7 @@ This tool was built to solve specific pain points in EPUB conversion:
     - **Native Footnotes**: Converts EPUB footnotes to Obsidian's `[^id]` syntax
 
 4.  **Metadata & Frontmatter**:
-    - Generates YAML Frontmatter (Title, Author, Publisher, etc.) by default.
+    - Generates YAML Frontmatter (Title, Author, Publisher, Cover, etc.) by default.
 
 5.  **User Experience**:
     - **Progress Bar**: Visual feedback during conversion.
