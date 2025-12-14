@@ -1,4 +1,10 @@
-# The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma
+---
+title: "The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma"
+author: "Mustafa Suleyman"
+language: "en"
+date: "2023-09-05T00:00:00+00:00"
+tags: [epub, book]
+---
 
 
 
@@ -6,7 +12,7 @@
 
 ADVANCE PRAISE FOR
 
-THE
+THE  
 COMING WAVE
 
 “The Coming Wave is a fascinating, well-written, and important book. It explores the existential dangers that AI and biotechnology pose to humankind, and offers practical solutions for how we can contain the threat. The coming technological wave promises to provide humanity with godlike powers of creation, but if we fail to manage it wisely, it may destroy us.”
@@ -149,9 +155,9 @@ ep\_prh\_6.1\_144835715\_c0\_r0
 
 Contents
 
-> ![Cover](assets/cover.jpeg)
+> [Cover](Sule_9780593593967_epub3_cvi_r1.xhtml)
 
-> [Title Page](assets/cover.jpeg)
+> [Title Page](Sule_9780593593967_epub3_tp_r1.xhtml)
 
 > [Copyright](/links/id143/index_split_001.html#filepos17002)
 
@@ -437,7 +443,7 @@ Containment is not, on the face of it, possible. And yet for all our sakes, cont
 
       PART I
 
-HOMO
+HOMO  
 TECHNOLOGICUS
 
 ---
@@ -472,7 +478,7 @@ All of this would have seemed impossible in the early nineteenth century, when s
 
 This isn’t, however, just a story of engines and cars. It is the story of technology itself.
 
-GENERAL-PURPOSE WAVES:
+GENERAL-PURPOSE WAVES:  
 THE RHYTHM OF HISTORY
 
 Technology has a clear, inevitable trajectory: mass diffusion in great roiling waves. This is true from the earliest flint and bone tools to the latest AI models. As science produces new discoveries, people apply these insights to make cheaper food, better goods, and more efficient transport. Over time demand for the best new products and services grows, driving competition to produce cheaper versions bursting with yet more features. This in turn drives yet more demand for the technologies that create them, and they also become easier and cheaper to use. Costs continue to fall. Capabilities rise. Experiment, repeat, use. Grow, improve, adapt. This is the inescapable evolutionary nature of technology.
@@ -529,7 +535,7 @@ Of course, behind technological breakthroughs are people. They labor at improvin
 
 Civilization’s appetite for useful and cheaper technologies is boundless. This will not change.
 
-FROM VACUUM TUBES TO NANOMETERS:
+FROM VACUUM TUBES TO NANOMETERS:  
 TURBO-PROLIFERATION
 
 If you want a hint of what’s coming next, consider the foundation of the last mature wave. From the start, computers were driven by new-frontier mathematics as well as the urgencies of great power conflict.
@@ -706,7 +712,7 @@ That challenge is about to decisively escalate.
 
       PART II
 
-THE
+THE  
 NEXT WAVE
 
 ---
@@ -731,7 +737,7 @@ DQN had gotten off to a rough start, but with a few months of tinkering the algo
 
 DQN was a big step for me, for DeepMind, and for the AI community. But the public response was pretty muted. AI was still a fringe discussion, a research area on the margins. And yet within a few short years, all that would change as this new generation of AI techniques exploded onto the world stage.
 
-ALPHAGO AND THE
+ALPHAGO AND THE  
 BEGINNING OF THE FUTURE
 
 Go is an ancient East Asian game played on a nineteen-by-nineteen grid with black and white stones. You aim to surround your opponent’s stones with your own, and once they’re surrounded, you take them off the board. That’s pretty much it.
@@ -788,7 +794,7 @@ While the bearish case has merits, we write off the technologies in the coming w
 
 Technology is core to the historical pattern in which our species is gaining increasing mastery of atoms, bits, and genes, the universal building blocks of the world as we know it. This will amount to a moment of cosmic significance. The challenge of managing the coming wave’s technologies means understanding them and taking them seriously, starting with the one I have spent my career working on: AI.
 
-THE AI SPRING:
+THE AI SPRING:  
 DEEP LEARNING COMES OF AGE
 
 AI is at the center of this coming wave. And yet, since the term “artificial intelligence” first entered the lexicon in 1955, it has often felt like a distant promise. For years progress in computer vision, for example—the challenge of building computers that can recognize objects or scenes—was slower than expected. The legendary computer science professor Marvin Minsky famously hired a summer student to work on an early vision system in 1966, thinking that significant milestones were just within reach. That was wildly optimistic.
@@ -809,7 +815,7 @@ Following the AlexNet breakthrough, AI suddenly became a major priority in acade
 
 Industry research output and patents soared. In 1987 there were just ninety academic papers published at Neural Information Processing Systems, at what became the field’s leading conference. By the 2020s there were almost two thousand. In the last six years there was a six-fold increase in the number of papers published on deep learning alone, tenfold if you widen the view to machine learning as a whole. With the blossoming of deep learning, billions of dollars poured into AI research at academic institutions and private and public companies. Starting in the 2010s, the buzz, indeed the hype, around AI was back, stronger than ever, making headlines and pushing the frontiers of what’s possible. That AI will play a major part in the twenty-first century now no longer seems like a fringe and absurd view; it seems assured.
 
-AI IS
+AI IS  
 EATING THE WORLD
 
 Mass-scale AI rollout is already well underway. Everywhere you look, software has eaten the world, opening the path for collecting and analyzing vast amounts of data. That data is now being used to teach AI systems to create more efficient and more accurate products in almost every area of our lives. AI is becoming much easier to access and use: tools and infrastructure like Meta’s PyTorch or OpenAI’s application programming interfaces (APIs) help put state-of-the-art machine learning capabilities in the hands of nonspecialists. 5G and ubiquitous connectivity create a massive, always-on user base.
@@ -824,7 +830,7 @@ AI systems run retail warehouses, suggest how to write emails or what songs you 
 
 AI is already here. But it’s far from done.
 
-AUTOCOMPLETE EVERYTHING:
+AUTOCOMPLETE EVERYTHING:  
 THE RISE OF LARGE LANGUAGE MODELS
 
 It wasn’t long ago that processing natural language seemed too complex, too varied, too nuanced for modern AI. Then, in November 2022, the AI research company OpenAI released ChatGPT. Within a week it had more than a million users and was being talked about in rapturous terms, a technology so seamlessly useful it might eclipse Google Search in short order.
@@ -935,7 +941,7 @@ For years people framed AGI as likely to come at the flick of a switch. AGI is b
 
 We don’t need to get sidetracked into arcane debates about whether consciousness requires some indefinable spark forever lacking in machines, or whether it’ll just emerge from neural networks as we know them today. For the time being, it doesn’t matter whether the system is self-aware, or has understanding, or has humanlike intelligence. All that matters is what the system can do. Focus on that, and the real challenge comes into view: systems can do more, much more, with every passing day.
 
-CAPABILITIES:
+CAPABILITIES:  
 A MODERN TURING TEST
 
 In a paper published in 1950, the computer scientist Alan Turing suggested a legendary test for whether an AI exhibited human-level intelligence. When AI could display humanlike conversational abilities for a lengthy period of time, such that a human interlocutor couldn’t tell they were speaking to a machine, the test would be passed: the AI, conversationally akin to a human, deemed intelligent. For more than seven decades this simple test has been an inspiration for many young researchers entering the field of AI. Today, as the LaMDA-sentience saga illustrates, systems are already close to passing the Turing test.
@@ -978,7 +984,7 @@ Living systems self-assemble and self-heal; they’re energy-harnessing architec
 
 At the center of this wave sits the realization that DNA is information, a biologically evolved encoding and storage system. Over recent decades we have come to understand enough about this information transmission system that we can now intervene to alter its encoding and direct its course. As a result, food, medicine, materials, manufacturing processes, and consumer goods will all be transformed and reimagined. So will humans themselves.
 
-DNA SCISSORS:
+DNA SCISSORS:  
 THE CRISPR REVOLUTION
 
 Genetic engineering sounds modern, but it’s actually one of humankind’s oldest technologies. Much of civilization would have been impossible without selective breeding—the insistent process of refining crops and animals to select for more desirable traits. Steadily, over centuries and millennia, humans bred for traits that would be most useful, producing friendly dogs, dairy cattle, domesticated chickens, wheat, corn, and so on.
@@ -1007,7 +1013,7 @@ Just a few decades ago biotech was expensive, complex, and slow moving, with onl
 
 Genetic engineering has embraced the do-it-yourself ethos that once defined digital start-ups and led to such an explosion of creativity and potential in the early days of the internet. You can now buy a benchtop DNA synthesizer (see the next section) for as little as $25,000 and use it as you wish, without restriction or oversight, at home in your bio-garage.
 
-DNA PRINTERS:
+DNA PRINTERS:  
 SYNTHETIC BIOLOGY COMES TO LIFE
 
 CRISPR is only the start. Gene synthesis is the manufacture of genetic sequences, printing strands of DNA. If sequencing is reading, synthesizing is writing. And writing doesn’t just involve reproducing known strands of DNA; it also enables scientists to write new strands, to engineer life itself. While the practice existed years ago, it was again slow, expensive, and difficult. A decade ago, scientists might have produced under a hundred pieces of DNA simultaneously. Now they can print millions at once, combined with a tenfold fall in price. The London DNA Foundry housed at Imperial College London claims it can create and test fifteen thousand different genetic designs in a single morning.
@@ -1050,7 +1056,7 @@ Eventually, computers might also be grown as well as made. Remember that DNA is 
 
 Already genetically engineered organisms account for 2 percent of the U.S. economy through agricultural and pharmaceutical uses. This is just the start. McKinsey estimates that up to 60 percent of physical inputs into the economy could ultimately be subject to “bio-innovation.” Forty-five percent of the global disease burden could be met with “science that is conceivable today.” As the tool kit gets cheaper and more advanced, a universe of possibility becomes subject to exploration.
 
-AI IN THE AGE OF
+AI IN THE AGE OF  
 SYNTHETIC LIFE
 
 Proteins are the building blocks of life. Your muscles and blood, hormones and hair, indeed, 75 percent of your dry body weight: all proteins. They are everywhere, coming in every conceivable form, doing myriad vital tasks, from the cords holding your bones together, to the hooks on antibodies used to catch unwanted visitors. Understand proteins, and you’ve taken a giant leap forward in understanding—and mastering—biology.
@@ -1227,7 +1233,7 @@ Second, they are developing fast, a kind of hyper-evolution, iterating, improvin
 
 These features define the wave. Understanding them is vital in identifying what benefits and risks arise from their creation; together they escalate containment and control to a new plane of difficulty and danger.
 
-ASYMMETRY:
+ASYMMETRY:  
 A COLOSSAL TRANSFER OF POWER
 
 Emerging technologies have always created new threats, redistributed power, and removed barriers to entry. Cannons meant a small force could destroy castles and level armies. A few colonial soldiers with advanced weapons could massacre thousands of indigenous people. The printing press meant a single workshop might produce thousands of pamphlets—spreading ideas with an ease that medieval monks copying books by hand could scarcely fathom. Steam power enabled single factories to do the work of entire towns. The internet took this capacity to a new peak: a single tweet or image might travel the world in minutes or seconds; a single algorithm could help a small start-up to grow into a vast, globe-spanning corporation.
@@ -1244,7 +1250,7 @@ The reverse of asymmetric action is also true. The very scale and interconnected
 
 AI creates asymmetric risks beyond those of a bad batch of food, a plane accident, or a faulty product. Its risks extend to entire societies, making it not so much a blunt tool as a lever with global consequences. Just as globalized and highly connected markets transmit contagion in a financial crisis, so with technology. Network scale makes containing damage, if or when it comes, almost impossible. Interlinked global systems are containment nightmares. And we already live in an age of interlinked global systems. In the coming wave a single point—a given program, a genetic change—can alter everything.
 
-HYPER-EVOLUTION:
+HYPER-EVOLUTION:  
 ENDLESS ACCELERATION
 
 If you want to contain technology, you might hope it develops at a manageable pace, giving society time and space to understand and adapt to it. Cars are again a good example. Their development over the last century was incredibly fast but also provided time for introducing all sorts of safety standards. There was always a lag, but the standards could still catch up. However, with the rate of change in the coming wave, that looks unlikely.
@@ -1267,7 +1273,7 @@ Just as today’s models produce detailed images based on a few words, so in dec
 
 Nor will this evolution be limited to specific, predictable, and readily containable areas. It will be everywhere.
 
-OMNI-USE:
+OMNI-USE:  
 MORE IS MORE
 
 Defying conventional wisdom, progress in health care was one of the areas that slowed in the recent stagnation of innovation in the realm of atoms. Discovering new drugs became harder and more expensive. Life expectancy leveled off and even started to decline in some U.S. states. Progress on conditions like Alzheimer’s failed to live up to expectations.
@@ -1292,7 +1298,7 @@ Over time, technology tends toward generality. What this means is that weaponiza
 
 The notion of a new technology being adapted for multiple uses isn’t new. A simple tool like a knife can chop onions or enable a deranged killing spree. Even seemingly specific technologies have dual-use implications: the microphone enabled both the Nuremberg rallies and the Beatles. What’s different about the coming wave is how quickly it is being embedded, how globally it spreads, how easily it can be componentized into swappable parts, and just how powerful and above all broad its applications could be. It unfurls complex implications for everything from media to mental health, markets to medicine. This is the containment problem supersized. After all, we’re talking about fundamentals like intelligence and life. But both those properties have a feature even more interesting than their generality.
 
-AUTONOMY AND BEYOND:
+AUTONOMY AND BEYOND:  
 WILL HUMANS BE IN THE LOOP?
 
 Technological evolution has been speeding up for centuries. Omni-use features and asymmetric impacts are magnified in the coming wave, but to some extent they’re inherent properties of all technology. That isn’t the case for autonomy. For all of history technology has been “just” a tool, but what if the tool comes to life?
@@ -1471,7 +1477,7 @@ If you were looking to monitor and direct AI research in the past, you would lik
 
 Today’s world is optimized for curiosity, sharing, and research at a pace never seen before. Modern research works against containment. So too do the necessity and desire to make a profit.
 
-THE $100 TRILLION
+THE $100 TRILLION  
 OPPORTUNITY
 
 In 1830, the first passenger railway opened between Liverpool and Manchester. Building this marvel of engineering had required an act of Parliament. The route needed bridges, cut-throughs, elevated sections over boggy ground, and settling of seemingly endless property disputes: all titanic challenges. The railway’s opening was attended by dignitaries including the prime minister and Liverpool’s MP, William Huskisson. During the celebration the crowd stood on the tracks to welcome the new marvel as it approached. So unfamiliar was this striking machine that people failed to appreciate the speed of the oncoming train, and Huskisson himself was killed under the locomotive’s wheels. To the horrified spectators George Stephenson’s steam-powered Rocket was monstrous, an alien, belching, terrifying blur of modernity and machinery.
@@ -1598,7 +1604,7 @@ But there’s a problem. States are already facing massive strain, and the comin
 
       PART III
 
-STATES OF
+STATES OF  
 FAILURE
 
 ---
@@ -1621,7 +1627,7 @@ In the book’s first two sections, we saw that a wave of powerful technologies 
 
 In this third section of the book, we grapple with the profound consequences of these technologies for the nation-state and for the liberal democratic nation-state above all. Cracks are already forming. The political order that fostered rising wealth, better living standards, growing education, science, and technology, a world tending toward peace, is now under immense strain, destabilized in part by the very forces it helped engender. The full implications are sprawling and hard to fathom, but to me they indicate a future where the challenge of containment is harder than ever, where the century’s great dilemma becomes inevitable.
 
-LESSONS FROM COPENHAGEN:
+LESSONS FROM COPENHAGEN:  
 POLITICS IS PERSONAL
 
 I’ve always passionately believed in the power of the state to improve lives. Before my career in AI, I worked in government and the nonprofit sector. I helped start a charity telephone counseling service when I was nineteen, worked for the mayor of London, and co-founded a conflict resolution firm focused on multi-stakeholder negotiation. Working with public servants—people stretched thin and bone-tired, but forever in demand and doing heroic work for those who need it—was enough to show me what a disaster it would be if the state failed.
@@ -1688,7 +1694,7 @@ Global challenges are reaching a critical threshold. Rampant inflation. Energy s
 
 This makes containment far more complicated. Forming national and international consensus and establishing new norms around fast-moving technologies are already steep challenges. How can we hope to do this when our baseline mode seems to be instability?
 
-TECHNOLOGY IS POLITICAL:
+TECHNOLOGY IS POLITICAL:  
 THE WAVE’S CHALLENGE TO STATES
 
 Every previous wave of technology has had profound political implications. We should expect the same in the future. The last wave—the arrival of mainframes, desktop PCs and desktop software, the internet, and the smartphone—delivered immense benefits to society. It laid down the new tools for the modern economy, bolstering growth, transforming access to knowledge, to entertainment, and to one another. Amid the present hand-wringing about the negative effects of social media, it’s easy to overlook these myriad positives. Yet over the last decade a growing consensus suggests these technologies did something else as well: creating the conditions to feed and amplify this underlying political polarization and institutional fragility.
@@ -1743,7 +1749,7 @@ Cheap, omnipresent robots like those sketched above are, alongside a host of oth
 
 FRAGILITY AMPLIFIERS
 
-NATIONAL EMERGENCY 2.0:
+NATIONAL EMERGENCY 2.0:  
 UNCONTAINED ASYMMETRY IN ACTION
 
 ON THE MORNING OF MAY 12, 2017, Britain’s National Health Service (NHS) ground to a halt. Thousands of its facilities nationwide suddenly saw their IT systems freeze up. In hospitals, staff were locked out of crucial medical equipment like MRI scanners and unable to access patient records. Thousands of scheduled procedures, ranging from cancer appointments to elective surgeries, had to be canceled. Panicked care teams reverted to manual stopgaps, using paper notes and personal phones. The Royal London Hospital shuttered its emergency department, with patients left lying on gurneys outside the operating theaters.
@@ -1794,7 +1800,7 @@ This will be the greatest, most rapid accelerant of wealth and prosperity in hum
 
 We are about to cross a critical threshold in the history of our species. This is what the nation-state will have to contend with over the next decade. In this chapter we run through some of the key examples of fragility amplification stemming from the coming wave. First let’s look more closely at this near-term risk: how bad actors will be able to launch new offensive operations. Such attacks could be lethal, broadly accessible, and a chance for someone to strike at scale with impunity.
 
-ROBOTS WITH GUNS:
+ROBOTS WITH GUNS:  
 THE PRIMACY OF OFFENSE
 
 In November 2020, Mohsen Fakhrizadeh was the head scientist and linchpin of Iran’s long effort to attain nuclear weapons. Patriotic, dedicated, highly experienced, he was a prime target for Iran’s adversaries. Cognizant of the risks, he kept his whereabouts and movements cloaked in secrecy with help from Iran’s security services.
@@ -1879,7 +1885,7 @@ The rise of synthetic media at scale and minimal cost amplifies both disinformat
 
 Not all stressors and harms come from bad actors, however. Some come from the best of intentions. Amplification of fragility is accidental as well as deliberate.
 
-LEAKY LABS AND
+LEAKY LABS AND  
 UNINTENDED INSTABILITY
 
 In one of the world’s most secure laboratories, a group of researchers were experimenting with a deadly pathogen. No one can be sure what happened next. Even with the benefit of hindsight, detail about the research is scant. What is certain is that, in a country famed for secrecy and government control, a strange new illness began appearing.
@@ -2008,7 +2014,7 @@ The nation-state will be subject to massive centrifugal and centripetal forces, 
 
 This ungovernable “post-sovereign” world, in the words of the political scientist Wendy Brown, will go far beyond a sense of near-term fragility; it will be instead a long-term macro-trend toward deep instability grinding away over decades. The first result will be massive new concentrations of power and wealth that reorder society.
 
-CONCENTRATIONS:
+CONCENTRATIONS:  
 THE COMPOUNDING RETURNS ON INTELLIGENCE
 
 From the Mongols to the Mughals, for more than a thousand years the most powerful force in Asia was a traditional empire. By 1800 that had changed. It was rather a private company, owned by a relatively small number of shareholders, run by a handful of dusty accountants and administrators operating out of a building just five windows wide in a city thousands of miles away.
@@ -2065,7 +2071,7 @@ In sum, returns on intelligence will compound exponentially. A select few artifi
 
 But the consequences of greater concentrations of power don’t end with corporations.
 
-SURVEILLANCE:
+SURVEILLANCE:  
 ROCKET FUEL FOR AUTHORITARIANISM
 
 When compared with superstar corporations, governments appear slow, bloated, and out of touch. It’s tempting to dismiss them as headed for the trash can of history. However, another inevitable reaction of nation-states will be to use the tools of the coming wave to tighten their grip on power, taking full advantage to entrench their dominance.
@@ -2110,7 +2116,7 @@ BEFORE THE COMING WAVE the notion of a global “high-tech panopticon” was the
 
 This raises the prospect of totalitarianism to a new plane. It won’t happen everywhere, and not all at once. But if AI, biotech, quantum, robotics, and the rest of it are centralized in the hands of a repressive state, the resulting entity would be palpably different from any yet seen. In the next chapter we will return to this possibility. However, before then comes another trend. One completely, and paradoxically, at odds with centralization.
 
-FRAGMENTATIONS:
+FRAGMENTATIONS:  
 POWER TO THE PEOPLE
 
 Hear the word “Hezbollah” and for most people it doesn’t suggest parliaments, schools, and hospitals. This is, after all, a militant organization born of the long tragedy of Lebanon’s civil war, with a track record of violence, officially classed as terrorist by the U.S. government and often acting as a proxy for Iranian interests. But there’s a lot more happening here, and it hints at an alternative direction for power and the state.
@@ -2163,7 +2169,7 @@ The techno-libertarian movement takes Ronald Reagan’s 1981 dictum “Governmen
 
 This is a world where billionaires and latter-day prophets can build and run microstates; where non-state actors from corporations to communes to algorithms begin to overshadow the state from above but also from below. Think again of the stirrup and the profound downstream effects of a single, simple invention. And then think of the scale of invention in the coming wave. Coupled with the existing pressures and fragility, sweeping change on the order of my speculation above doesn’t seem so far-out. What would be stranger is no radical change at all.
 
-THE COMING WAVE
+THE COMING WAVE  
 OF CONTRADICTIONS
 
 If centralization and decentralization sound as if they are in direct contradiction, that’s with good reason: they are. Understanding the future means handling multiple conflicting trajectories at once. The coming wave launches immense centralizing and decentralizing riptides at the same time. Both will be in play at once. Every individual, every business, every church, every nonprofit, every nation, will eventually have its own AI and ultimately its own bio and robotics capability. From a single individual on their sofa to the world’s largest organizations, each AI will aim to achieve the goals of its owner. Herein lies the key to understanding the coming wave of contradictions, a wave full of collisions.
@@ -2190,7 +2196,7 @@ Leaving us with no good options would be technology’s ultimate failure. Yet th
 
 THE DILEMMA
 
-CATASTROPHE:
+CATASTROPHE:  
 THE ULTIMATE FAILURE
 
 THE HISTORY OF HUMANITY IS, in part, a history of catastrophe. Pandemics feature widely. Two killed up to 30 percent of the world population: the sixth-century Plague of Justinian and the fourteenth-century Black Death. England’s population was seven million in 1300, but by 1450, crushed by waves of the plague, it was down to just two million.
@@ -2323,7 +2329,7 @@ The philosopher of technology Lewis Mumford talked about the “megamachine,” 
 
 To those who might say this repressive picture is where we are now, I’d say it’s nothing compared with what the future might hold. Nor is this the only possible dystopian pathway. There are many others, but this one is directly correlated with both the political challenges of the wave and its catastrophic potential. It is not just a vague thought experiment. Faced with this, we must ask these questions: Even though the drivers behind it seem so great and immovable, should humanity get off the train? Should we reject continual technological development altogether? Might it be time, however improbable, to have a moratorium on technology itself?
 
-STAGNATION:
+STAGNATION:  
 A DIFFERENT KIND OF CATASTROPHE
 
 Looking at our vast cities, the sturdy civic buildings built of steel and stone, the great chains of roads and rails stitching them all together, the immense landscaping and engineering works that manage their environments, there’s a tempting sense of permanence exuded by our society. Despite the weightlessness of the digital world, there’s a solidness and a profusion to the material world around us. It shapes our everyday expectations.
@@ -2384,7 +2390,7 @@ Over the last decade or so this dilemma has become even more pronounced, the tas
 
       PART IV
 
-THROUGH
+THROUGH  
 THE WAVE
 
 ---
@@ -2459,7 +2465,7 @@ The reality is that containment is not something that a government, or even a gr
 
 Regulation is not enough, but at least it’s a start. Bold steps. A real understanding of the stakes involved in the coming wave. In a world where containment seems like it’s not possible, all of this gestures toward a future where it might be.
 
-CONTAINMENT REVISITED:
+CONTAINMENT REVISITED:  
 A NEW GRAND BARGAIN
 
 Does any entity have the power to prevent mass proliferation while capturing the immense power and benefits arising from the coming wave? To stop bad actors acquiring a technology, or shape the spread of nascent ideas around it? As autonomy increases, can anyone or anything really hope to have meaningful control at the macro level? Containment means answering yes to questions like these. In theory, contained technology gets us out of the dilemma. It means at once harnessing and controlling the wave, a vital tool for building sustainable and flourishing societies, while checking it in ways that avoid serious catastrophe, but not so invasively as to invite dystopia. It means writing a new kind of grand bargain.
@@ -2470,24 +2476,24 @@ It’s tempting to think of containment in an obvious, literal sense, a kind of 
 
 Containment will need to respond to the nature of a technology, and channel it in directions that are easier to control. Recall the four features of the coming wave: asymmetry, hyper-evolution, omni-use, and autonomy. Each feature must be viewed through the lens of containability. Before outlining a strategy it’s worth asking the following kinds of questions to prompt promising avenues:
 
-*   > Is the technology omni-use and general-purpose or specific? A nuclear weapon is a highly specific technology with one purpose, whereas a computer is inherently multi-use. The more potential use cases, the more difficult to contain. Rather than general systems, then, those that are more narrowly scoped and domain specific should be encouraged.
-
-*   > Is the tech moving away from atoms toward bits? The more dematerialized a technology, the more it is subject to hard-to-control hyper-evolutionary effects. Areas like materials design or drug development are going to rapidly accelerate, making the pace of progress harder to track.
-
-*   > Are price and complexity coming down, and if so how fast? The price of fighter jets has not come down in the way the price of transistors or consumer hardware has. A threat originating in basic computing is of a wider nature than that of fighter jets, despite the latter’s obvious destructive potential.
-
-*   > Are there viable alternatives ready to go? CFCs could be banned partly because there are cheaper and safer alternatives for refrigeration. What alternatives are available? The more that safe alternatives are available, the easier it is to phase out use.
-
-*   > Does the technology enable asymmetric impact? Think of a drone swarm against the conventional military or a tiny computer or biological virus damaging vital social systems. The risk of certain technologies to surprise and exploit vulnerabilities is greater.
-
-*   > Does it have autonomous characteristics? Is there scope for self-learning, or operation without oversight? Think gene drives, viruses, malware, and of course robotics. The more a technology by design requires human intervention, the less chance there is of losing control.
-
-*   > Does it confer outsized geopolitical strategic advantage? Chemical weapons, for example, have limited advantages and lots of downsides, whereas getting ahead in AI or bio has enormous upsides, both economic and military. Saying no is consequently harder.
-
-*   > Does it favor offense or defense? In World War II the development of missiles like the V-2 helped offensive operations. But a technology like radar bolstered defense. Orienting development toward defense over offense tends toward containment.
-
-*   > Are there resource or engineering constraints on its invention, development, and deployment? Silicon chips require specialized and highly concentrated materials, machines, and knowledge. The talent available for a synthetic biology start-up is, in global terms, still quite small. Both help containment in the near term.
-
+-   > Is the technology omni-use and general-purpose or specific? A nuclear weapon is a highly specific technology with one purpose, whereas a computer is inherently multi-use. The more potential use cases, the more difficult to contain. Rather than general systems, then, those that are more narrowly scoped and domain specific should be encouraged.
+    
+-   > Is the tech moving away from atoms toward bits? The more dematerialized a technology, the more it is subject to hard-to-control hyper-evolutionary effects. Areas like materials design or drug development are going to rapidly accelerate, making the pace of progress harder to track.
+    
+-   > Are price and complexity coming down, and if so how fast? The price of fighter jets has not come down in the way the price of transistors or consumer hardware has. A threat originating in basic computing is of a wider nature than that of fighter jets, despite the latter’s obvious destructive potential.
+    
+-   > Are there viable alternatives ready to go? CFCs could be banned partly because there are cheaper and safer alternatives for refrigeration. What alternatives are available? The more that safe alternatives are available, the easier it is to phase out use.
+    
+-   > Does the technology enable asymmetric impact? Think of a drone swarm against the conventional military or a tiny computer or biological virus damaging vital social systems. The risk of certain technologies to surprise and exploit vulnerabilities is greater.
+    
+-   > Does it have autonomous characteristics? Is there scope for self-learning, or operation without oversight? Think gene drives, viruses, malware, and of course robotics. The more a technology by design requires human intervention, the less chance there is of losing control.
+    
+-   > Does it confer outsized geopolitical strategic advantage? Chemical weapons, for example, have limited advantages and lots of downsides, whereas getting ahead in AI or bio has enormous upsides, both economic and military. Saying no is consequently harder.
+    
+-   > Does it favor offense or defense? In World War II the development of missiles like the V-2 helped offensive operations. But a technology like radar bolstered defense. Orienting development toward defense over offense tends toward containment.
+    
+-   > Are there resource or engineering constraints on its invention, development, and deployment? Silicon chips require specialized and highly concentrated materials, machines, and knowledge. The talent available for a synthetic biology start-up is, in global terms, still quite small. Both help containment in the near term.
+    
 
 Where additional friction keeps things in the tangible world of atoms, for example, or makes things expensive, or if safer alternatives are easily available, there is more chance of containment because it is easier to slow the technologies down, limit access, or drop them altogether. Specific technologies are easier to regulate than omni-use technologies, but regulating omni-use is more important. Likewise, the more potential for offensive actions or autonomy, the greater the requirement for containment. If you can keep price and ease of access out of reach for many, proliferation becomes more difficult. Ask questions like these, and a holistic vision of containment begins to emerge.
 
@@ -2537,7 +2543,7 @@ It’s the way all these layers of the onion build that makes them powerful; eac
 
 Let’s start at the beginning, with the technology itself.
 
-1\. SAFETY: AN APOLLO PROGRAM
+1\. SAFETY: AN APOLLO PROGRAM  
 FOR TECHNICAL SAFETY
 
 A few years ago, many large language models had a problem. They were, to put it bluntly, racist. Users could quite easily find ways of making them regurgitate racist material, or hold racist opinions they had gleaned in scanning the vast corpus of texts on which they’d been trained. Toxic bias was, it seemed, ingrained in human writing and then amplified by AI. This led many to conclude the whole setup was ethically broken, morally nonviable; there was no way LLMs could be controlled well enough to be released to the public given the obvious harms.
@@ -2588,7 +2594,7 @@ The highest-level challenge, whether in synthetic biology, robotics, or AI, is b
 
 Too much safety work is incremental, focused on narrow impact assessments, small technical issues, or fixing problems that flare up postlaunch rather than working on foundational issues ahead of time. Instead, we should identify problems early and then invest more time and resources in the fundamentals. Think big. Create common standards. Safety features should not be afterthoughts but inherent design properties of all these new technologies, the ground state of everything that comes next. Despite the fierce challenges, I’m genuinely excited by the range and ingenuity of ideas here. Let’s give them the intellectual oxygen and material support to succeed, recognizing that while engineering is never the whole answer, it’s a fundamental part of it.
 
-2\. AUDITS: KNOWLEDGE IS POWER;
+2\. AUDITS: KNOWLEDGE IS POWER;  
 POWER IS CONTROL
 
 Audits sound boring. Necessary, maybe—but deadly dull. But they are critical to containment. Creating secure physical and virtual containers—the kind of work we just saw—is foundational. But alone, it’s insufficient. Actually having meaningful oversight and enforceable rules and reviewing technical implementations are vital. Technical safety advances and regulation will struggle to be effective if you can’t verify that they are working as intended. How can you be sure what’s really happening and check that you’re in control? It’s an immense technical and social challenge.
@@ -2695,7 +2701,7 @@ Encouraging experiments are underway. Facebook created its independent Oversight
 
 Containment needs a new generation of corporations. It needs founders and those working in tech to contribute positively to society. It also needs something altogether more difficult. It needs politics.
 
-6\. GOVERNMENTS: SURVIVE,
+6\. GOVERNMENTS: SURVIVE,  
 REFORM, REGULATE
 
 Technological problems require technological solutions, as we’ve seen, but alone they are never sufficient. We also need the state to flourish. Every effort to buttress liberal democratic states and steel them against the stressors must be supported. Nation-states still control many fundamental elements of civilization: law, the money supply, taxation, the military, and so on. That helps with the task ahead, where they will need to create and maintain resilient social systems, welfare nets, security architectures, and governance mechanisms capable of surviving severe stress. But they also need to know, in detail, what is happening: right now they’re operating blind in a hurricane.
@@ -2762,7 +2768,7 @@ Where there is a clear scope for a new body or bodies is with technical concerns
 
 Hard realism has a much better chance of success than vague and unlikely proposals. We don’t need to totally reinvent the institutional wheel, creating more opportunities for rivalry and grandstanding. We should just find every possible means of improving it—and fast.
 
-8\. CULTURE: RESPECTFULLY
+8\. CULTURE: RESPECTFULLY  
 EMBRACING FAILURE
 
 The common thread here is governance: of software systems, of microchips, of businesses and research institutes, of countries, and of the international community. At each level is a thicket of incentives, sunk costs, institutional inertia, conflicting fiefdoms and worldviews that must be cut through. Make no mistake. Ethics, safety, containment—these will be products of good governance above all. But good governance doesn’t just come from well-defined rules and effective institutional frameworks.
@@ -2807,7 +2813,7 @@ Here is a huge role for popular movements. Over the last five or so years, a bur
 
 Change happens when people demand it. The “we” that builds technology is scattered, subject to a mass of competing and different national, commercial, and research incentives. The more the “we” that is subject to it speaks clearly in one voice, a critical public mass agitating for change, demanding an alignment of approaches, the better chance of good outcomes. Anyone anywhere can make a difference. Fundamentally, neither technologists nor governments will solve this problem alone. But together “we” all might.
 
-10\. THE NARROW PATH:
+10\. THE NARROW PATH:  
 THE ONLY WAY IS THROUGH
 
 Just a few days after the release of GPT-4, thousands of AI scientists signed an open letter calling for a six-month moratorium on researching the most powerful AI models. Referencing the Asilomar principles, they cited reasons familiar to those reading this book: “Recent months have seen AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one—not even their creators—can understand, predict, or reliably control.” Shortly after, Italy banned ChatGPT. A complaint against LLMs was filed with the Federal Trade Commission aiming for much tighter regulatory control. Questions about AI risk were asked at the White House press briefing. Millions of people discussed the impacts of technology—at work, at the dinner table.
@@ -2973,7 +2979,7 @@ FOR A BIBLIOGRAPHY OF BOOKS consulted, please visit the website [the-coming-wave
 CHAPTER 1: CONTAINMENT IS NOT POSSIBLE
 
 1.  Costing a few tens of thousands For example, the Kilobaser DNA & RNA Synthesizer, sold starting at $25,000. See its website: [kilobaser.com/dna-and-rna-synthesizer](http://kilobaser.com/dna-and-rna-synthesizer).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id138/index_split_006.html#filepos49729)
 
 ---
@@ -2981,163 +2987,163 @@ CHAPTER 1: CONTAINMENT IS NOT POSSIBLE
 CHAPTER 2: ENDLESS PROLIFERATION
 
 1.  Twenty years after Benz’s patent TÜV Nord Group, “A Brief History of the Internal Combustion Engine,” TÜV Nord Group, April 18, 2019, [www.tuev-nord.de/explore/en/remembers/a-brief-history-of-the-internal-combustion-engine](http://www.tuev-nord.de/explore/en/remembers/a-brief-history-of-the-internal-combustion-engine).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos70124)
-
+    
 2.  Ford kept ramping up production Burton W. Folsom, “Henry Ford and the Triumph of the Auto Industry,” Foundation for Economic Education, Jan. 1, 1998, [fee.org/articles/henry-ford-and-the-triumph-of-the-auto-industry](http://fee.org/articles/henry-ford-and-the-triumph-of-the-auto-industry).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos70718)
-
+    
 3.  Around 1.4 billion “How Many Cars Are There in the World in 2023?,” Hedges & Company, June 2021, [hedgescompany.com/blog/2021/06/how-many-cars-are-there-in-the-world](http://hedgescompany.com/blog/2021/06/how-many-cars-are-there-in-the-world); “Internal Combustion Engine—the Road Ahead,” Industr, Jan. 22, 2019, [www.industr.com/en/internal-combustion-engine-the-road-ahead-2357709#](http://www.industr.com/en/internal-combustion-engine-the-road-ahead-2357709#).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos71318)
-
+    
 4.  It is the story of technology itself There is a voluminous academic debate over the precise definition of technology. In this book we go with a commonsense, everyday definition: the application of scientific knowledge (in the broadest possible sense) to produce tools or practical outcomes. However, the full, multifaceted complexity of the term is also acknowledged. Technology extends back into cultures and practices. It is not just transistors, screens, and keyboards. It is the explicit and tacit knowledge of coders, the social lives and societies that support them.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos72756)
-
+    
 5.  Technology has a clear Scholars of technology make distinctions between diffusion and proliferation that are for the most part elided here. We mean them more in their colloquial rather than formal senses.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos73107)
-
+    
 6.  As science produces new discoveries This also works in the other direction: technology produces new tools and insights that spur science, as when the steam engine helped clarify the need for the science of thermodynamics or sophisticated glasswork created the telescopes that transformed our understanding of space.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos73314)
-
+    
 7.  Put simply, a wave is a set Robert Ayres, “Technological Transformations and Long Waves. Part I,” Technological Forecasting and Social Change 37, no. 1 (March 1990), [www.sciencedirect.com/science/article/abs/pii/0040162590900573](http://www.sciencedirect.com/science/article/abs/pii/0040162590900573).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos74299)
-
+    
 8.  By “general-purpose” This term is surprisingly new for something that has become so central to the understanding of technology, dating back to an economics paper from the early 1990s. See Timothy F. Bresnahan and Manuel Trajtenberg, “General Purpose Technologies ‘Engines of Growth’?,” (working paper, NBER, Aug. 1992), [www.nber.org/papers/w4148](http://www.nber.org/papers/w4148).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos74484)
-
+    
 10.  It had a pronounced impact on evolution Richard Wrangham, Catching Fire: How Cooking Made Us Human (London: Profile Books, 2010).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos75870)
-
+     
 11.  General-purpose technologies ripple Account taken from Richard Lipsey, Kenneth Carlaw, and Clifford Bekar, Economic Transformations: General Purpose Technologies and Long-Term Economic Growth (Oxford: Oxford University Press, 2005).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos76864)
-
+     
 12.  Language, agriculture, writing Technically, language might again be regarded as a proto or foundational general-purpose technology.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos77387)
-
+     
 13.  One major study pegged Lipsey, Carlaw, and Bekar, Economic Transformations.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos77598)
-
+     
 14.  Throughout history, population size For a powerful account of how this process worked, see Oded Galor, The Journey of Humanity: The Origins of Wealth and Inequality (London: Bodley Head, 2022).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos78076)
-
+     
 15.  Bigger and more connected populations Michael Muthukrishna and Joseph Henrich, “Innovation in the Collective Brain,” Philosophical Transactions of the Royal Society B 371, no. 1690 (2016), [royalsocietypublishing.org/doi/10.1098/rstb.2015.0192](http://royalsocietypublishing.org/doi/10.1098/rstb.2015.0192).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos78248)
-
+     
 16.  At the dawn Galor, The Journey of Humanity, 46.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos79039)
-
+     
 17.  As the Harvard anthropologist Muthukrishna and Henrich, “Innovation in the Collective Brain.”
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos80213)
-
+     
 18.  The ten thousand years Lipsey, Carlaw, and Bekar, Economic Transformations.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos81704)
-
+     
 19.  And in the last hundred The remainder coming between 1000 BCE and 1700 CE.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos81902)
-
+     
 20.  For the futurist Alvin Toffler Alvin Toffler, The Third Wave (New York: Bantam, 1984). See also the work of Nikolai Kondratiev on long-cycle waves.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos82657)
-
+     
 21.  The great philosopher of technology Lewis Mumford, Technics and Civilization (Chicago: University of Chicago Press, 1934).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos82950)
-
+     
 22.  More recently the economist Carlota Perez, Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages (Cheltenham, U.K.: Edward Elgar, 2002).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos83120)
-
+     
 23.  Once diffusion starts, however Indeed, an early sign of accelerating proliferation might be that, compared with the millennia-long spread of water mills, within a few years of first being invented, the windmill was seen everywhere from the north of England to Syria. See Lynn White Jr., Medieval Technology and Social Change (Oxford: Oxford University Press, 1962), 87.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos84570)
-
+     
 24.  But just fifty years later Elizabeth L. Eisenstein, The Printing Press as an Agent of Change: Communications and Cultural Transformations in Early-Modern Europe (Cambridge, U.K.: Cambridge University Press, 1979).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos85078)
-
+     
 25.  In the seventeenth century Eltjo Buringh and Jan Luiten Van Zanden, “Charting the ‘Rise of the West’: Manuscripts and Printed Books in Europe, a Long-Term Perspective from the Sixth Through Eighteenth Centuries,” Journal of Economic History, June 1, 2009, [www.cambridge.org/core/journals/journal-of-economic-history/article/abs/charting-the-rise-of-the-west-manuscripts-and-printed-books-in-europe-a-longterm-perspective-from-the-sixth-through-eighteenth-centuries/0740F5F9030A706BB7E9FACCD5D975D4](http://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/charting-the-rise-of-the-west-manuscripts-and-printed-books-in-europe-a-longterm-perspective-from-the-sixth-through-eighteenth-centuries/0740F5F9030A706BB7E9FACCD5D975D4).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos85557)
-
+     
 26.  One analysis estimates Max Roser and Hannah Ritchie, “Price of Books: Productivity in Book Production,” Our World in Data, [ourworldindata.org/books](http://ourworldindata.org/books).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos85660)
-
+     
 27.  The first electricity power stations Polish Member Committee of the World Energy Council, “Energy Sector of the World and Poland: Beginnings, Development, Present State,” World Energy Council, Dec. 2014, [www.worldenergy.org/assets/images/imported/2014/12/Energy\_Sector\_of\_the\_world\_and\_Poland\_EN.pdf](http://www.worldenergy.org/assets/images/imported/2014/12/Energy_Sector_of_the_world_and_Poland_EN.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos85924)
-
+     
 28.  In 1900 global electricity generation Vaclav Smil, “Energy in the Twentieth Century: Resources, Conversions, Costs, Uses, and Consequences,” Annual Review of Energy and the Environment 25 (2000), [www.annualreviews.org/doi/pdf/10.1146/annurev.energy.25.1.21](http://www.annualreviews.org/doi/pdf/10.1146/annurev.energy.25.1.21).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos86263)
-
+     
 29.  As a result, the average person William D. Nordhaus, “Do Real Output and Real Wage Measures Capture Reality? The History of Lighting Suggests Not,” Cowles Foundation for Research in Economics at Yale University, Jan. 1996, [https://cowles.yale.edu/sites/default/files/2022-08/d0381.pdf](https://cowles.yale.edu/sites/default/files/2022-08/d0381.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos86674)
-
+     
 30.  Ten years later there were 5.8 million Galor, The Journey of Humanity, 46.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos87059)
-
+     
 32.  Today America has many If you include both landlines and mobile phones.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos87106)
-
+     
 33.  Increasing quality joins decreasing “Televisions Inflation Calculator,” Official Data Foundation, [www.in2013dollars.com/Televisions/price-inflation](http://www.in2013dollars.com/Televisions/price-inflation).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos87168)
-
+     
 34.  Mimicry spurs competition Anuraag Singh et al., “Technological Improvement Rate Predictions for All Technologies: Use of Patent Data and an Extended Domain Description,” Research Policy 50, no. 9 (Nov. 2021), [www.sciencedirect.com/science/article/pii/S0048733321000950#](http://www.sciencedirect.com/science/article/pii/S0048733321000950#). There are considerable variations between different sets of technology, however.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos88808)
-
+     
 35.  Like the internal combustion engine Of course, the proposals date back further, at least to Babbage and Lovelace in the nineteenth century.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos89636)
-
+     
 36.  By 1945, an important precursor George Dyson, Turing’s Cathedral: The Origins of the Digital Universe (London: Allen Lane, 2012).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos90205)
-
+     
 37.  Early in that decade IBM’s president Nick Carr, “How Many Computers Does the World Need? Fewer Than You Think,” Guardian, Feb. 21, 2008, [www.theguardian.com/technology/2008/feb/21/computing.supercomputers](http://www.theguardian.com/technology/2008/feb/21/computing.supercomputers).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos90948)
-
+     
 38.  Popular Mechanics magazine made James Meigs, “Inside the Future: How PopMech Predicted the Next 110 Years,” Popular Mechanics, Dec. 21, 2012, [www.popularmechanics.com/technology/a8562/inside-the-future-how-popmech-predicted-the-next-110-years-14831802/#](http://www.popularmechanics.com/technology/a8562/inside-the-future-how-popmech-predicted-the-next-110-years-14831802/#).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos91115)
-
+     
 39.  Their power has increased by ten See, for example, Darrin Qualman, “Unimaginable Output: Global Production of Transistors,” Darrin Qualman Blog, April 24, 2017, [www.darrinqualman.com/global-production-transistors/](http://www.darrinqualman.com/global-production-transistors/); Azeem Azhar, Exponential: How Accelerating Technology Is Leaving Us Behind and What to Do About It (London: Random House Business, 2021), 21; and Vaclav Smil, How the World Really Works: A Scientist’s Guide to Our Past, Present and Future (London: Viking, 2022), 128.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos92287)
-
+     
 40.  In the early 1970s John B. Smith, “Internet Chronology,” UNC Computer Science, [www.cs.unc.edu/~jbs/resources/Internet/internet\_chron.html](http://www.cs.unc.edu/~jbs/resources/Internet/internet_chron.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos92787)
-
+     
 41.  It created a yet more Azhar, Exponential, 219.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos93434)
-
+     
 42.  Now humans produce hundreds Ibid., 228.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id136/index_split_008.html#filepos93627)
 
 ---
@@ -3145,91 +3151,91 @@ CHAPTER 2: ENDLESS PROLIFERATION
 CHAPTER 3: THE CONTAINMENT PROBLEM
 
 1.  Understanding technology is, in part Robert K. Merton, On Social Structure and Science (Chicago: University of Chicago Press, 1996), gives the classic study, but see also Ulrich Beck, Risk Society: Toward a New Modernity (London: SAGE, 1992), for how society has become dominated by the management of risks it has itself created. See also Edward Tenner, Why Things Bite Back: Technology and the Revenge of Unintended Consequences (New York: Vintage, 1997), and Charles Perrow, Normal Accidents: Living with High-Risk Technologies (Princeton, N.J.: Princeton University Press, 1984).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos99032)
-
+    
 2.  For many, the word “containment” George F. Kennan, “The Sources of Soviet Conduct,” Foreign Affairs, July 1947, [www.cvce.eu/content/publication/1999/1/1/a0f03730-dde8-4f06-a6ed-d740770dc423/publishable\_en.pdf](http://www.cvce.eu/content/publication/1999/1/1/a0f03730-dde8-4f06-a6ed-d740770dc423/publishable_en.pdf).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos102389)
-
+    
 3.  As the printing press roared This account is taken from Anton Howes, “Age of Invention: Did the Ottomans Ban Print?,” Age of Invention, May 19, 2021, [antonhowes.substack.com/p/age-of-invention-did-the-ottomans](http://antonhowes.substack.com/p/age-of-invention-did-the-ottomans).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos105767)
-
+    
 4.  John Kay, the inventor Examples taken from Joel Mokyr, The Lever of Riches: Technological Creativity and Economic Progress (Oxford: Oxford University Press, 1990).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos108333)
-
+    
 5.  Similarly, China dismissed Harold Marcuse, “Ch’ien Lung (Qianlong) Letter to George III (1792),” UC Santa Barbara History Department, [marcuse.faculty.history.ucsb.edu/classes/2c/texts/1792QianlongLetterGeorgeIII.htm](http://marcuse.faculty.history.ucsb.edu/classes/2c/texts/1792QianlongLetterGeorgeIII.htm).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos109284)
-
+    
 6.  Few societies have ever See, for example, Joseph A. Tainter, The Collapse of Complex Societies (Cambridge, U.K.: Cambridge University Press, 1988), and Jared Diamond, Collapse: How Societies Choose to Fail or Survive (London: Penguin, 2005), for more on this process.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos111863)
-
+    
 7.  On September 11, 1933 Waldemar Kaempffert, “Rutherford Cools Atomic Energy Hope,” New York Times, Sept. 12, 1933, [timesmachine.nytimes.com/timesmachine/1933/09/12/99846601.html](http://timesmachine.nytimes.com/timesmachine/1933/09/12/99846601.html).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos113628)
-
+    
 9.  Weeks later a Boeing B-29 Alex Wellerstein, “Counting the Dead at Hiroshima and Nagasaki,” Bulletin of the Atomic Scientists, Aug. 4, 2020, [thebulletin.org/2020/08/counting-the-dead-at-hiroshima-and-nagasaki](http://thebulletin.org/2020/08/counting-the-dead-at-hiroshima-and-nagasaki).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos114454)
-
+    
 10.  In 1946 the Acheson-Lilienthal Report See David Lilienthal et al., “A Report on the International Control of Atomic Energy,” March 16, 1946, [fissilematerials.org/library/ach46.pdf](http://fissilematerials.org/library/ach46.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos116627)
-
+     
 11.  Although countries like China “Partial Test Ban Treaty,” Nuclear Threat Initiative, Feb. 2008, [www.nti.org/education-center/treaties-and-regimes/treaty-banning-nuclear-test-atmosphere-outer-space-and-under-water-partial-test-ban-treaty-ptbt/](http://www.nti.org/education-center/treaties-and-regimes/treaty-banning-nuclear-test-atmosphere-outer-space-and-under-water-partial-test-ban-treaty-ptbt/).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos116886)
-
+     
 12.  A turning point came in 1968 “Timeline of the Nuclear Nonproliferation Treaty (NPT),” Arms Control Association, Aug. 2022, [www.armscontrol.org/factsheets/Timeline-of-the-Treaty-on-the-Non-Proliferation-of-Nuclear-Weapons-NPT](http://www.armscontrol.org/factsheets/Timeline-of-the-Treaty-on-the-Non-Proliferation-of-Nuclear-Weapons-NPT).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos117075)
-
+     
 13.  After all, it was only in 2019 Liam Stack, “Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks,” New York Times, Oct. 24, 2019, [www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html](http://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos119528)
-
+     
 14.  Accidents are legion The accounts here are largely drawn from Eric Schlosser, Command and Control (London: Penguin, 2014), and John Hughes-Wilson, Eve of Destruction: The Inside Story of Our Dangerous Nuclear World (London: John Blake, 2021).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos119837)
-
+     
 15.  Tiny hardware malfunctions William Burr, “False Warnings of Soviet Missile Attacks Put U.S. Forces on Alert in 1979–1980,” National Security Archive, March 16, 2020, [nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-03-16/false-warnings-soviet-missile-attacks-during-1979-80-led-alert-actions-us-strategic-forces](http://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-03-16/false-warnings-soviet-missile-attacks-during-1979-80-led-alert-actions-us-strategic-forces).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos120544)
-
+     
 16.  North Korea went to extraordinary Paul K. Kerr, “Iran–North Korea–Syria Ballistic Missile and Nuclear Cooperation,” Congressional Research Service, Feb. 26, 2016, [sgp.fas.org/crs/nuke/R43480.pdf](http://sgp.fas.org/crs/nuke/R43480.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos121281)
-
+     
 17.  China, India, and Pakistan are Graham Allison, “Nuclear Terrorism: Did We Beat the Odds or Change Them?,” PRISM, May 15, 2018, [cco.ndu.edu/News/Article/1507316/nuclear-terrorism-did-we-beat-the-odds-or-change-them](http://cco.ndu.edu/News/Article/1507316/nuclear-terrorism-did-we-beat-the-odds-or-change-them).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos121478)
-
+     
 18.  Brazil and Argentina even José Goldemberg, “Looking Back: Lessons from the Denuclearization of Brazil and Argentina,” Arms Control Association, April 2006, [www.armscontrol.org/act/2006-04/looking-back-lessons-denuclearization-brazil-argentina](http://www.armscontrol.org/act/2006-04/looking-back-lessons-denuclearization-brazil-argentina).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos121683)
-
+     
 19.  Plenty of nuclear material Richard Stone, “Dirty Bomb Ingredients Go Missing from Chornobyl Monitoring Lab,” Science, March 25, 2022, [www.science.org/content/article/dirty-bomb-ingredients-go-missing-chornobyl-monitoring-lab](http://www.science.org/content/article/dirty-bomb-ingredients-go-missing-chornobyl-monitoring-lab).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos122178)
-
+     
 20.  In 2018, plutonium Patrick Malone and R. Jeffrey Smith, “Plutonium Is Missing, but the Government Says Nothing,” Center for Public Integrity, July 16, 2018, [publicintegrity.org/national-security/plutonium-is-missing-but-the-government-says-nothing](http://publicintegrity.org/national-security/plutonium-is-missing-but-the-government-says-nothing).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos122339)
-
+     
 21.  It may sound fanciful Zaria Gorvett, “The Lost Nuclear Bombs That No One Can Find,” BBC Future, Aug. 4, 2022, [www.bbc.com/future/article/20220804-the-lost-nuclear-bombs-that-no-one-can-find](http://www.bbc.com/future/article/20220804-the-lost-nuclear-bombs-that-no-one-can-find).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos122603)
-
+     
 22.  Chemical weapons were recently “Timeline of Syrian Chemical Weapons Activity, 2012–2022,” Arms Control Association, May 2021, [www.armscontrol.org/factsheets/Timeline-of-Syrian-Chemical-Weapons-Activity](http://www.armscontrol.org/factsheets/Timeline-of-Syrian-Chemical-Weapons-Activity).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos124717)
-
+     
 23.  Without them, modeling suggests Paul J. Young, “The Montreal Protocol Protects the Terrestrial Carbon Sink,” Nature, Aug. 18, 2021, [www.nature.com/articles/s41586-021-03737-3.epdf](http://www.nature.com/articles/s41586-021-03737-3.epdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id135/index_split_009.html#filepos125458)
 
 ---
@@ -3237,143 +3243,143 @@ CHAPTER 3: THE CONTAINMENT PROBLEM
 CHAPTER 4: THE TECHNOLOGY OF INTELLIGENCE
 
 1.  After just three pairs Natalie Wolchover, “How Many Different Ways Can a Chess Game Unfold?,” Popular Science, Dec. 15, 2010, [www.popsci.com/science/article/2010-12/fyi-how-many-different-ways-can-chess-game-unfold](http://www.popsci.com/science/article/2010-12/fyi-how-many-different-ways-can-chess-game-unfold).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos135770)
-
+    
 2.  In total, the board has “AlphaGo,” DeepMind, [www.deepmind.com/research/highlighted-research/alphago](http://www.deepmind.com/research/highlighted-research/alphago). Some, however, report an even higher number; for example, Scientific American cites 10360 configurations. See Christof Koch, “How the Computer Beat the Go Master,” Scientific American, March 19, 2016, [www.scientificamerican.com/article/how-the-computer-beat-the-go-master](http://www.scientificamerican.com/article/how-the-computer-beat-the-go-master).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos136039)
-
+    
 4.  The more technologies there are W. Brian Arthur, The Nature of Technology: What It Is and How It Evolves (London: Allen Lane, 2009), 31.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos144947)
-
+    
 5.  The technology scholar Everett Rogers Everett M. Rogers, Diffusion of Innovations (New York: Free Press, 1962), or see the writings on industrial revolutions from scholars like Joel Mokyr.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos145493)
-
+    
 6.  The engineer and futurist Ray Kurzweil Ray Kurzweil, How to Create a Mind: The Secret of Human Thought Revealed (New York: Viking Penguin, 2012).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos146147)
-
+    
 7.  We see this now on See, for example, Azalia Mirhoseini et al., “A Graph Placement Methodology for Fast Chip Design,” Nature, June 9, 2021, [www.nature.com/articles/s41586-021-03544-w](http://www.nature.com/articles/s41586-021-03544-w); and Lewis Grozinger et al., “Pathways to Cellular Supremacy in Biocomputing,” Nature Communications, Nov. 20, 2019, [www.nature.com/articles/s41467-019-13232-z](http://www.nature.com/articles/s41467-019-13232-z).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos146535)
-
+    
 8.  The breakthrough moment took Alex Krizhevsky et al., “ImageNet Classification with Deep Convolutional Neural Networks,” Neural Information Processing Systems, Sept. 30, 2012, [proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf](http://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos150415)
-
+    
 9.  In 2012, AlexNet beat Jerry Wei, “AlexNet: The Architecture That Challenged CNNs,” Towards Data Science, July 2, 2019, [towardsdatascience.com/alexnet-the-architecture-that-challenged-cnns-e406d5297951](http://towardsdatascience.com/alexnet-the-architecture-that-challenged-cnns-e406d5297951).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos152786)
-
+    
 10.  Thanks to deep learning Chanan Bos, “Tesla’s New HW3 Self-Driving Computer—It’s a Beast,” CleanTechnica, June 15, 2019, [cleantechnica.com/2019/06/15/teslas-new-hw3-self-driving-computer-its-a-beast-cleantechnica-deep-dive](http://cleantechnica.com/2019/06/15/teslas-new-hw3-self-driving-computer-its-a-beast-cleantechnica-deep-dive).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos153268)
-
+     
 11.  It helps fly drones Jeffrey De Fauw et al., “Clinically Applicable Deep Learning for Diagnosis and Referral in Retinal Disease,” Nature Medicine, Aug. 13, 2018, [www.nature.com/articles/s41591-018-0107-6](http://www.nature.com/articles/s41591-018-0107-6).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos154189)
-
+     
 12.  By the 2020s there were almost two thousand “Advances in Neural Information Processing Systems,” NeurIPS, [papers.nips.cc](http://papers.nips.cc).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos155129)
-
+     
 13.  In the last six years “Research & Development,” in Artificial Intelligence Index Report 2021, Stanford University Human-Centered Artificial Intelligence, March 2021, [aiindex.stanford.edu/wp-content/uploads/2021/03/2021-AI-Index-Report-\_Chapter-1.pdf](http://aiindex.stanford.edu/wp-content/uploads/2021/03/2021-AI-Index-Report-_Chapter-1.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos155181)
-
+     
 14.  Everywhere you look, software To paraphrase Marc Andreessen.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos156160)
-
+     
 15.  At DeepMind we developed systems “DeepMind AI Reduces Google Data Centre Cooling Bill by 40%,” DeepMind, July 20, 2016, [www.deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40](http://www.deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos157368)
-
+     
 16.  With 1.5 billion parameters “Better Language Models and Their Implications,” OpenAI, Feb. 14, 2019, [openai.com/blog/better-language-models](http://openai.com/blog/better-language-models).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos163868)
-
+     
 17.  Over the next few years See Martin Ford, Rule of the Robots: How Artificial Intelligence Will Transform Everything (London: Basic Books, 2021), for a developed comparison.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos166536)
-
+     
 18.  More realistically, the average American Amy Watson, “Average Reading Time in the U.S. from 2018 to 2021, by Age Group,” Statista, Aug. 3, 2022, [www.statista.com/statistics/412454/average-daily-time-reading-us-by-age](http://www.statista.com/statistics/412454/average-daily-time-reading-us-by-age).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos168468)
-
+     
 19.  First hundreds of millions Microsoft and NVIDIA built a transformer model with 530 billion parameters, the Megatron-Turing Natural Language Generation model (MT-NLG), thirty-one times larger than their own most powerful transformer models of just a year before. Then came Wu Dao, from the Beijing Academy of Artificial Intelligence, with an alleged 1.75 trillion parameters—ten times GPT-3. See, for example, Tanushree Shenwai, “Microsoft and NVIDIA AI Introduces MT-NLG: The Largest and Most Powerful Monolithic Transformer Language NLP Model,” MarkTech Post, Oct. 13, 2021, [www.marktechpost.com/2021/10/13/microsoft-and-nvidia-ai-introduces-mt-nlg-the-largest-and-most-powerful-monolithic-transformer-language-nlp-model](http://www.marktechpost.com/2021/10/13/microsoft-and-nvidia-ai-introduces-mt-nlg-the-largest-and-most-powerful-monolithic-transformer-language-nlp-model).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos169539)
-
+     
 20.  The Chinese company Alibaba “Alibaba DAMO Academy Creates World’s Largest AI Pre-training Model, with Parameters Far Exceeding Google and Microsoft,” Pandaily, Nov. 8, 2021, [pandaily.com/alibaba-damo-academy-creates-worlds-largest-ai-pre-training-model-with-parameters-far-exceeding-google-and-microsoft](http://pandaily.com/alibaba-damo-academy-creates-worlds-largest-ai-pre-training-model-with-parameters-far-exceeding-google-and-microsoft).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos169696)
-
+     
 22.  Google’s PaLM uses A fantastic image from Alyssa Vance, assuming each “drop” constitutes 0.5 milliliters: [mobile.twitter.com/alyssamvance/status/1542682154483589127](http://mobile.twitter.com/alyssamvance/status/1542682154483589127).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos170146)
-
+     
 23.  But it uses an efficient training William Fedus et al., “Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity,” Journal of Machine Learning Research, June 16, 2022, [arxiv.org/abs/2101.03961](http://arxiv.org/abs/2101.03961).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos174816)
-
+     
 24.  Or look at DeepMind’s Chinchilla Alberto Romero, “A New AI Trend: Chinchilla (70B) Greatly Outperforms GPT-3 (175B) and Gopher (280B),” Towards Data Science, April 11, 2022, [towardsdatascience.com/a-new-ai-trend-chinchilla-70b-greatly-outperforms-gpt-3-175b-and-gopher-280b-408b9b4510](http://towardsdatascience.com/a-new-ai-trend-chinchilla-70b-greatly-outperforms-gpt-3-175b-and-gopher-280b-408b9b4510).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos175140)
-
+     
 25.  At the other end of the spectrum See [github.com/karpathy/nanoGPT](http://github.com/karpathy/nanoGPT) for more details.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos175332)
-
+     
 26.  Meta has open-sourced Susan Zhang et al., “Democratizing Access to Large-Scale Language Models with OPT-175B,” Meta AI, May 3, 2022, [ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b](http://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos176548)
-
+     
 27.  Within days someone had found See, for example, [twitter.com/miolini/status/1634982361757790209](http://twitter.com/miolini/status/1634982361757790209).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos176874)
-
+     
 28.  One analysis suggests it makes engineers Eirini Kalliamvakou, “Research: Quantifying GitHub Copilot’s Impact on Developer Productivity and Happiness,” GitHub, Sept. 7, 2022, [github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness](http://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos178102)
-
+     
 29.  In the words of an eminent Matt Welsh, “The End of Programming,” Communications of the ACM, Jan. 2023, [cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext](http://cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos178361)
-
+     
 30.  Yet when given the same prompt Emily Sheng et al., “The Woman Worked as a Babysitter: On Biases in Language Generation,” arXiv, Oct. 23, 2019, [arxiv.org/pdf/1909.01326.pdf](http://arxiv.org/pdf/1909.01326.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos179196)
-
+     
 31.  Over many hours, Lemoine Nitasha Tiku, “The Google Engineer Who Thinks the Company’s AI Has Come to Life,” Washington Post, June 11, 2022, [www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine](http://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos184730)
-
+     
 32.  He told an incredulous Wired interviewer Steven Levy, “Blake Lemoine Says Google’s LaMDA AI Faces ‘Bigotry,’ ” Wired, June 17, 2022, [www.wired.com/story/blake-lemoine-google-lamda-ai-bigotry](http://www.wired.com/story/blake-lemoine-google-lamda-ai-bigotry).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos185245)
-
+     
 33.  “As soon as it works” Quoted in Moshe Y. Vardi, “Artificial Intelligence: Past and Future,” Communications of the ACM, Jan. 2012, [cacm.acm.org/magazines/2012/1/144824-artificial-intelligence-past-and-future/fulltext](http://cacm.acm.org/magazines/2012/1/144824-artificial-intelligence-past-and-future/fulltext).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos186894)
-
+     
 34.  They argue that AI may be slowing Joel Klinger et al., “A Narrowing of AI Research?,” Computers and Society, Jan. 11, 2022, [arxiv.org/abs/2009.10385](http://arxiv.org/abs/2009.10385).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos187541)
-
+     
 35.  Critics like NYU professor Gary Marcus Gary Marcus, “Deep Learning Is Hitting a Wall,” Nautilus, March 10, 2022, [nautil.us/deep-learning-is-hitting-a-wall-14467](http://nautil.us/deep-learning-is-hitting-a-wall-14467).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos187620)
-
+     
 36.  eminent professor of complexity Melanie Mitchell See Melanie Mitchell, Artificial Intelligence: A Guide for Thinking Humans (London: Pelican Books, 2020), and Steven Strogatz, “Melanie Mitchell Takes AI Research Back to Its Roots,” Quanta Magazine, April 19, 2021, [www.quantamagazine.org/melanie-mitchell-takes-ai-research-back-to-its-roots-20210419](http://www.quantamagazine.org/melanie-mitchell-takes-ai-research-back-to-its-roots-20210419).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos187925)
-
+     
 37.  I think it will be done The Alignment Research Center has already tested GPT-4 for precisely this kind of capability. GPT-4 was, at this stage, “ineffective” at acting autonomously, the research found. “GPT-4 System Card,” OpenAI, March 14, 2023, [cdn.openai.com/papers/gpt-4-system-card.pdf](http://cdn.openai.com/papers/gpt-4-system-card.pdf). Within days of launch people were getting surprisingly close; see, for example, [mobile.twitter.com/jacksonfall/status/1636107218859745286](http://mobile.twitter.com/jacksonfall/status/1636107218859745286). The version of the test here, though, requires far more autonomy than displayed there.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id133/index_split_011.html#filepos195740)
 
 ---
@@ -3381,175 +3387,175 @@ CHAPTER 4: THE TECHNOLOGY OF INTELLIGENCE
 CHAPTER 5: THE TECHNOLOGY OF LIFE
 
 1.  Just as everything from the steam engine Susan Hockfield, The Age of Living Machines: How Biology Will Build the Next Technology Revolution (New York: W. W. Norton, 2019).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos203571)
-
+    
 3.  Then, working on bacteria in 1973 Stanley N. Cohen et al., “Construction of Biologically Functional Bacterial Plasmids In Vitro,” PNAS, Nov. 1, 1973, [www.pnas.org/doi/abs/10.1073/pnas.70.11.3240](http://www.pnas.org/doi/abs/10.1073/pnas.70.11.3240).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos205558)
-
+    
 4.  This was a thirteen-year “Human Genome Project,” National Human Genome Research Institute, Aug. 24, 2022, [www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project](http://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos206597)
-
+    
 5.  While Moore’s law justifiably “Life 2.0,” Economist, Aug. 31, 2006, [www.economist.com/special-report/2006/08/31/life-20](http://www.economist.com/special-report/2006/08/31/life-20).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos207724)
-
+    
 6.  Thanks to ever-improving techniques See “The Cost of Sequencing a Human Genome,” National Human Genome Research Institute, Nov. 1, 2021, [www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost](http://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost); and Elizabeth Pennisi, “A $100 Genome? New DNA Sequencers Could Be a ‘Game Changer’ for Biology, Medicine,” Science, June 15, 2022, [www.science.org/content/article/100-genome-new-dna-sequencers-could-be-game-changer-biology-medicine](http://www.science.org/content/article/100-genome-new-dna-sequencers-could-be-game-changer-biology-medicine).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos207950)
-
+    
 7.  That is, the price dropped Azhar, Exponential, 41.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos208089)
-
+    
 8.  After the initial CRISPR paper Jian-Feng Li et al., “Multiplex and Homologous Recombination-Mediated Genome Editing in Arabidopsis and Nicotiana benthamiana Using Guide RNA and Cas9,” Nature Biotechnology, Aug. 31, 2013, [www.nature.com/articles/nbt.2654](http://www.nature.com/articles/nbt.2654).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos209691)
-
+    
 9.  Fields like RNA editing Sara Reardon, “Step Aside CRISPR, RNA Editing Is Taking Off,” Nature, Feb. 4, 2020, [www.nature.com/articles/d41586-020-00272-5](http://www.nature.com/articles/d41586-020-00272-5).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos210138)
-
+    
 10.  New techniques like Craspase Chunyi Hu et al., “Craspase Is a CRISPR RNA-Guided, RNA-Activated Protease,” Science, Aug. 25, 2022, [www.science.org/doi/10.1126/science.add5064](http://www.science.org/doi/10.1126/science.add5064).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos210267)
-
+     
 11.  CRISPR use cases are multiplying Michael Le Page, “Three People with Inherited Diseases Successfully Treated with CRISPR,” New Scientist, June 12, 2020, [www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr](http://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr); Jie Li et al., “Biofortified Tomatoes Provide a New Route to Vitamin D Sufficiency,” Nature Plants, May 23, 2022, [www.nature.com/articles/s41477-022-01154-6](http://www.nature.com/articles/s41477-022-01154-6).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos210694)
-
+     
 12.  In the future, it could offer Mohamed Fareh, “Reprogrammed CRISPR-Cas13b Suppresses SARS-CoV-2 Replication and Circumvents Its Mutational Escape Through Mismatch Tolerance,” Nature, July 13, 2021, [www.nature.com/articles/s41467-021-24577-9](http://www.nature.com/articles/s41467-021-24577-9); “How CRISPR Is Changing Cancer Research and Treatment,” National Cancer Institute, July 27, 2020, [www.cancer.gov/news-events/cancer-currents-blog/2020/crispr-cancer-research-treatment](http://www.cancer.gov/news-events/cancer-currents-blog/2020/crispr-cancer-research-treatment); Zhihao Zhang et al., “Updates on CRISPR-Based Gene Editing in HIV-1/AIDS Therapy,” Virologica Sinica, Feb. 2022, [www.sciencedirect.com/science/article/pii/S1995820X22000177](http://www.sciencedirect.com/science/article/pii/S1995820X22000177); Giulia Maule et al., “Gene Therapy for Cystic Fibrosis: Progress and Challenges of Genome Editing,” International Journal of Molecular Sciences, June 2020, [www.ncbi.nlm.nih.gov/pmc/articles/PMC7313467](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7313467).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos210902)
-
+     
 13.  These will create crops Raj Kumar Joshi, “Engineering Drought Tolerance in Plants Through CRISPR/Cas Genome Editing,” 3 Biotech, Sept. 2020, [www.ncbi.nlm.nih.gov/pmc/articles/PMC7438458](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7438458); Muhammad Rizwan Javed et al., “Current Situation of Biofuel Production and Its Enhancement by CRISPR/Cas9-Mediated Genome Engineering of Microbial Cells,” Microbiological Research, Feb. 2019, [www.sciencedirect.com/science/article/pii/S0944501318308346](http://www.sciencedirect.com/science/article/pii/S0944501318308346).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos211053)
-
+     
 14.  Today technologies like CRISPR Nessa Carey, Hacking the Code of Life: How Gene Editing Will Rewrite Our Futures (London: Icon Books, 2019), 136.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos211387)
-
+     
 15.  You can now buy a benchtop See, for example, [kilobaser.com/shop](http://kilobaser.com/shop).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos212103)
-
+     
 16.  Now they can print millions Yiren Lu, “The Gene Synthesis Revolution,” New York Times, Nov. 24, 2021, [www.nytimes.com/2021/11/24/magazine/gene-synthesis.html](http://www.nytimes.com/2021/11/24/magazine/gene-synthesis.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos213120)
-
+     
 17.  The London DNA Foundry “Robotic Labs for High-Speed Genetic Research Are on the Rise,” Economist, March 1, 2018, [www.economist.com/science-and-technology/2018/03/01/robotic-labs-for-high-speed-genetic-research-are-on-the-rise](http://www.economist.com/science-and-technology/2018/03/01/robotic-labs-for-high-speed-genetic-research-are-on-the-rise).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos213203)
-
+     
 19.  Companies such as DNA Script Bruce Rogers, “DNA Script Set to Bring World’s First DNA Printer to Market,” Forbes, May 17, 2021, [www.forbes.com/sites/brucerogers/2021/05/17/dna-script-set-to-bring-worlds-first-dna-printer-to-market](http://www.forbes.com/sites/brucerogers/2021/05/17/dna-script-set-to-bring-worlds-first-dna-printer-to-market).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos213364)
-
+     
 20.  Furthermore, new techniques Michael Eisenstein, “Enzymatic DNA Synthesis Enters New Phase,” Nature Biology, Oct. 5, 2020, [www.nature.com/articles/s41587-020-0695-9](http://www.nature.com/articles/s41587-020-0695-9).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos213677)
-
+     
 21.  Put it all together Synbio uses not just DNA synthesis but the growing understanding of how genes can be switched on and off, coupled with the discipline of metabolic engineering whereby cells can be encouraged to produce desired substances.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos214988)
-
+     
 22.  In the words of the Stanford bioengineer Drew Endy, “Endy:Research,” OpenWetWare, Aug. 4, 2017, [openwetware.org/wiki/Endy:Research](http://openwetware.org/wiki/Endy:Research).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos215077)
-
+     
 23.  In 2010 a team led by Craig Venter “First Self-Replicating Synthetic Bacterial Cell,” JCVI, [www.jcvi.org/research/first-self-replicating-synthetic-bacterial-cell](http://www.jcvi.org/research/first-self-replicating-synthetic-bacterial-cell).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos215912)
-
+     
 24.  Just three years later Jonathan E. Venetz et al., “Chemical Synthesis Rewriting of a Bacterial Genome to Achieve Design Flexibility and Biological Functionality,” PNAS, April 1, 2019, [www.pnas.org/doi/full/10.1073/pnas.1818259116](http://www.pnas.org/doi/full/10.1073/pnas.1818259116).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos216314)
-
+     
 25.  Now the global GP-write Consortium See GP-write Consortium, Center of Excellence for Engineering Biology, [engineeringbiologycenter.org/gp-write-consortium](http://engineeringbiologycenter.org/gp-write-consortium).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos216622)
-
+     
 26.  Using a gene for light-detecting proteins José-Alain Sahel et al., “Partial Recovery of Visual Function in a Blind Patient After Optogenetic Therapy,” Nature Medicine, May 24, 2021, [www.nature.com/articles/s41591-021-01351-4](http://www.nature.com/articles/s41591-021-01351-4).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos217833)
-
+     
 27.  CAR T-Cell therapies engineer bespoke “CureHeart—a Cure for Inherited Heart Muscle Diseases,” British Heart Foundation, [www.bhf.org.uk/what-we-do/our-research/cure-heart](http://www.bhf.org.uk/what-we-do/our-research/cure-heart); National Cancer Institute, “CAR T-Cell Therapy,” National Institutes of Health, [www.cancer.gov/publications/dictionaries/cancer-terms/def/car-t-cell-therapy](http://www.cancer.gov/publications/dictionaries/cancer-terms/def/car-t-cell-therapy).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos218097)
-
+     
 28.  The field of systems biology See, for example, Astrid M. Vicente et al., “How Personalised Medicine Will Transform Healthcare by 2030: The ICPerMed Vision,” Journal of Translational Medicine, April 28, 2020, [translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02316-w](http://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02316-w).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos218446)
-
+     
 29.  Its chief scientist, Richard Klausner Antonio Regalado, “How Scientists Want to Make You Young Again,” MIT Technology Review, Oct. 25, 2022, [www.technologyreview.com/2022/10/25/1061644/how-to-be-young-again](http://www.technologyreview.com/2022/10/25/1061644/how-to-be-young-again).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos219420)
-
+     
 30.  This experimental approach aims Jae-Hyun Yang et al., “Loss of Epigenetic Information as a Cause of Mammalian Aging,” Cell, Jan. 12, 2023, [www.cell.com/cell/fulltext/S0092-8674(22)01570-7](http://www.cell.com/cell/fulltext/S0092-8674\(22\)01570-7).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos219770)
-
+     
 31.  A world where life spans See, for example, David A. Sinclair and Matthew D. LaPlante, Lifespan: Why We Age—and Why We Don’t Have To (New York: Atria Books, 2019).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos220042)
-
+     
 32.  Initial work suggests memory See, for example, Harvard research on memory: “Researchers Identify a Neural Circuit and Genetic ‘Switch’ That Maintain Memory Precision,” Harvard Stem Cell Institute, March 12, 2018, [hsci.harvard.edu/news/researchers-identify-neural-circuit-and-genetic-switch-maintain-memory-precision](http://hsci.harvard.edu/news/researchers-identify-neural-circuit-and-genetic-switch-maintain-memory-precision).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos220565)
-
+     
 33.  Calls for a moratorium John Cohen, “New Call to Ban Gene-Edited Babies Divides Biologists,” Science, March 13, 2019, [www.science.org/content/article/new-call-ban-gene-edited-babies-divides-biologists](http://www.science.org/content/article/new-call-ban-gene-edited-babies-divides-biologists).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos221633)
-
+     
 34.  Arnold’s method is fifteen times S. B. Jennifer Kan et al., “Directed Evolution of Cytochrome C for Carbon-Silicon Bond Formation: Bringing Silicon to Life,” Science, Nov. 25, 2016, [www.science.org/doi/10.1126/science.aah6219](http://www.science.org/doi/10.1126/science.aah6219).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos222916)
-
+     
 35.  This kind of synthetic biology is helping James Urquhart, “Reprogrammed Bacterium Turns Carbon Dioxide into Chemicals on Industrial Scale,” Chemistry World, March 2, 2022, [www.chemistryworld.com/news/reprogrammed-bacterium-turns-carbon-dioxide-into-chemicals-on-industrial-scale/4015307.article](http://www.chemistryworld.com/news/reprogrammed-bacterium-turns-carbon-dioxide-into-chemicals-on-industrial-scale/4015307.article).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos223922)
-
+     
 36.  “What if we could grow” Elliot Hershberg, “Atoms Are Local,” Century of Bio, Nov. 7, 2022, [centuryofbio.substack.com/p/atoms-are-local](http://centuryofbio.substack.com/p/atoms-are-local).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos224588)
-
+     
 37.  Theoretically, the entirety of the world’s “The Future of DNA Data Storage,” Potomac Institute for Policy Studies, Sept. 2018, [potomacinstitute.org/images/studies/Future\_of\_DNA\_Data\_Storage.pdf](http://potomacinstitute.org/images/studies/Future_of_DNA_Data_Storage.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos225011)
-
+     
 39.  McKinsey estimates that up McKinsey Global Institute, “The Bio Revolution: Innovations Transforming Economies, Societies, and Our Lives,” McKinsey & Company, May 13, 2020, [www.mckinsey.com/industries/life-sciences/our-insights/the-bio-revolution-innovations-transforming-economies-societies-and-our-lives](http://www.mckinsey.com/industries/life-sciences/our-insights/the-bio-revolution-innovations-transforming-economies-societies-and-our-lives).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos225676)
-
+     
 40.  If you used traditional brute-force computation DeepMind, “AlphaFold: A Solution to a 50-Year-Old Grand Challenge in Biology,” DeepMind Research, Nov. 20, 2020, [www.deepmind.com/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology](http://www.deepmind.com/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos227245)
-
+     
 41.  Mohammed AlQuraishi, a well-known researcher Mohammed AlQuraishi, “AlphaFold @ CASP13: ‘What Just Happened?,’ ” Some Thoughts on a Mysterious Universe, Dec. 9, 2018, [moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened](http://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos229081)
-
+     
 42.  One headline said it all Tanya Lewis, “One of the Biggest Problems in Biology Has Finally Been Solved,” Scientific American, Oct. 31, 2022, [www.scientificamerican.com/article/one-of-the-biggest-problems-in-biology-has-finally-been-solved](http://www.scientificamerican.com/article/one-of-the-biggest-problems-in-biology-has-finally-been-solved).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos229855)
-
+     
 43.  The result has been an explosion Ewen Callaway, “What’s Next for AlphaFold and the AI Protein-Folding Revolution,” Nature, April 13, 2022, [www.nature.com/articles/d41586-022-00997-5](http://www.nature.com/articles/d41586-022-00997-5).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos230368)
-
+     
 44.  DeepMind uploaded some 200 million Madhumita Murgia, “DeepMind Research Cracks Structure of Almost Every Known Protein,” Financial Times, July 28, 2022, [www.ft.com/content/6a088953-66d7-48db-b61c-79005a0a351a](http://www.ft.com/content/6a088953-66d7-48db-b61c-79005a0a351a); DeepMind, “AlphaFold Reveals the Structure of the Protein Universe,” DeepMind Research, July 28, 2022, [www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe](http://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos231015)
-
+     
 45.  In 2019, electrodes surgically implanted Kelly Servick, “In a First, Brain Implant Lets Man with Complete Paralysis Spell Out ‘I Love My Cool Son,’ ” Science, March 22, 2022, [www.science.org/content/article/first-brain-implant-lets-man-complete-paralysis-spell-out-thoughts-i-love-my-cool-son](http://www.science.org/content/article/first-brain-implant-lets-man-complete-paralysis-spell-out-thoughts-i-love-my-cool-son).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos233192)
-
+     
 46.  Scientists at a start-up called Cortical Labs Brett J. Kagan et al., “In Vitro Neurons Learn and Exhibit Sentience When Embodied in a Simulated Game-World,” Neuron, Oct. 12, 2022, [www.cell.com/neuron/fulltext/S0896-6273(22)00806-6](http://www.cell.com/neuron/fulltext/S0896-6273\(22\)00806-6).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id132/index_split_012.html#filepos233759)
 
 ---
@@ -3557,67 +3563,67 @@ CHAPTER 5: THE TECHNOLOGY OF LIFE
 CHAPTER 6: THE WIDER WAVE
 
 1.  Amazon’s “first fully autonomous mobile robot” Mitchell Clark, “Amazon Announces Its First Fully Autonomous Mobile Warehouse Robot,” Verge, June 21, 2022, [www.theverge.com/2022/6/21/23177756/amazon-warehouse-robots-proteus-autonomous-cart-delivery](http://www.theverge.com/2022/6/21/23177756/amazon-warehouse-robots-proteus-autonomous-cart-delivery).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos242177)
-
+    
 2.  Amazon’s Sparrow is the first Dave Lee, “Amazon Debuts New Warehouse Robot That Can Do Human Jobs,” Financial Times, Nov. 10, 2022, [www.ft.com/content/c8933d73-74a4-43ff-8060-7ff9402eccf1](http://www.ft.com/content/c8933d73-74a4-43ff-8060-7ff9402eccf1).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos242446)
-
+    
 3.  Robots are already performing intricate surgery James Gaines, “The Past, Present, and Future of Robotic Surgery,” Smithsonian Magazine, Sept. 15, 2022, [www.smithsonianmag.com/innovation/the-past-present-and-future-of-robotic-surgery-180980763](http://www.smithsonianmag.com/innovation/the-past-present-and-future-of-robotic-surgery-180980763).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos242804)
-
+    
 4.  They built a fleet “Helper Robots for a Better Everyday,” Everyday Robots, [everydayrobots.com](http://everydayrobots.com).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos243633)
-
+    
 5.  With honeybee populations Chelsea Gohd, “Walmart Has Patented Autonomous Robot Bees,” World Economic Forum, March 19, 2018, [www.weforum.org/agenda/2018/03/autonomous-robot-bees-are-being-patented-by-walmart](http://www.weforum.org/agenda/2018/03/autonomous-robot-bees-are-being-patented-by-walmart).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos244751)
-
+    
 6.  As costs fall Artificial Intelligence Index Report 2021, [aiindex.stanford.edu/report](http://aiindex.stanford.edu/report).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos246076)
-
+    
 7.  The police department had a bomb disposal Sara Sidner and Mallory Simon, “How Robot, Explosives Took Out Dallas Sniper in Unprecedented Way,” CNN, July 12, 2016, [cnn.com/2016/07/12/us/dallas-police-robot-c4-explosives/index.html](http://cnn.com/2016/07/12/us/dallas-police-robot-c4-explosives/index.html).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos247362)
-
+    
 9.  In 2019, Google announced Elizabeth Gibney, “Hello Quantum World! Google Publishes Landmark Quantum Supremacy Claim,” Nature, Oct. 23, 2019, [www.nature.com/articles/d41586-019-03213-z](http://www.nature.com/articles/d41586-019-03213-z); Frank Arute et al., “Quantum Supremacy Using a Programmable Superconducting Processor,” Nature, Oct. 23, 2019, [www.nature.com/articles/s41586-019-1666-5](http://www.nature.com/articles/s41586-019-1666-5).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos249559)
-
+    
 10.  Chilled to a temperature colder Neil Savage, “Hands-On with Google’s Quantum Computer,” Scientific American, Oct. 24, 2019, [www.scientificamerican.com/article/hands-on-with-googles-quantum-computer](http://www.scientificamerican.com/article/hands-on-with-googles-quantum-computer).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos249774)
-
+     
 11.  To store equivalent information Gideon Lichfield, “Inside the Race to Build the Best Quantum Computer on Earth,” MIT Technology Review, Feb. 26, 2022, [www.technologyreview.com/2020/02/26/916744/quantum-computer-race-ibm-google](http://www.technologyreview.com/2020/02/26/916744/quantum-computer-race-ibm-google).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos250126)
-
+     
 12.  Its key attraction is that each Matthew Sparkes, “IBM Creates Largest Ever Superconducting Quantum Computer,” New Scientist, Nov. 15, 2021, [www.newscientist.com/article/2297583-ibm-creates-largest-ever-superconducting-quantum-computer](http://www.newscientist.com/article/2297583-ibm-creates-largest-ever-superconducting-quantum-computer).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos250580)
-
+     
 13.  Indeed, a relatively small number For certain tasks, at any rate. Charles Choi, “Quantum Leaps in Quantum Computing?,” Scientific American, Oct. 25, 2017, [www.scientificamerican.com/article/quantum-leaps-in-quantum-computing](http://www.scientificamerican.com/article/quantum-leaps-in-quantum-computing).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos250742)
-
+     
 14.  Renewable energy will become Camilla Hodgson, “Solar Power Expected to Surpass Coal in 5 Years, IEA Says,” Financial Times, Dec. 10, 2022, [www.ft.com/content/98cec49f-6682-4495-b7be-793bf2589c6d](http://www.ft.com/content/98cec49f-6682-4495-b7be-793bf2589c6d).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos255331)
-
+     
 15.  In 2000, solar energy cost “Solar PV Module Prices,” Our World in Data, [ourworldindata.org/grapher/solar-pv-prices](http://ourworldindata.org/grapher/solar-pv-prices).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos255707)
-
+     
 16.  With meaningful private capital Tom Wilson, “Nuclear Fusion: From Science Fiction to ‘When, Not If,’ ” Financial Times, Dec. 17, 2022, [www.ft.com/content/65e8f125-5985-4aa8-a027-0c9769e764ad](http://www.ft.com/content/65e8f125-5985-4aa8-a027-0c9769e764ad).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos257121)
-
+     
 17.  Scaled up, it could power a Tesla Eli Dourado, “Nanotechnology’s Spring,” Works in Progress, Oct. 12, 2022, [www.worksinprogress.co/issue/nanotechnologys-spring](http://www.worksinprogress.co/issue/nanotechnologys-spring).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id131/index_split_013.html#filepos259521)
 
 ---
@@ -3625,131 +3631,131 @@ CHAPTER 6: THE WIDER WAVE
 CHAPTER 7: FOUR FEATURES OF THE COMING WAVE
 
 1.  Instead, a unit of about thirty Julian Borger, “The Drone Operators Who Halted Russian Convoy Headed for Kyiv,” Guardian, March 28, 2022, [www.theguardian.com/world/2022/mar/28/the-drone-operators-who-halted-the-russian-armoured-vehicles-heading-for-kyiv](http://www.theguardian.com/world/2022/mar/28/the-drone-operators-who-halted-the-russian-armoured-vehicles-heading-for-kyiv).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos264057)
-
+    
 2.  A thousand-strong group of nonmilitary Marcin Wyrwał, “Wojna w Ukrainie. Jak sztuczna inteligencja zabija Rosjan,” Onet, July 13, 2022, [www.onet.pl/informacje/onetwiadomosci/rozwiazali-problem-armii-ukrainy-ich-pomysl-okazal-sie-dla-rosjan-zabojczy/pkzrk0z,79cfc278](http://www.onet.pl/informacje/onetwiadomosci/rozwiazali-problem-armii-ukrainy-ich-pomysl-okazal-sie-dla-rosjan-zabojczy/pkzrk0z,79cfc278).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos265543)
-
+    
 3.  A precision missile in a conventional Patrick Tucker, “AI Is Already Learning from Russia’s War in Ukraine, DOD Says,” Defense One, April 21, 2022, [www.defenseone.com/technology/2022/04/ai-already-learning-russias-war-ukraine-dod-says/365978](http://www.defenseone.com/technology/2022/04/ai-already-learning-russias-war-ukraine-dod-says/365978).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos266146)
-
+    
 4.  American, British, and European forces “Ukraine Support Tracker,” Kiel Institute for the World Economy, Dec. 2022, [www.ifw-kiel.de/index.php?id=17142](http://www.ifw-kiel.de/index.php?id=17142).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos266856)
-
+    
 5.  In the words of the security expert Audrey Kurth Cronin, Power to the People: How Open Technological Innovation Is Arming Tomorrow’s Terrorists (New York: Oxford University Press, 2020), 2.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos270591)
-
+    
 6.  The Shenzhen-based company DJI Scott Gilbertson, “Review: DJI Phantom 4,” Wired, April 22, 2016, [www.wired.com/2016/04/review-dji-phantom-4](http://www.wired.com/2016/04/review-dji-phantom-4).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos270878)
-
+    
 7.  Combating attacks is difficult Cronin, Power to the People, 320; Derek Hawkins, “A U.S. ‘Ally’ Fired a $3 Million Patriot Missile at a $200 Drone. Spoiler: The Missile Won,” Washington Post, March 17, 2017, [www.washingtonpost.com/news/morning-mix/wp/2017/03/17/a-u-s-ally-fired-a-3-million-patriot-missile-at-a-200-drone-spoiler-the-missile-won](http://www.washingtonpost.com/news/morning-mix/wp/2017/03/17/a-u-s-ally-fired-a-3-million-patriot-missile-at-a-200-drone-spoiler-the-missile-won).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos271270)
-
+    
 8.  Should it hold, in ten years Azhar, Exponential, 249.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos275517)
-
+    
 10.  Outside the weightless world of code See, for example, Michael Bhaskar, Human Frontiers: The Future of Big Ideas in an Age of Small Thinking (Cambridge, Mass.: MIT Press, 2021); Tyler Cowen, The Great Stagnation: How America Ate All the Low-Hanging Fruit of Modern History, Got Sick, and Will (Eventually) Feel Better (New York: Dutton, 2011); and Robert Gordon, The Rise and Fall of American Growth: The U.S. Standard of Living Since the Civil War (Princeton, N.J.: Princeton University Press, 2017), among many others.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos275790)
-
+     
 11.  César Hidalgo argues César Hidalgo, Why Information Grows: The Evolution of Order, from Atoms to Economies (London: Allen Lane, 2015).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos277188)
-
+     
 12.  AI already helps find new Neil Savage, “Machines Learn to Unearth New Materials,” Nature, June 30, 2021, [www.nature.com/articles/d41586-021-01793-3](http://www.nature.com/articles/d41586-021-01793-3).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos277833)
-
+     
 13.  For example, scientists have used Andrij Vasylenko et al., “Element Selection for Crystalline Inorganic Solid Discovery Guided by Unsupervised Machine Learning of Experimentally Explored Chemistry,” Nature Communications, Sept. 21, 2021, [www.nature.com/articles/s41467-021-25343-7](http://www.nature.com/articles/s41467-021-25343-7).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos277937)
-
+     
 14.  AI has helped design and build Matthew Greenwood, “Hypercar Created Using 3D Printing, AI, and Robotics,” Engineering.com, June 23, 2021, [www.engineering.com/story/hypercar-created-using-3d-printing-ai-and-robotics](http://www.engineering.com/story/hypercar-created-using-3d-printing-ai-and-robotics).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos278082)
-
+     
 15.  Now simulations speed up Elie Dolgin, “Could Computer Models Be the Key to Better COVID Vaccines?,” Nature, April 5, 2022, [www.nature.com/articles/d41586-022-00924-8](http://www.nature.com/articles/d41586-022-00924-8).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos278725)
-
+     
 16.  Computational tools help automate Anna Nowogrodzki, “The Automatic-Design Tools That Are Changing Synthetic Biology,” Nature, Dec. 10, 2018, [www.nature.com/articles/d41586-018-07662-w](http://www.nature.com/articles/d41586-018-07662-w).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos278791)
-
+     
 17.  Quantum technologies, many millions Vidar, “Google’s Quantum Computer Is About 158 Million Times Faster Than the World’s Fastest Supercomputer,” Medium, Feb. 28, 2021, [medium.com/predict/googles-quantum-computer-is-about-158-million-times-faster-than-the-world-s-fastest-supercomputer-36df56747f7f](http://medium.com/predict/googles-quantum-computer-is-about-158-million-times-faster-than-the-world-s-fastest-supercomputer-36df56747f7f).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos279820)
-
+     
 18.  Discovering new drugs Jack W. Scannell et al., “Diagnosing the Decline in Pharmaceutical R&D Efficiency,” Nature Reviews Drug Discovery, March 1, 2012, [www.nature.com/articles/nrd3681](http://www.nature.com/articles/nrd3681).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos280697)
-
+     
 19.  Life expectancy leveled off Patrick Heuveline, “Global and National Declines in Life Expectancy: An End-of-2021 Assessment,” Population and Development Review 48, no. 1 (March 2022), [onlinelibrary.wiley.com/doi/10.1111/padr.12477](http://onlinelibrary.wiley.com/doi/10.1111/padr.12477). These declines are, however, on the back of significant long-term improvements.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos280760)
-
+     
 20.  Progress on conditions like Alzheimer’s “Failed Drug Trials,” Alzheimer’s Research UK, [www.alzheimersresearchuk.org/blog-tag/drug-trials/failed-drug-trials](http://www.alzheimersresearchuk.org/blog-tag/drug-trials/failed-drug-trials).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos280844)
-
+     
 21.  AI techniques can search through Michael S. Ringel et al., “Breaking Eroom’s Law,” Nature Reviews Drug Discovery, April 16, 2020, [www.nature.com/articles/d41573-020-00059-3](http://www.nature.com/articles/d41573-020-00059-3).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos281079)
-
+     
 22.  In 2020 an AI system Jonathan M. Stokes, “A Deep Learning Approach to Antibiotic Discovery,” Cell, Feb. 20, 2020, [www.cell.com/cell/fulltext/S0092-8674(20)30102-1](http://www.cell.com/cell/fulltext/S0092-8674\(20\)30102-1).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos281192)
-
+     
 23.  Start-ups like Exscientia “Exscientia and Sanofi Establish Strategic Research Collaboration to Develop AI-Driven Pipeline of Precision-Engineered Medicines,” Sanofi, Jan. 7, 2022, [www.sanofi.com/en/media-room/press-releases/2022/2022-01-07-06-00-00-2362917](http://www.sanofi.com/en/media-room/press-releases/2022/2022-01-07-06-00-00-2362917).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos281430)
-
+     
 24.  To date eighteen clinical assets Nathan Benaich and Ian Hogarth, State of AI Report 2022, Oct. 11, 2022, [www.stateof.ai](http://www.stateof.ai).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos281564)
-
+     
 25.  In six hours it identified Fabio Urbina et al., “Dual Use of Artificial-Intelligence-Powered Drug Discovery,” Nature Machine Intelligence, March 7, 2022, [www.nature.com/articles/s42256-022-00465-9](http://www.nature.com/articles/s42256-022-00465-9).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos281974)
-
+     
 26.  At launch, the PlayStation 2 K. Thor Jensen, “20 Years Later: How Concerns About Weaponized Consoles Almost Sunk the PS2,” PCMag, May 9, 2020, [www.pcmag.com/news/20-years-later-how-concerns-about-weaponized-consoles-almost-sunk-the-ps2](http://www.pcmag.com/news/20-years-later-how-concerns-about-weaponized-consoles-almost-sunk-the-ps2); Associated Press, “Sony’s High-Tech Playstation2 Will Require Military Export License,” Los Angeles Times, April 17, 2000, [www.latimes.com/archives/la-xpm-2000-apr-17-fi-20482-story.html](http://www.latimes.com/archives/la-xpm-2000-apr-17-fi-20482-story.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos282820)
-
+     
 27.  A more appropriate term For more on the term “multi-use,” see, for example, Cronin, Power to the People.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos284110)
-
+     
 29.  Now single systems like DeepMind’s Scott Reed et al., “A Generalist Agent,” DeepMind, Nov. 10, 2022, [www.deepmind.com/publications/a-generalist-agent](http://www.deepmind.com/publications/a-generalist-agent).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos285049)
-
+     
 30.  Internal research on GPT-4 @GPT-4 Technical Report, OpenAI, March 14, 2023, [cdn.openai.com/papers/gpt-4.pdf](http://cdn.openai.com/papers/gpt-4.pdf). See [mobile.twitter.com/michalkosinski/status/1636683810631974912](http://mobile.twitter.com/michalkosinski/status/1636683810631974912) for one of the early experiments.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos290925)
-
+     
 31.  Early research even claimed Sébastien Bubeck et al., “Sparks of Artificial General Intelligence: Early Experiments with GPT-4,” arXiv, March 27, 2023, [arxiv.org/abs/2303.12712](http://arxiv.org/abs/2303.12712).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos291226)
-
+     
 32.  AIs are already finding ways Alhussein Fawzi et al., “Discovering Novel Algorithms with AlphaTensor,” DeepMind, Oct. 5, 2022, [www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor](http://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos293722)
-
+     
 33.  The AI researcher Stuart Russell Stuart Russell, Human Compatible: AI and the Problem of Control (London: Allen Lane, 2019).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos294681)
-
+     
 34.  Indeed, there is a strong case Manuel Alfonseca et al., “Superintelligence Cannot Be Contained: Lessons from Computability Theory,” Journal of Artificial Intelligence Research, Jan. 5, 2021, [jair.org/index.php/jair/article/view/12202](http://jair.org/index.php/jair/article/view/12202); Jaime Sevilla and John Burden, “Response to Superintelligence Cannot Be Contained: Lessons from Computability Theory,” Centre for the Study of Existential Risk, Feb. 25, 2021, [www.cser.ac.uk/news/response-superintelligence-contained](http://www.cser.ac.uk/news/response-superintelligence-contained).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id130/index_split_014.html#filepos295202)
 
 ---
@@ -3757,279 +3763,279 @@ CHAPTER 7: FOUR FEATURES OF THE COMING WAVE
 CHAPTER 8: UNSTOPPABLE INCENTIVES
 
 1.  Even days before its first public competition See, for example, Cade Metz, Genius Makers: The Mavericks Who Brought AI to Google, Facebook and the World (London: Random House Business, 2021), 170.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos297361)
-
+    
 2.  More than 280 million people Google, “The Future of Go Summit: 23 May–27 May, Wuzhen, China,” Google Events, events.google.com/alphago2017 \[inactive\].
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos299137)
-
+    
 3.  This was a crisis for America Paul Dickson, “Sputnik’s Impact on America,” Nova, PBS, Nov. 6, 2007, [www.pbs.org/wgbh/nova/article/sputnik-impact-on-america](http://www.pbs.org/wgbh/nova/article/sputnik-impact-on-america).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos304325)
-
+    
 4.  In the words of Xi Jinping Lo De Wei, “Full Text of Xi Jinping’s Speech at China’s Party Congress,” Bloomberg, Oct. 18, 2022, [www.bloomberg.com/news/articles/2022-10-18/full-text-of-xi-jinping-s-speech-at-china-20th-party-congress-2022](http://www.bloomberg.com/news/articles/2022-10-18/full-text-of-xi-jinping-s-speech-at-china-20th-party-congress-2022).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos306616)
-
+    
 5.  China’s top-down model See, for example, Nigel Inkster, The Great Decoupling: China, America and the Struggle for Technological Supremacy (London: Hurst, 2020).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos306916)
-
+    
 6.  “By 2030, China’s AI theories” Graham Webster et al., “Full Translation: China’s ‘New Generation Artificial Intelligence Development Plan,’ ” DigiChina, Stanford University, Aug. 1, 2017, [digichina.stanford.edu/work/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017](http://digichina.stanford.edu/work/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos307385)
-
+    
 7.  Indeed, Tsinghua publishes more Benaich and Hogarth, State of AI; Neil Savage, “The Race to the Top Among the World’s Leaders in Artificial Intelligence,” Nature Index, Dec. 9, 2020, [www.nature.com/articles/d41586-020-03409-8](http://www.nature.com/articles/d41586-020-03409-8); “Tsinghua University May Soon Top the World League in Science Research,” Economist, Nov. 17, 2018, [www.economist.com/china/2018/11/17/tsinghua-university-may-soon-top-the-world-league-in-science-research](http://www.economist.com/china/2018/11/17/tsinghua-university-may-soon-top-the-world-league-in-science-research).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos308068)
-
+    
 8.  China has a growing and impressive Sarah O’Meara, “Will China Lead the World in AI by 2030?,” Nature, Aug. 21, 2019, [www.nature.com/articles/d41586-019-02360-7](http://www.nature.com/articles/d41586-019-02360-7); Akira Oikawa and Yuta Shimono, “China Overtakes US in AI Research,” Nikkei Asia, Aug. 10, 2021, [asia.nikkei.com/Spotlight/Datawatch/China-overtakes-US-in-AI-research](http://asia.nikkei.com/Spotlight/Datawatch/China-overtakes-US-in-AI-research).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos308170)
-
+    
 9.  In terms of volume of AI research Daniel Chou, “Counting AI Research: Exploring AI Research Output in English- and Chinese-Language Sources,” Center for Security and Emerging Technology, July 2022, [cset.georgetown.edu/publication/counting-ai-research](http://cset.georgetown.edu/publication/counting-ai-research).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos308257)
-
+    
 10.  China overtook the United States Remco Zwetsloot, “China Is Fast Outpacing U.S. STEM PhD Growth,” Center for Security and Emerging Technology, Aug. 2021, [cset.georgetown.edu/publication/china-is-fast-outpacing-u-s-stem-phd-growth](http://cset.georgetown.edu/publication/china-is-fast-outpacing-u-s-stem-phd-growth).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos308757)
-
+     
 12.  In the early years of the twenty-first century Graham Allison et al., “The Great Tech Rivalry: China vs the U.S.,” Harvard Kennedy School Belfer Center, Dec. 2021, [www.belfercenter.org/sites/default/files/GreatTechRivalry\_ChinavsUS\_211207.pdf](http://www.belfercenter.org/sites/default/files/GreatTechRivalry_ChinavsUS_211207.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos309159)
-
+     
 13.  On current trends it will Xinhua, “China Authorizes Around 700,000 Invention Patents in 2021: Report,” XinhuaNet, Jan. 8, 2021, [english.news.cn/20220108/ded0496b77c24a3a8712fb26bba390c3/c.html](http://english.news.cn/20220108/ded0496b77c24a3a8712fb26bba390c3/c.html); “U.S. Patent Statistics Chart, Calendar Years 1963–2020,” U.S. Patent and Trademark Office, May 2021, [www.uspto.gov/web/offices/ac/ido/oeip/taf/us\_stat.htm](http://www.uspto.gov/web/offices/ac/ido/oeip/taf/us_stat.htm). Figures for the United States are, however, from 2020. It’s also important to say that high-value patents are also growing quickly: State Council of the People’s Republic of China, “China Sees Growing Number of Invention Patents,” Xinhua, Jan. 2022, [english.www.gov.cn/statecouncil/ministries/202201/12/content\_WS61deb7c8c6d09c94e48a3883.html](http://english.www.gov.cn/statecouncil/ministries/202201/12/content_WS61deb7c8c6d09c94e48a3883.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos309312)
-
+     
 14.  It has more of the world’s Joseph Hincks, “China Now Has More Supercomputers Than Any Other Country,” Time, Nov. 14, 2017, [time.com/5022859/china-most-supercomputers-world](http://time.com/5022859/china-most-supercomputers-world).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos309590)
-
+     
 15.  Xi Jinping has explicitly called Jason Douglas, “China’s Factories Accelerate Robotics Push as Workforce Shrinks,” Wall Street Journal, Sept. 18, 2022, [www.wsj.com/articles/chinas-factories-accelerate-robotics-push-as-workforce-shrinks-11663493405](http://www.wsj.com/articles/chinas-factories-accelerate-robotics-push-as-workforce-shrinks-11663493405).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos309886)
-
+     
 16.  In 2014, China filed the same number Allison et al., “Great Tech Rivalry.”
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos310562)
-
+     
 17.  A year later the Chinese built Zhang Zhihao, “Beijing-Shanghai Quantum Link a ‘New Era,’ ” China Daily USA, Sept. 30, 2017, [usa.chinadaily.com.cn/china/2017-09/30/content\_32669867.htm](http://usa.chinadaily.com.cn/china/2017-09/30/content_32669867.htm).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos310975)
-
+     
 18.  They’re investing more than $10 billion Amit Katwala, “Why China’s Perfectly Placed to Be Quantum Computing’s Superpower,” Wired, Nov. 14, 2018, [www.wired.co.uk/article/quantum-computing-china-us](http://www.wired.co.uk/article/quantum-computing-china-us).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos311140)
-
+     
 19.  Hefei scientists even claimed to have built Han-Sen Zhong et al., “Quantum Computational Advantage Using Photons,” Science, Dec. 3, 2020, [www.science.org/doi/10.1126/science.abe8770](http://www.science.org/doi/10.1126/science.abe8770).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos311444)
-
+     
 20.  Micius’s lead researcher Quoted in Amit Katwala, Quantum Computing (London: Random House Business, 2021), 88.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos311629)
-
+     
 21.  China is already ahead Allison et al., “Great Tech Rivalry.”
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos313135)
-
+     
 22.  “We have no competing fighting chance” Katrina Manson, “US Has Already Lost AI Fight to China, Says Ex-Pentagon Software Chief,” Financial Times, Oct. 10, 2021, [www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0](http://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos313420)
-
+     
 23.  “Advanced technology is the sharp weapon” Quoted in Inkster, The Great Decoupling, 193.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos313795)
-
+     
 24.  Almost every country now For a detailed breakdown, see “National AI Policies & Strategies,” OECD.AI, [oecd.ai/en/dashboards](http://oecd.ai/en/dashboards).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos317810)
-
+     
 25.  Vladimir Putin believes the leader “Putin: Leader in Artificial Intelligence Will Rule World,” CNBC, Sept. 4, 2017, [www.cnbc.com/2017/09/04/putin-leader-in-artificial-intelligence-will-rule-world.html](http://www.cnbc.com/2017/09/04/putin-leader-in-artificial-intelligence-will-rule-world.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos317907)
-
+     
 26.  The French president Emmanuel Macron Thomas Macaulay, “Macron’s Dream of a European Metaverse Is Far from a Reality,” Next Web, Sept. 14, 2022, [thenextweb.com/news/prospects-for-europes-emerging-metaverse-sector-macron-vestager-meta](http://thenextweb.com/news/prospects-for-europes-emerging-metaverse-sector-macron-vestager-meta).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos317997)
-
+     
 27.  Security, wealth, prestige “France 2030,” Agence Nationale de la Recherche, Feb. 27, 2023, [anr.fr/en/france-2030/france-2030](http://anr.fr/en/france-2030/france-2030).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos318320)
-
+     
 28.  By 2030 its economy “India to Be a $30 Trillion Economy by 2050: Gautam Adani,” Economic Times, April 22, 2022, [economictimes.indiatimes.com/news/economy/indicators/india-to-be-a-30-trillion-economy-by-2050-gautam-adani/articleshow/90985771.cms](http://economictimes.indiatimes.com/news/economy/indicators/india-to-be-a-30-trillion-economy-by-2050-gautam-adani/articleshow/90985771.cms).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos319092)
-
+     
 29.  Under it, India established Trisha Ray and Akhil Deo, “Priorities for a Technology Foreign Policy for India,” Washington International Trade Association, Sept. 25, 2020, [www.wita.org/atp-research/tech-foreign-policy-india](http://www.wita.org/atp-research/tech-foreign-policy-india).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos319612)
-
+     
 30.  We live in an age Cronin, Power to the People.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos324189)
-
+     
 31.  For example, GitHub has Neeraj Kashyap, “GitHub’s Path to 128M Public Repositories,” Towards Data Science, March 4, 2020, [towardsdatascience.com/githubs-path-to-128m-public-repositories-f6f656ab56b1](http://towardsdatascience.com/githubs-path-to-128m-public-repositories-f6f656ab56b1).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos327374)
-
+     
 33.  The original such service arXiv, “About ArXiv,” [arxiv.org/about](http://arxiv.org/about).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos327584)
-
+     
 34.  The great stock of the world’s “The General Index,” Internet Archive, Oct. 7, 2021, [archive.org/details/GeneralIndex](http://archive.org/details/GeneralIndex).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos327760)
-
+     
 35.  Worldwide R&D spending “Research and Development: U.S. Trends and International Comparisons,” National Center for Science and Engineering Statistics, April 28, 2022, [ncses.nsf.gov/pubs/nsb20225](http://ncses.nsf.gov/pubs/nsb20225).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos328308)
-
+     
 36.  Amazon’s R&D budget alone Prableen Bajpai, “Which Companies Spend the Most in Research and Development (R&D)?,” Nasdaq, June 21, 2021, [www.nasdaq.com/articles/which-companies-spend-the-most-in-research-and-development-rd-2021-06-21](http://www.nasdaq.com/articles/which-companies-spend-the-most-in-research-and-development-rd-2021-06-21).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos328403)
-
+     
 37.  Alphabet, Apple, Huawei, Meta “Huawei Pumps $22 Billion into R&D to Beat U.S. Sanctions,” Bloomberg News, April 25, 2022, [www.bloomberg.com/news/articles/2022-04-25/huawei-rivals-apple-meta-with-r-d-spending-to-beat-sanctions](http://www.bloomberg.com/news/articles/2022-04-25/huawei-rivals-apple-meta-with-r-d-spending-to-beat-sanctions); Jennifer Saba, “Apple Has the Most Growth Fuel in Hand,” Reuters, Oct. 28, 2021, [www.reuters.com/breakingviews/apple-has-most-growth-fuel-hand-2021-10-28](http://www.reuters.com/breakingviews/apple-has-most-growth-fuel-hand-2021-10-28).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos328526)
-
+     
 38.  And yet it was also LeCun Metz, Genius Makers, 58.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos331029)
-
+     
 39.  NVIDIA wasn’t complaining Mitchell, Artificial Intelligence, 103.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos331884)
-
+     
 40.  Two hundred and fifty passengers “First in the World: The Making of the Liverpool and Manchester Railway,” Science+Industry Museum, Dec. 20, 2018, [www.scienceandindustrymuseum.org.uk/objects-and-stories/making-the-liverpool-and-manchester-railway](http://www.scienceandindustrymuseum.org.uk/objects-and-stories/making-the-liverpool-and-manchester-railway).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos333996)
-
+     
 41.  Five years in, it was delivering This and the wider account are drawn from William Quinn and John D. Turner, Boom and Bust: A Global History of Financial Bubbles (Cambridge, U.K.: Cambridge University Press, 2022).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos334242)
-
+     
 42.  At their peak, railway stocks Ibid.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos334706)
-
+     
 43.  The railway boom of the 1840s “The Beauty of Bubbles,” Economist, Dec. 18, 2008, [www.economist.com/christmas-specials/2008/12/18/the-beauty-of-bubbles](http://www.economist.com/christmas-specials/2008/12/18/the-beauty-of-bubbles).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos335932)
-
+     
 44.  Carlota Perez sees an equivalent Perez, Technological Revolutions and Financial Capital.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos336274)
-
+     
 45.  Science has to be converted An extensive economics literature examines the microeconomics of innovation, showing how sensitive and wrapped in economic incentives this process is. See, for example, Lipsey, Carlaw, and Bekar, Economic Transformations, for an overview.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos336831)
-
+     
 46.  Per capita GDP has risen See Angus Maddison, The World Economy: A Millenarian Perspective (Paris: OECD Publications, 2001), or the more up-to-date “GDP Per Capita, 1820 to 2018,” Our World in Data, [ourworldindata.org/grapher/gdp-per-capita-maddison-2020?yScale=log](http://ourworldindata.org/grapher/gdp-per-capita-maddison-2020?yScale=log).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos338784)
-
+     
 47.  Now, globally, this sits Nishant Yonzan et al., “Projecting Global Extreme Poverty up to 2030: How Close Are We to World Bank’s 3% Goal?,” World Bank Data Blog, Oct. 9, 2020, [blogs.worldbank.org/opendata/projecting-global-extreme-poverty-2030-how-close-are-we-world-banks-3-goal](http://blogs.worldbank.org/opendata/projecting-global-extreme-poverty-2030-how-close-are-we-world-banks-3-goal).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos339017)
-
+     
 48.  In the nineteenth century, inventions Alan Greenspan and Adrian Wooldridge, Capitalism in America: A History (London: Allen Lane, 2018), 15.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos339356)
-
+     
 49.  Isaac Singer’s sewing machine Ibid., 47.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos339503)
-
+     
 50.  In Germany, for example Charlie Giattino and Esteban Ortiz-Ospina, “Are We Working More Than Ever?,” Our World in Data, [ourworldindata.org/working-more-than-ever](http://ourworldindata.org/working-more-than-ever).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos339697)
-
+     
 51.  Tech is by far the biggest “S&P 500 Data,” S&P Dow Jones Indices, July 2022, [www.spglobal.com/spdji/en/indices/equity/sp-500/#data](http://www.spglobal.com/spdji/en/indices/equity/sp-500/#data).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos341709)
-
+     
 52.  Hundreds of billions of dollars In 2021 alone more than $600 billion of venture capital was invested globally, mainly in tech and biotech businesses, ten times the amount a decade earlier. See Gené Teare, “Funding and Unicorn Creation in 2021 Shattered All Records,” Crunchbase News, Jan. 5, 2022, [news.crunchbase.com/business/global-vc-funding-unicorns-2021-monthly-recap](http://news.crunchbase.com/business/global-vc-funding-unicorns-2021-monthly-recap). Meanwhile, private equity investments in technology also spiked to more than $400 billion in 2021, by far the largest single category. See Laura Cooper and Preeti Singh, “Private Equity Backs Record Volume of Tech Deals,” Wall Street Journal, Jan. 3, 2022, [www.wsj.com/articles/private-equity-backs-record-volume-of-tech-deals-11641207603](http://www.wsj.com/articles/private-equity-backs-record-volume-of-tech-deals-11641207603).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos342254)
-
+     
 54.  Investment in AI technologies See, for example, Artificial Intelligence Index Report 2021, although the numbers have certainly grown in the generative AI boom since then.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos342407)
-
+     
 55.  PwC forecasts AI will add “Sizing the Prize—PwC’s Global Artificial Intelligence Study: Exploiting the AI Revolution,” PwC, 2017, [www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html](http://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos342999)
-
+     
 56.  McKinsey forecasts a $4 trillion boost Jacques Bughin et al., “Notes from the AI Frontier: Modeling the Impact of AI on the World Economy,” McKinsey, Sept. 4, 2018, [www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy](http://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy); Michael Ciu, “The Bio Revolution: Innovations Transforming Economies, Societies, and Our Lives,” McKinsey Global Institute, May 13, 2020, [www.mckinsey.com/industries/pharmaceuticals-and-medical-products/our-insights/the-bio-revolution-innovations-transforming-economies-societies-and-our-lives](http://www.mckinsey.com/industries/pharmaceuticals-and-medical-products/our-insights/the-bio-revolution-innovations-transforming-economies-societies-and-our-lives).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos343086)
-
+     
 57.  Boosting world robot installations “How Robots Change the World,” Oxford Economics, June 26, 2019, [resources.oxfordeconomics.com/hubfs/How%20Robots%20Change%20the%20World%20(PDF).pdf](http://resources.oxfordeconomics.com/hubfs/How%20Robots%20Change%20the%20World%20\(PDF\).pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos343167)
-
+     
 58.  Consider that the world economy The World Economy in the Second Half of the Twentieth Century,” OECD, Sept. 22, 2006, [read.oecd-ilibrary.org/development/the-world-economy/the-world-economy-in-the-second-half-of-the-twentieth-century\_9789264022621-5-en#page1](http://read.oecd-ilibrary.org/development/the-world-economy/the-world-economy-in-the-second-half-of-the-twentieth-century_9789264022621-5-en#page1).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos344343)
-
+     
 59.  With generalist AI Philip Trammell et al., “Economic Growth Under Transformative AI,” Global Priorities Institute, Oct. 2020, [globalprioritiesinstitute.org/wp-content/uploads/Philip-Trammell-and-Anton-Korinek\_economic-growth-under-transformative-ai.pdf](http://globalprioritiesinstitute.org/wp-content/uploads/Philip-Trammell-and-Anton-Korinek_economic-growth-under-transformative-ai.pdf). This leads to the extraordinary and impossible scenario of an increase “rapid enough to produce infinite output in a finite period of time.”
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos345997)
-
+     
 60.  Assuming favorable weather conditions Hannah Ritchie et al., “Crop Yields,” Our World in Data, [ourworldindata.org/crop-yields](http://ourworldindata.org/crop-yields).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos348310)
-
+     
 61.  In the twenty-first century, yields “Farming Statistics—Final Crop Areas, Yields, Livestock Populations and Agricultural Workforce at 1 June 2020 United Kingdom,” U.K. Government Department for Environment, Food & Rural Affairs, Dec. 22, 2020, [assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/946161/structure-jun2020final-uk-22dec20.pdf](http://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946161/structure-jun2020final-uk-22dec20.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos348751)
-
+     
 62.  Corn yields per hectare Ritchie et al., “Crop Yields.”
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos348994)
-
+     
 63.  The labor required Smil, How the World Really Works, 66.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos349084)
-
+     
 64.  In 1945, around 50 percent Max Roser and Hannah Ritchie, “Hunger and Undernourishment,” Our World in Data, [ourworldindata.org/hunger-and-undernourishment](http://ourworldindata.org/hunger-and-undernourishment).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos349209)
-
+     
 65.  While clean electricity generation Smil, How the World Really Works, 36.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos351649)
-
+     
 66.  Since the start of the twenty-first century Ibid., 42.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos351835)
-
+     
 67.  Imagine the average tomato Ibid., 61.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos353056)
-
+     
 68.  What’s more, to meet global demand Daniel Quiggin et al., “Climate Change Risk Assessment 2021,” Chatham House, Sept. 14, 2021, [www.chathamhouse.org/2021/09/climate-change-risk-assessment-2021?7J7ZL,68TH2Q,UNIN9](http://www.chathamhouse.org/2021/09/climate-change-risk-assessment-2021?7J7ZL,68TH2Q,UNIN9).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos353165)
-
+     
 69.  And yet it’s largely not been invented Elizabeth Kolbert, Under a White Sky: The Nature of the Future (New York: Crown, 2022), 155.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos353639)
-
+     
 70.  AI has helped design an enzyme Hongyuan Lu et al., “Machine Learning–Aided Engineering of Hydrolases for PET Depolymerization,” Nature, April 27, 2022, [www.nature.com/articles/s41586-022-04599-z](http://www.nature.com/articles/s41586-022-04599-z).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos354914)
-
+     
 71.  “When you see something” “J. Robert Oppenheimer 1904–67,” in Oxford Essential Quotations, ed. Susan Ratcliffe (Oxford: Oxford University Press, 2016), [www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00007996](http://www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00007996).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos358617)
-
+     
 72.  “What we are creating now” Quoted in Dyson, Turing’s Cathedral.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id129/index_split_015.html#filepos358931)
 
 ---
@@ -4037,95 +4043,95 @@ CHAPTER 8: UNSTOPPABLE INCENTIVES
 CHAPTER 9: THE GRAND BARGAIN
 
 1.  At its heart, the nation-state There is clearly a lot of complexity with and a large literature on the use of the terms “nation-state” and “state.” However, here we use them in a fairly basic way: nation-states are the countries of the world, their people, and their governments (with all the great diversity and complexity that implies); states are the governments and systems of rule and social service within those nation-states. Ireland, Israel, India, and Indonesia are all very different kinds of nations and states, yet we can still think about them as a coherent set of bodies despite their many distinctions. Nation-states have always been “something of a fiction,” in the words of Wendy Brown (Walled States, Waning Sovereignty \[New York: Zone Books, 2010\], 69)—how can the people be sovereign if power is exercised over them? Nonetheless, the nation-state is an incredibly useful and powerful fiction.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos365829)
-
+    
 2.  Literacy rates, life expectancy Max Roser and Esteban Ortiz-Ospina, “Literacy,” Our World in Data, [ourworldindata.org/literacy](http://ourworldindata.org/literacy).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos379111)
-
+    
 3.  Western societies in particular In the words of William Davies, Nervous States: How Feeling Took Over the World (London: Jonathan Cape, 2018).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos379523)
-
+    
 4.  Trust in government One-third (35 percent) of the U.K. population reported that they trust their national government, lower than the average across the OECD countries (41 percent). Half (49 percent) of the U.K. population said they did not trust the national government. “Building Trust to Reinforce Democracy: Key Findings from the 2021 OECD Survey on Drivers of Trust in Public Institutions,” OECD, [www.oecd.org/governance/trust-in-government](http://www.oecd.org/governance/trust-in-government).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos380933)
-
+    
 5.  For recent presidents such as Obama “Public Trust in Government: 1958–2022,” Pew Research Center, June 6, 2022, [www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022](http://www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos381216)
-
+    
 6.  Quite remarkably, a 2018 study Lee Drutman et al., “Follow the Leader: Exploring American Support for Democracy and Authoritarianism,” Democracy Fund Voter Study Group, March 2018, [fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/followtheleader\_2018mar13.pdf](http://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/followtheleader_2018mar13.pdf).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos381349)
-
+    
 7.  No less than 85 percent of Americans “Bipartisan Dissatisfaction with the Direction of the Country and the Economy,” AP NORC, June 29, 2022, [apnorc.org/projects/bipartisan-dissatisfaction-with-the-direction-of-the-country-and-the-economy](http://apnorc.org/projects/bipartisan-dissatisfaction-with-the-direction-of-the-country-and-the-economy).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos381485)
-
+    
 8.  Distrust extends to nongovernment See, for example, Daniel Drezner, The Ideas Industry: How Pessimists, Partisans, and Plutocrats Are Transforming the Marketplace of Ideas (New York: Oxford University Press, 2017), and the Edelman Trust Barometer: “2022 Edelman Trust Barometer,” Edelman, [www.edelman.com/trust/2022-trust-barometer](http://www.edelman.com/trust/2022-trust-barometer).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos381587)
-
+    
 9.  A Democracy Perception Index poll Richard Wike et al., “Many Across the Globe Are Dissatisfied with How Democracy Is Working,” Pew Research Center, April 29, 2019, [www.pewresearch.org/global/2019/04/29/many-across-the-globe-are-dissatisfied-with-how-democracy-is-working/](http://www.pewresearch.org/global/2019/04/29/many-across-the-globe-are-dissatisfied-with-how-democracy-is-working/); Dalia Research et al., “Democracy Perception Index 2018,” Alliance of Democracies, June 2018, [www.allianceofdemocracies.org/wp-content/uploads/2018/06/Democracy-Perception-Index-2018-1.pdf](http://www.allianceofdemocracies.org/wp-content/uploads/2018/06/Democracy-Perception-Index-2018-1.pdf).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos381966)
-
+    
 10.  Since 2010, more countries “New Report: The Global Decline in Democracy Has Accelerated,” Freedom House, March 3, 2021, [freedomhouse.org/article/new-report-global-decline-democracy-has-accelerated](http://freedomhouse.org/article/new-report-global-decline-democracy-has-accelerated).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos382285)
-
+     
 11.  A key catalyst of instability See, for example, Thomas Piketty, Capital in the Twenty-first Century (Cambridge, Mass.: Harvard University Press, 2014), and Anthony B. Atkinson, Inequality: What Can Be Done? (Cambridge, Mass.: Harvard University Press, 2015), for wider surveys.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos382972)
-
+     
 12.  Between 1980 and 2021 “Top 1% National Income Share,” World Inequality Database, [wid.world/world/#sptinc\_p99p100\_z/US;FR;DE;CN;ZA;GB;WO/last/eu/k/p/yearly/s/false/5.6579999999999995/30/curve/false/country](http://wid.world/world/#sptinc_p99p100_z/US;FR;DE;CN;ZA;GB;WO/last/eu/k/p/yearly/s/false/5.6579999999999995/30/curve/false/country).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos383143)
-
+     
 13.  Wealth is ever more Richard Mille, “Forbes World’s Billionaires List: The Richest in 2023,” Forbes, [www.forbes.com/billionaires/](http://www.forbes.com/billionaires/). While it’s true GDP is a flow, not a stock like wealth, the comparison is still arresting.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos383284)
-
+     
 15.  Government policy, a shrinking Alistair Dieppe, “The Broad-Based Productivity Slowdown, in Seven Charts,” World Bank Blogs: Let’s Talk Development, July 14, 2020, [blogs.worldbank.org/developmenttalk/broad-based-productivity-slowdown-seven-charts](http://blogs.worldbank.org/developmenttalk/broad-based-productivity-slowdown-seven-charts).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos383342)
-
+     
 16.  Forty million people in the United States Jessica L. Semega et al., “Income and Poverty in the United States: 2016,” U.S. Census Bureau, [www.census.gov/content/dam/Census/library/publications/2017/demo/P60-259.pdf](http://www.census.gov/content/dam/Census/library/publications/2017/demo/P60-259.pdf), reported in [digitallibrary.un.org/record/1629536?ln=en](http://digitallibrary.un.org/record/1629536?ln=en).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos383533)
-
+     
 17.  These are especially worrying trends See, for example, Christian Houle et al., “Social Mobility and Political Instability,” Journal of Conflict Resolution, Aug. 8, 2017, [journals.sagepub.com/doi/full/10.1177/0022002717723434](http://journals.sagepub.com/doi/full/10.1177/0022002717723434); and Carles Boix, “Economic Roots of Civil Wars and Revolutions in the Contemporary World,” World Politics 60, no. 3 (April 2008): 390–437.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos383710)
-
+     
 18.  It would take a brave The demise of the nation-state is hardly a novel idea; see, for example, Rana Dasgupta, “The Demise of the Nation State,” Guardian, April 5, 2018, [www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta](http://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos385444)
-
+     
 19.  A meta-analysis published Philipp Lorenz-Spreen et al., “A Systematic Review of Worldwide Causal and Correlational Evidence on Digital Media and Democracy,” Nature Human Behaviour, Nov. 7, 2022, [www.nature.com/articles/s41562-022-01460-1](http://www.nature.com/articles/s41562-022-01460-1).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos387377)
-
+     
 20.  As the historian of technology Langdon Winner, Autonomous Technology: Technics-Out-of-Control as a Theme in Political Thought (Cambridge, Mass.: MIT Press, 1977), 6.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos389343)
-
+     
 21.  While technology doesn’t simplistically See, for example, Jenny L. Davis, How Artifacts Afford: The Power and Politics of Everyday Things (Cambridge, Mass.: MIT Press, 2020). Technologies are, in the words of Ursula M. Franklin (The Real World of Technology \[Toronto: House of Anansi, 1999\]), prescriptive; that is, their creation or use prompts or requires certain behaviors, divisions of labor, or outcomes. Farmers in possession of a tractor will go about their work and structure their needs in a different way from farmers with two oxen and a plow. The division of labor prompted by a factory system produces different kinds of social organizations from a society of hunter-gatherers—a culture of compliance and administration. “Patterns laid down in the practice of technology become part of a society’s life” (55).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos390208)
-
+     
 22.  The clock produced set times See Mumford, Technics and Civilization, for a brilliant analysis on the impacts of mechanical clocks.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos391527)
-
+     
 23.  The printing press helped Benedict Anderson, Imagined Communities: Reflections on the Origin and Spread of Nationalism (London: Verso, 1983).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos391751)
-
+     
 24.  On one trajectory, some liberal The Cambridge political scientist David Runciman talks about “zombie democracies,” which means something similar: “The basic idea is that the people are simply watching a performance in which their role is to give or withhold applause at the appropriate moments. Democratic politics has become an elaborate show.” David Runciman, How Democracy Ends (London: Profile Books, 2019), 47.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id127/index_split_017.html#filepos395740)
 
 ---
@@ -4133,235 +4139,235 @@ CHAPTER 9: THE GRAND BARGAIN
 CHAPTER 10: FRAGILITY AMPLIFIERS
 
 1.  The NHS had been hit See, for example, S. Ghafur et al., “A Retrospective Impact Analysis of the WannaCry Cyberattack on the NHS,” NPJ Digital Medicine, Oct. 2, 2019, [www.nature.com/articles/s41746-019-0161-6](http://www.nature.com/articles/s41746-019-0161-6), for more.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos399674)
-
+    
 2.  WannaCry tricked some users Mike Azzara, “What Is WannaCry Ransomware and How Does It Work?,” Mimecast, May 5, 2021, [www.mimecast.com/blog/all-you-need-to-know-about-wannacry-ransomware](http://www.mimecast.com/blog/all-you-need-to-know-about-wannacry-ransomware).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos400346)
-
+    
 3.  The ensuing damage cost Andy Greenberg, “The Untold Story of NotPetya, the Most Devastating Cyberattack in History,” Wired, Aug. 22, 2018, [www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world](http://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos400675)
-
+    
 4.  In the words of one NSA staffer James Bamford, “Commentary: Evidence Points to Another Snowden at the NSA,” Reuters, Aug. 22, 2016, [www.reuters.com/article/us-intelligence-nsa-commentary-idUSKCN10X01P](http://www.reuters.com/article/us-intelligence-nsa-commentary-idUSKCN10X01P).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos401741)
-
+    
 6.  “An equivalent scenario” Brad Smith, “The Need for Urgent Collective Action to Keep People Safe Online: Lessons from Last Week’s Cyberattack,” Microsoft Blogs: On the Issues, May 14, 2017, [blogs.microsoft.com/on-the-issues/2017/05/14/need-urgent-collective-action-keep-people-safe-online-lessons-last-weeks-cyberattack](http://blogs.microsoft.com/on-the-issues/2017/05/14/need-urgent-collective-action-keep-people-safe-online-lessons-last-weeks-cyberattack).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos402188)
-
+    
 7.  Power is “the ability or capacity” Definitions taken from Oxford Languages, [languages.oup.com](http://languages.oup.com).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos407375)
-
+    
 8.  In the words of a New York Times Ronen Bergman et al., “The Scientist and the A.I.-Assisted, Remote-Control Killing Machine,” New York Times, Sept. 18, 2021, [www.nytimes.com/2021/09/18/world/middleeast/iran-nuclear-fakhrizadeh-assassination-israel.html](http://www.nytimes.com/2021/09/18/world/middleeast/iran-nuclear-fakhrizadeh-assassination-israel.html).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos412521)
-
+    
 9.  The cost of military-grade drones Azhar, Exponential, 192.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos414423)
-
+    
 10.  By 2028, $26 billion a year Fortune Business Insights, “Military Drone Market to Hit USD 26.12 Billion by 2028; Rising Military Spending Worldwide to Augment Growth,” Global News Wire, July 22, 2021, [www.globenewswire.com/en/news-release/2021/07/22/2267009/0/en/Military-Drone-Market-to-Hit-USD-26-12-Billion-by-2028-Rising-Military-Spending-Worldwide-to-Augment-Growth-Fortune-Business-Insights.html](http://www.globenewswire.com/en/news-release/2021/07/22/2267009/0/en/Military-Drone-Market-to-Hit-USD-26-12-Billion-by-2028-Rising-Military-Spending-Worldwide-to-Augment-Growth-Fortune-Business-Insights.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos414585)
-
+     
 11.  In May 2021, for example David Hambling, “Israel Used World’s First AI-Guided Combat Drone Swarm in Gaza Attacks,” New Scientist, June 30, 2021, [www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks](http://www.newscientist.com/article/2282656-israel-used-worlds-first-ai-guided-combat-drone-swarm-in-gaza-attacks).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos414837)
-
+     
 12.  Start-ups like Anduril Dan Primack, “Exclusive: Rebellion Defense Raises $150 Million at $1 Billion Valuation,” Axios, Sept. 15, 2021, [www.axios.com/2021/09/15/rebellion-defense-raises-150-million-billion-valuation](http://www.axios.com/2021/09/15/rebellion-defense-raises-150-million-billion-valuation); Ingrid Lunden, “Anduril Is Raising Up to $1.2B, Sources Say at a $7B Pre-money Valuation, for Its Defense Tech,” TechCrunch, May 24, 2022, [techcrunch.com/2022/05/24/filing-anduril-is-raising-up-to-1-2b-sources-say-at-a-7b-pre-money-valuation-for-its-defense-tech](http://techcrunch.com/2022/05/24/filing-anduril-is-raising-up-to-1-2b-sources-say-at-a-7b-pre-money-valuation-for-its-defense-tech).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos414952)
-
+     
 13.  As the cybersecurity expert Bruce Schneier, “The Coming AI Hackers,” Harvard Kennedy School Belfer Center, April 2021, [www.belfercenter.org/publication/coming-ai-hackers](http://www.belfercenter.org/publication/coming-ai-hackers).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos416839)
-
+     
 14.  Researchers at Meta created Anton Bakhtin et al., “Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning,” Science, Nov. 22, 2022, [www.science.org/doi/10.1126/science.ade9097](http://www.science.org/doi/10.1126/science.ade9097).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos417749)
-
+     
 15.  When non-state See Benjamin Wittes and Gabriella Blum, The Future of Violence: Robots and Germans, Hackers and Drones—Confronting A New Age of Threat (New York: Basic Books, 2015), for a more developed version of this argument.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos419897)
-
+     
 16.  Both looked and sounded First reported in Nilesh Cristopher, “We’ve Just Seen the First Use of Deepfakes in an Indian Election Campaign,” Vice, Feb. 18, 2020, [www.vice.com/en/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp](http://www.vice.com/en/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos423507)
-
+     
 17.  In another widely publicized incident Melissa Goldin, “Video of Biden Singing ‘Baby Shark’ Is a Deepfake,” Associated Press, Oct. 19, 2022, [apnews.com/article/fact-check-biden-baby-shark-deepfake-412016518873](http://apnews.com/article/fact-check-biden-baby-shark-deepfake-412016518873); “Doctored Nancy Pelosi Video Highlights Threat of ‘Deepfake’ Tech,” CBS News, May 25, 2019, [www.cbsnews.com/news/doctored-nancy-pelosi-video-highlights-threat-of-deepfake-tech-2019-05-25](http://www.cbsnews.com/news/doctored-nancy-pelosi-video-highlights-threat-of-deepfake-tech-2019-05-25).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos424128)
-
+     
 18.  If you want to watch TikTok @deeptomcruise, [www.tiktok.com/@deeptomcruise?lang=en](http://www.tiktok.com/@deeptomcruise?lang=en).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos424989)
-
+     
 19.  A bank in Hong Kong Thomas Brewster, “Fraudsters Cloned Company Director’s Voice in $35 Million Bank Heist, Police Find,” Forbes, Oct. 14, 2021, [www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions](http://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos425239)
-
+     
 20.  All the documents seemed Catherine Stupp, “Fraudsters Used AI to Mimic CEO’s Voice in Unusual Cybercrime Case,” Wall Street Journal, Aug. 30, 2019, [www.wsj.com/articles/fraudsters-use-ai-to-mimic-ceos-voice-in-unusual-cybercrime-case-11567157402](http://www.wsj.com/articles/fraudsters-use-ai-to-mimic-ceos-voice-in-unusual-cybercrime-case-11567157402).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos425529)
-
+     
 21.  It’s not the president charging Which is a real deepfake. See Kelly Jones, “Viral Video of Biden Saying He’s Reinstating the Draft Is a Deepfake,” Verify, March 1, 2023, [www.verifythis.com/article/news/verify/national-verify/viral-video-of-biden-saying-hes-reinstating-the-draft-is-a-deepfake/536-d721f8cb-d26a-4873-b2a8-91dd91288365](http://www.verifythis.com/article/news/verify/national-verify/viral-video-of-biden-saying-hes-reinstating-the-draft-is-a-deepfake/536-d721f8cb-d26a-4873-b2a8-91dd91288365).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos426421)
-
+     
 23.  His radicalizing messages were Josh Meyer, “Anwar al-Awlaki: The Radical Cleric Inspiring Terror from Beyond the Grave,” NBC News, Sept. 21, 2016, [www.nbcnews.com/news/us-news/anwar-al-awlaki-radical-cleric-inspiring-terror-beyond-grave-n651296](http://www.nbcnews.com/news/us-news/anwar-al-awlaki-radical-cleric-inspiring-terror-beyond-grave-n651296); Alex Hern, “ ‘YouTube Islamist’ Anwar al-Awlaki Videos Removed in Extremism Clampdown,” Guardian, Nov. 13, 2017, [www.theguardian.com/technology/2017/nov/13/youtube-islamist-anwar-al-awlaki-videos-removed-google-extremism-clampdown](http://www.theguardian.com/technology/2017/nov/13/youtube-islamist-anwar-al-awlaki-videos-removed-google-extremism-clampdown).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos427179)
-
+     
 24.  Soon these videos will be fully Eric Horvitz, “On the Horizon: Interactive and Compositional Deepfakes,” ICMI ’22: Proceedings of the 2022 International Conference on Multimodal Interaction, [arxiv.org/abs/2209.01714](http://arxiv.org/abs/2209.01714).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos427512)
-
+     
 25.  According to Facebook U.S. Senate, Report of the Select Committee on Intelligence: Russian Active Measures Campaigns and Interference in the 2016 U.S. Election, vol. 5, Counterintelligence Threats and Vulnerabilities, 116th Congress, 1st sess., [www.intelligence.senate.gov/sites/default/files/documents/report\_volume5.pdf](http://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf); Nicholas Fandos et al., “House Intelligence Committee Releases Incendiary Russian Social Media Ads,” New York Times, Nov. 1, 2017, [www.nytimes.com/2017/11/01/us/politics/russia-technology-facebook.html](http://www.nytimes.com/2017/11/01/us/politics/russia-technology-facebook.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos429141)
-
+     
 26.  Unfortunately, it’s far from just Russia It is, however, often Russia. In 2021, 58 percent of cyberattacks came from Russia alone. See Tom Burt, “Russian Cyberattacks Pose Greater Risk to Governments and Other Insights from Our Annual Report,” Microsoft Blogs: On the Issues, Oct. 7, 2021, [blogs.microsoft.com/on-the-issues/2021/10/07/digital-defense-report-2021](http://blogs.microsoft.com/on-the-issues/2021/10/07/digital-defense-report-2021).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos429567)
-
+     
 27.  More than seventy countries Samantha Bradshaw et al., “Industrialized Disinformation: 2020 Global Inventory of Organized Social Media Manipulation,” Oxford University Programme on Democracy & Technology, Jan. 13, 2021, [demtech.oii.ox.ac.uk/research/posts/industrialized-disinformation](http://demtech.oii.ox.ac.uk/research/posts/industrialized-disinformation).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos429618)
-
+     
 28.  The CIA, too, is no stranger See, for example, Krassi Twigg and Kerry Allen, “The Disinformation Tactics Used by China,” BBC News, March 12, 2021, [www.bbc.co.uk/news/56364952](http://www.bbc.co.uk/news/56364952); Kenddrick Chan and Mariah Thornton, “China’s Changing Disinformation and Propaganda Targeting Taiwan,” Diplomat, Sept. 19, 2022, [thediplomat.com/2022/09/chinas-changing-disinformation-and-propaganda-targeting-taiwan/](http://thediplomat.com/2022/09/chinas-changing-disinformation-and-propaganda-targeting-taiwan/); and Emerson T. Brooking and Suzanne Kianpour, “Iranian Digital Influence Efforts: Guerrilla Broadcasting for the Twenty-first Century,” Atlantic Council, Feb. 11, 2020, [www.atlanticcouncil.org/in-depth-research-reports/report/iranian-digital-influence-efforts-guerrilla-broadcasting-for-the-twenty-first-century](http://www.atlanticcouncil.org/in-depth-research-reports/report/iranian-digital-influence-efforts-guerrilla-broadcasting-for-the-twenty-first-century).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos429802)
-
+     
 29.  Eighty-two percent of influential users Virginia Alvino Young, “Nearly Half of the Twitter Accounts Discussing ‘Reopening America’ May Be Bots,” Carnegie Mellon University, May 27, 2020, [www.cmu.edu/news/stories/archives/2020/may/twitter-bot-campaign.html](http://www.cmu.edu/news/stories/archives/2020/may/twitter-bot-campaign.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos430103)
-
+     
 30.  Cue an “Infocalypse” See Nina Schick, Deep Fakes and the Infocalypse: What You Urgently Need to Know (London: Monoray, 2020); and Ben Buchanan et al., “Truth, Lies, and Automation,” Center for Security and Emerging Technology, May 2021, [cset.georgetown.edu/publication/truth-lies-and-automation](http://cset.georgetown.edu/publication/truth-lies-and-automation).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos431462)
-
+     
 31.  In the words of a Brookings Institution William A. Galston, “Is Seeing Still Believing? The Deepfake Challenge to Truth in Politics,” Brookings, Jan. 8, 2020, [www.brookings.edu/research/is-seeing-still-believing-the-deepfake-challenge-to-truth-in-politics](http://www.brookings.edu/research/is-seeing-still-believing-the-deepfake-challenge-to-truth-in-politics).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos431710)
-
+     
 32.  First discovered in China Figure taken from William MacAskill, What We Owe the Future: A Million-Year View (London: Oneworld, 2022), 112, who cites a variety of sources, although acknowledges none are certain about this number. See also H. C. Kung et al., “Influenza in China in 1977: Recurrence of Influenza Virus A Subtype H1N1,” Bulletin of the World Health Organization 56, no. 6 (1978), [www.ncbi.nlm.nih.gov/pmc/articles/PMC2395678/pdf/bullwho00443-0095.pdf](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2395678/pdf/bullwho00443-0095.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos433675)
-
+     
 34.  What was unusual about the H1N1 flu Joel O. Wertheim, “The Re-emergence of H1N1 Influenza Virus in 1977: A Cautionary Tale for Estimating Divergence Times Using Biologically Unrealistic Sampling Dates,” PLOS ONE, June 17, 2010, [journals.plos.org/plosone/article?id=10.1371/journal.pone.0011184](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011184).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos433823)
-
+     
 35.  A version of the earlier virus See, for example, Edwin D. Kilbourne, “Influenza Pandemics of the 20th Century,” Emerging Infectious Diseases 12, no. 1 (Jan. 2006), [www.ncbi.nlm.nih.gov/pmc/articles/PMC3291411](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3291411); and Michelle Rozo and Gigi Kwik Gronvall, “The Reemergent 1977 H1N1 Strain and the Gain-of-Function Debate,” mBio, Aug. 18, 2015, [www.ncbi.nlm.nih.gov/pmc/articles/PMC4542197](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4542197).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos434308)
-
+     
 36.  And yet accidents and leaks See, for example, good accounts in Alina Chan and Matt Ridley, Viral: The Search for the Origin of Covid-19 (London: Fourth Estate, 2022), and MacAskill, What We Owe the Future.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos435230)
-
+     
 37.  Just two years later anthrax spores Kai Kupferschmidt, “Anthrax Genome Reveals Secrets About a Soviet Bioweapons Accident,” Science, Aug. 16, 2016, [www.science.org/content/article/anthrax-genome-reveals-secrets-about-soviet-bioweapons-accident](http://www.science.org/content/article/anthrax-genome-reveals-secrets-about-soviet-bioweapons-accident).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos435358)
-
+     
 38.  In 2007 a leaking pipe T. J. D. Knight-Jones and J. Rushton, “The Economic Impacts of Foot and Mouth Disease—What Are They, How Big Are They, and Where Do They Occur?,” Preventive Veterinary Medicine, Nov. 2013, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3989032/#bib0005](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989032/#bib0005). It should be noted the damage was much less than the 2001 outbreak, which was from natural causes.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos435557)
-
+     
 39.  In 2021, a pharmaceutical company Maureen Breslin, “Lab Worker Finds Vials Labeled ‘Smallpox’ at Merck Facility,” The Hill, Nov. 17, 2021, [thehill.com/policy/healthcare/581915-lab-worker-finds-vials-labeled-smallpox-at-merck-facility-near-philadelphia](http://thehill.com/policy/healthcare/581915-lab-worker-finds-vials-labeled-smallpox-at-merck-facility-near-philadelphia).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos435756)
-
+     
 40.  Before it was eradicated Sophie Ochmann and Max Roser, “Smallpox,” Our World in Data, [ourworldindata.org/smallpox](http://ourworldindata.org/smallpox); Kelsey Piper, “Smallpox Used to Kill Millions of People Every Year. Here’s How Humans Beat It,” Vox, May 8, 2022, [www.vox.com/future-perfect/21493812/smallpox-eradication-vaccines-infectious-disease-covid-19](http://www.vox.com/future-perfect/21493812/smallpox-eradication-vaccines-infectious-disease-covid-19).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos436056)
-
+     
 41.  Quite incredibly, it escaped See, for example, Kathryn Senio, “Recent Singapore SARS Case a Laboratory Accident,” Lancet Infectious Diseases, Nov. 2003, [www.thelancet.com/journals/laninf/article/PIIS1473-3099(03)00815-6/fulltext](http://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(03\)00815-6/fulltext); Jane Parry, “Breaches of Safety Regulations Are Probable Cause of Recent SARS Outbreak, WHO Says,” BMJ, May 20, 2004, [www.bmj.com/content/328/7450/1222.3](http://www.bmj.com/content/328/7450/1222.3); and Martin Furmanski, “Laboratory Escapes and ‘Self-Fulfilling Prophecy’ Epidemics,” Arms Control Center, Feb. 17, 2014, [armscontrolcenter.org/wp-content/uploads/2016/02/Escaped-Viruses-final-2-17-14-copy.pdf](http://armscontrolcenter.org/wp-content/uploads/2016/02/Escaped-Viruses-final-2-17-14-copy.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos436473)
-
+     
 42.  Even as the number of BSL-4 labs Alexandra Peters, “The Global Proliferation of High-Containment Biological Laboratories: Understanding the Phenomenon and Its Implications,” Revue Scientifique et Technique, Dec. 2018, [pubmed.ncbi.nlm.nih.gov/30964462](http://pubmed.ncbi.nlm.nih.gov/30964462). The number of labs has gone from fifty-nine to sixty-nine in the last two years, most are in urbanized contexts, and the number of labs handling deadly pathogens is above a hundred. A new generation of “BSL-3+” labs have also boomed. See Filippa Lentzos et al., “Global BioLabs Report 2023,” King’s College London, May 16, 2023, [www.kcl.ac.uk/warstudies/assets/global-biolabs-report-2023.pdf](http://www.kcl.ac.uk/warstudies/assets/global-biolabs-report-2023.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos436990)
-
+     
 43.  Between 1975 and 2016 David Manheim and Gregory Lewis, “High-Risk Human-Caused Pathogen Exposure Events from 1975–2016,” F1000Research, July 8, 2022, [f1000research.com/articles/10-752](http://f1000research.com/articles/10-752).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos437168)
-
+     
 44.  A survey of biosafety officers David B. Manheim, “Results of a 2020 Survey on Reporting Requirements and Practices for Biocontainment Laboratory Accidents,” Health Security 19, no. 6 (2021), [www.liebertpub.com/doi/10.1089/hs.2021.0083](http://www.liebertpub.com/doi/10.1089/hs.2021.0083).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos437606)
-
+     
 45.  A U.S. risk assessment from 2014 Lynn C. Klotz and Edward J. Sylvester, “The Consequences of a Lab Escape of a Potential Pandemic Pathogen,” Frontiers in Public Health, Aug. 11, 2014, [www.frontiersin.org/articles/10.3389/fpubh.2014.00116/full](http://www.frontiersin.org/articles/10.3389/fpubh.2014.00116/full).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos437711)
-
+     
 46.  Few areas of biology are as controversial Thanks in particular to Jason Matheny and Kevin Esvelt for their discussion on this topic.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos438575)
-
+     
 48.  Work with an avian flu Martin Enserink and John Cohen, “One of Two Hotly Debated H5N1 Papers Finally Published,” Science, May 2, 2012, [www.science.org/content/article/one-two-hotly-debated-h5n1-papers-finally-published](http://www.science.org/content/article/one-two-hotly-debated-h5n1-papers-finally-published).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos439675)
-
+     
 49.  For a time U.S. funding agencies Amber Dance, “The Shifting Sands of ‘Gain-of-Function’ Research,” Nature, Oct. 27, 2021, [www.nature.com/articles/d41586-021-02903-x](http://www.nature.com/articles/d41586-021-02903-x).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos440492)
-
+     
 50.  There is at least some indication Chan and Ridley, Viral; “Controversial New Research Suggests SARS-CoV-2 Bears Signs of Genetic Engineering,” Economist, Oct. 27, 2022, [www.economist.com/science-and-technology/2022/10/22/a-new-paper-claims-sars-cov-2-bears-signs-of-genetic-engineering](http://www.economist.com/science-and-technology/2022/10/22/a-new-paper-claims-sars-cov-2-bears-signs-of-genetic-engineering).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos440632)
-
+     
 51.  Both the FBI and the U.S. Department of Energy See, for example, Max Matza and Nicholas Yong, “FBI Chief Christopher Wray Says China Lab Leak Most Likely,” BBC, March 1, 2023, [www.bbc.co.uk/news/world-us-canada-64806903](http://www.bbc.co.uk/news/world-us-canada-64806903).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos440922)
-
+     
 52.  In late 2022, an NIH study Da-Yuan Chen et al., “Role of Spike in the Pathogenic and Antigenic Behavior of SARS-CoV-2 BA.1 Omicron,” bioRxiv, Oct. 14, 2022, [www.biorxiv.org/content/10.1101/2022.10.13.512134v1](http://www.biorxiv.org/content/10.1101/2022.10.13.512134v1).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos441301)
-
+     
 53.  Many felt the research shouldn’t Kiran Stacey, “US Health Officials Probe Boston University’s Covid Virus Research,” Financial Times, Oct. 20, 2022, [www.ft.com/content/f2e88a9c-104a-4515-8de1-65d72a5903d0](http://www.ft.com/content/f2e88a9c-104a-4515-8de1-65d72a5903d0).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos441473)
-
+     
 54.  Early analysis of ChatGPT Shakked Noy and Whitney Zhang, “Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence,” MIT Economics, March 10, 2023, [economics.mit.edu/sites/default/files/inline-files/Noy\_Zhang\_1\_0.pdf](http://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1_0.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos447171)
-
+     
 55.  That in turn could affect hiring The likely total is less, however, but still considerable. See James Manyika et al., “Jobs Lost, Jobs Gained: What the Future of Work Will Mean for Jobs, Skills, and Wages,” McKinsey Global Institute, Nov. 28, 2017, [www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages](http://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages). Exact wording: “We estimate that about half of all the activities people are paid to do in the world’s workforce could potentially be automated by adapting currently demonstrated technologies.” Second statistic from Mark Muro et al., “Automation and Artificial Intelligence: How Machines Are Affecting People and Places,” Metropolitan Policy Program, Brookings, Jan. 2019, [www.brookings.edu/wp-content/uploads/2019/01/2019.01\_BrookingsMetro\_Automation-AI\_Report\_Muro-Maxim-Whiton-FINAL-version.pdf](http://www.brookings.edu/wp-content/uploads/2019/01/2019.01_BrookingsMetro_Automation-AI_Report_Muro-Maxim-Whiton-FINAL-version.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos447326)
-
+     
 56.  The economists Daron Acemoglu Daron Acemoglu and Pascual Restrepo, “Robots and Jobs: Evidence from US Labor Markets,” Journal of Political Economy 128, no. 6 (June 2020), [www.journals.uchicago.edu/doi/abs/10.1086/705716](http://www.journals.uchicago.edu/doi/abs/10.1086/705716).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos447616)
-
+     
 57.  Today algorithms perform the vast Ibid.; Edward Luce, The Retreat of Western Liberalism (London: Little, Brown, 2017), 54. See also Justin Baer and Daniel Huang, “Wall Street Staffing Falls Again,” Wall Street Journal, Feb. 19, 2015, [www.wsj.com/articles/wall-street-staffing-falls-for-fourth-consecutive-year-1424366858](http://www.wsj.com/articles/wall-street-staffing-falls-for-fourth-consecutive-year-1424366858); Ljubica Nedelkoska and Glenda Quintini, “Automation, Skills Use, and Training,” OECD, March 8, 2018, [www.oecd-ilibrary.org/employment/automation-skills-use-and-training\_2e2f4eea-en](http://www.oecd-ilibrary.org/employment/automation-skills-use-and-training_2e2f4eea-en).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos447914)
-
+     
 58.  Economists like David Autor David H. Autor, “Why Are There Still So Many Jobs? The History and Future of Workplace Automation,” Journal of Economic Perspectives 29, no. 3 (Summer 2015), [www.aeaweb.org/articles?id=10.1257/jep.29.3.3](http://www.aeaweb.org/articles?id=10.1257/jep.29.3.3).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos448200)
-
+     
 59.  Buying into that fear This is the view of Azeem Azhar: “Overall, though, the lasting impact of automation will not be the loss of jobs” (Azhar, Exponential, 141).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos448680)
-
+     
 60.  Labor markets also have immense friction See Daniel Susskind, A World Without Work: Technology, Automation and How We Should Respond (London: Allen Lane, 2021), for a developed account of these frictions.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos450446)
-
+     
 61.  The Private Sector Job Quality Index “U.S. Private Sector Job Quality Index (JQI),” University at Buffalo School of Management, Feb. 2023, [ubwp.buffalo.edu/job-quality-index-jqi](http://ubwp.buffalo.edu/job-quality-index-jqi). See also Ford, Rule of the Robots.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos451418)
-
+     
 62.  Even those who don’t foresee Autor, “Why Are There Still So Many Jobs?”
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id126/index_split_018.html#filepos452775)
 
 ---
@@ -4369,139 +4375,139 @@ CHAPTER 10: FRAGILITY AMPLIFIERS
 CHAPTER 11: THE FUTURE OF NATIONS
 
 1.  At first blush, stirrups White, Medieval Technology and Social Change. The account is not universally accepted, however. For a more skeptical reading of Lynn White’s famous thesis, see, for example, “The Great Stirrup Controversy,” The Medieval Technology Pages, [web.archive.org/web/20141009082354/http://scholar.chem.nyu.edu/tekpages/texts/strpcont.html](http://web.archive.org/web/20141009082354/http://scholar.chem.nyu.edu/tekpages/texts/strpcont.html).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos456732)
-
+    
 2.  This ungovernable “post-sovereign” world Brown, Walled States, Waning Sovereignty.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos462852)
-
+    
 3.  Its customs, duties, and dividends William Dalrymple, The Anarchy: The Relentless Rise of the East India Company (London: Bloomsbury, 2020), 233.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos464593)
-
+    
 4.  Organizations too are a kind of intelligence Richard Danzig first proposed this idea to me over dinner and then published an excellent paper: “Machines, Bureaucracies, and Markets as Artificial Intelligences,” Center for Security and Emerging Technology, Jan. 2022, [cset.georgetown.edu/wp-content/uploads/Machines-Bureaucracies-and-Markets-as-Artificial-Intelligences.pdf](http://cset.georgetown.edu/wp-content/uploads/Machines-Bureaucracies-and-Markets-as-Artificial-Intelligences.pdf).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos465917)
-
+    
 5.  To get a sense of these concentrations “Global 500,” Fortune, [fortune.com/global500/](http://fortune.com/global500/). As of October 2022. World Bank numbers suggest somewhat lower: World Bank, “GDP (Current US$),” World Bank Data, [data.worldbank.org/indicator/NY.GDP.MKTP.CD](http://data.worldbank.org/indicator/NY.GDP.MKTP.CD).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos468324)
-
+    
 6.  Companies already control the largest clusters Benaich and Hogarth, State of AI Report 2022.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos468612)
-
+    
 7.  There is already a pronounced James Manyika et al., “Superstars: The Dynamics of Firms, Sectors, and Cities Leading the Global Economy,” McKinsey Global Institute, Oct. 24, 2018, [www.mckinsey.com/featured-insights/innovation-and-growth/superstars-the-dynamics-of-firms-sectors-and-cities-leading-the-global-economy](http://www.mckinsey.com/featured-insights/innovation-and-growth/superstars-the-dynamics-of-firms-sectors-and-cities-leading-the-global-economy).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos469098)
-
+    
 8.  Ninety percent of these disputes Colin Rule, “Separating the People from the Problem,” The Practice, July 2020, [thepractice.law.harvard.edu/article/separating-the-people-from-the-problem](http://thepractice.law.harvard.edu/article/separating-the-people-from-the-problem).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos471522)
-
+    
 9.  Zero marginal cost production See, for example, Jeremy Rifkin, The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism (New York: Palgrave, 2014).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos474076)
-
+    
 10.  What’s more, owners of the best systems Erik Brynjolfsson calls a situation where AI takes over more and more of the economy, locking large numbers of people in an equilibrium where they have no work, no wealth, and no meaningful power, the “Turing Trap.” Erik Brynjolfsson, “The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence,” Stanford Digital Economy Lab, Jan. 11, 2022, [arxiv.org/pdf/2201.04200.pdf](http://arxiv.org/pdf/2201.04200.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos475752)
-
+     
 11.  Little wonder there is talk See, for example, Joel Kotkin, The Coming of Neo-feudalism: A Warning to the Global Middle Class (New York: Encounter Books, 2020).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos477496)
-
+     
 12.  Despite the best efforts of revolutionaries James C. Scott, Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed (New Haven, Conn.: Yale University Press, 1998).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos480089)
-
+     
 13.  On the way, and throughout the day “How Many CCTV Cameras Are There in London?,” CCTV.co.uk, Nov. 18, 2020, [www.cctv.co.uk/how-many-cctv-cameras-are-there-in-london](http://www.cctv.co.uk/how-many-cctv-cameras-are-there-in-london).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos482072)
-
+     
 14.  Compared with the West Benaich and Hogarth, State of AI Report 2022.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos483704)
-
+     
 15.  By 2015 this was the inspiration Dave Gershgorn, “China’s ‘Sharp Eyes’ Program Aims to Surveil 100% of Public Space,” OneZero, March 2, 2021, [onezero.medium.com/chinas-sharp-eyes-program-aims-to-surveil-100-of-public-space-ddc22d63e015](http://onezero.medium.com/chinas-sharp-eyes-program-aims-to-surveil-100-of-public-space-ddc22d63e015).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos485290)
-
+     
 16.  A team of leading researchers Shu-Ching Jean Chen, “SenseTime: The Faces Behind China’s Artificial Intelligence Unicorn,” Forbes, March 7, 2018, [www.forbes.com/sites/shuchingjeanchen/2018/03/07/the-faces-behind-chinas-omniscient-video-surveillance-technology](http://www.forbes.com/sites/shuchingjeanchen/2018/03/07/the-faces-behind-chinas-omniscient-video-surveillance-technology).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos485491)
-
+     
 17.  Chinese police even have sunglasses Sofia Gallarate, “Chinese Police Officers Are Wearing Facial Recognition Sunglasses,” Fair Planet, July 9, 2019, [www.fairplanet.org/story/chinese-police-officers-are-wearing-facial-recogni%C2%ADtion-sunglasses](http://www.fairplanet.org/story/chinese-police-officers-are-wearing-facial-recogni%C2%ADtion-sunglasses).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos485854)
-
+     
 19.  Around half the world’s billion CCTV This and below stats taken from a New York Times investigation: Isabelle Qian et al., “Four Takeaways from a Times Investigation into China’s Expanding Surveillance State,” New York Times, June 21, 2022, [www.nytimes.com/2022/06/21/world/asia/china-surveillance-investigation.html](http://www.nytimes.com/2022/06/21/world/asia/china-surveillance-investigation.html).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos485984)
-
+     
 20.  This AI-enabled system could spot Ross Andersen, “The Panopticon Is Already Here,” Atlantic, Sept. 2020, [www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197](http://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos486973)
-
+     
 21.  Authorities have built an iris-scan Qian et al., “Four Takeaways from a Times Investigation into China’s Expanding Surveillance State.”
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos487833)
-
+     
 22.  In 2019, the U.S. government banned “NDAA Section 889,” GSA SmartPay, [smartpay.gsa.gov/content/ndaa-section-889](http://smartpay.gsa.gov/content/ndaa-section-889).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos488431)
-
+     
 23.  Yet, just a year later, three federal agencies Conor Healy, “US Military & Gov’t Break Law, Buy Banned Dahua/Lorex, Congressional Committee Calls for Investigation,” IPVM, Dec. 1, 2019, [ipvm.com/reports/usg-lorex](http://ipvm.com/reports/usg-lorex).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos488644)
-
+     
 24.  More than one hundred U.S. towns Zack Whittaker, “US Towns Are Buying Chinese Surveillance Tech Tied to Uighur Abuses,” TechCrunch, May 24, 2021, [techcrunch.com/2021/05/24/united-states-towns-hikvision-dahua-surveillance](http://techcrunch.com/2021/05/24/united-states-towns-hikvision-dahua-surveillance).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos488764)
-
+     
 25.  In smart warehouses Joshua Brustein, “Warehouses Are Tracking Workers’ Every Muscle Movement,” Bloomberg, Nov. 5, 2019, [www.bloomberg.com/news/articles/2019-11-05/am-i-being-tracked-at-work-plenty-of-warehouse-workers-are](http://www.bloomberg.com/news/articles/2019-11-05/am-i-being-tracked-at-work-plenty-of-warehouse-workers-are).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos489307)
-
+     
 26.  Companies like Vigilant Solutions Kate Crawford, Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (New Haven, Conn.: Yale University Press, 2021).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos489422)
-
+     
 27.  Even your take-out pizza Joanna Fantozzi, “Domino’s Using AI Cameras to Ensure Pizzas Are Cooked Correctly,” Nation’s Restaurants News, May 29, 2019, [www.nrn.com/quick-service/domino-s-using-ai-cameras-ensure-pizzas-are-cooked-correctly](http://www.nrn.com/quick-service/domino-s-using-ai-cameras-ensure-pizzas-are-cooked-correctly).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos489587)
-
+     
 28.  Before the coming wave Consider that an up-to-date novel about surveillance dystopias like Dave Eggers’s The Every hasn’t really moved in terms of what exactly is surveilled and is presented not as far-out science fiction but as a satire on contemporary technology companies.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos489933)
-
+     
 29.  It may be the best-armed The analyst was Brigadier General (Ret.) Assaf Orion of Israel’s Institute for National Security Studies. “The Future of U.S.-Israel Relations Symposium,” Council on Foreign Relations, Dec. 2, 2019, [www.cfr.org/event/future-us-israel-relations-symposium](http://www.cfr.org/event/future-us-israel-relations-symposium), quoted in Kali Robinson, “What Is Hezbollah?,” Council on Foreign Relations, May 25, 2022, [www.cfr.org/backgrounder/what-hezbollah](http://www.cfr.org/backgrounder/what-hezbollah).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos492067)
-
+     
 30.  It also conducts various commercial See, for example, “Explained: How Hezbollah Built a Drug Empire via Its ‘Narcoterrorist Strategy,’ ” Arab News, May 3, 2021, [www.arabnews.com/node/1852636/middle-east](http://www.arabnews.com/node/1852636/middle-east).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos493206)
-
+     
 31.  It is instead a strange Lina Khatib, “How Hezbollah Holds Sway over the Lebanese State,” Chatham House, June 30, 2021, [www.chathamhouse.org/sites/default/files/2021-06/2021-06-30-how-hezbollah-holds-sway-over-the-lebanese-state-khatib.pdf](http://www.chathamhouse.org/sites/default/files/2021-06/2021-06-30-how-hezbollah-holds-sway-over-the-lebanese-state-khatib.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos493474)
-
+     
 32.  The coming wave, however This would simply be to vastly expand certain existing trends whereby, as in centralization, private actors take on more roles traditionally thought to be the preserve of the state. See, for example, Rodney Bruce Hall and Thomas J. Biersteker, The Emergence of Private Authority in Global Governance (Cambridge, U.K.: Cambridge University Press, 2002).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos493871)
-
+     
 33.  Recall that over just the last decade “Renewable Power Generation Costs in 2019,” IRENA, June 2020, [www.irena.org/publications/2020/Jun/Renewable-Power-Costs-in-2019](http://www.irena.org/publications/2020/Jun/Renewable-Power-Costs-in-2019).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos494633)
-
+     
 34.  Hyper-libertarian technologists James Dale Davidson and William Rees-Mogg, The Sovereign Individual: Mastering the Transition to the Information Age (New York: Touchstone, 1997).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos503213)
-
+     
 36.  A bonfire of public services Peter Thiel, “The Education of a Libertarian,” Cato Unbound, April 13, 2009, [www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian](http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian). See Balaji Srinivasan, The Network State (1729 publishing, 2022), for a more thoughtful take on how technological constructs might supersede the nation-state.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id125/index_split_019.html#filepos503488)
 
 ---
@@ -4509,83 +4515,83 @@ CHAPTER 11: THE FUTURE OF NATIONS
 CHAPTER 12: THE DILEMMA
 
 1.  England’s population Niall Ferguson, Doom: The Politics of Catastrophe (London: Allen Lane, 2021), 131.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos511265)
-
+    
 2.  World War I killed Numbers are from ibid.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos511491)
-
+    
 3.  A novel human transmissible virus Numbers taken from a confidential briefing, but we understand this is considered plausible by biosecurity experts.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos520867)
-
+    
 4.  It’s not hard to see It is remarkable that a third of scientists working on AI believe it could lead to a catastrophe. Jeremy Hsu, “A Third of Scientists Working on AI Say It Could Cause Global Disaster,” New Scientist, Sept. 22, 2022, [www.newscientist.com/article/2338644-a-third-of-scientists-working-on-ai-say-it-could-cause-global-disaster](http://www.newscientist.com/article/2338644-a-third-of-scientists-working-on-ai-say-it-could-cause-global-disaster).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos525426)
-
+    
 5.  Founded in the 1980s, Aum Shinrikyo See Richard Danzig and Zachary Hosford, “Aum Shinrikyo—Second Edition—English,” CNAS, Dec. 20, 2012, [www.cnas.org/publications/reports/aum-shinrikyo-second-edition-english](http://www.cnas.org/publications/reports/aum-shinrikyo-second-edition-english); and Philipp C. Bleak, “Revisiting Aum Shinrikyo: New Insights into the Most Extensive Non-state Biological Weapons Program to Date,” James Martin Center for Nonproliferation Studies, Dec. 10, 2011, [www.nti.org/analysis/articles/revisiting-aum-shinrikyo-new-insights-most-extensive-non-state-biological-weapons-program-date-1](http://www.nti.org/analysis/articles/revisiting-aum-shinrikyo-new-insights-most-extensive-non-state-biological-weapons-program-date-1).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos529058)
-
+    
 6.  At Aum Shinrikyo’s peak popularity Federation of American Scientists, “The Operation of the Aum,” in Global Proliferation of Weapons of Mass Destruction: A Case Study of the Aum Shinrikyo, Senate Government Affairs Permanent Subcommittee on Investigations, Oct. 31, 1995, [irp.fas.org/congress/1995\_rpt/aum/part04.htm](http://irp.fas.org/congress/1995_rpt/aum/part04.htm).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos529663)
-
+    
 7.  As a report on the implications Danzig and Hosford, “Aum Shinrikyo.”
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos533308)
-
+    
 8.  Some will inevitably say See, for example, Nick Bostrom, “The Vulnerable World Hypothesis,” Sept. 6, 2019, [nickbostrom.com/papers/vulnerable.pdf](http://nickbostrom.com/papers/vulnerable.pdf), for perhaps the most developed version of this thesis. In a thought experiment responding to the prospect of “easy nukes,” he envisages a “high-tech panopticon” where everyone has a “freedom tag,” “worn around the neck and bedecked with multidirectional cameras and microphones. Encrypted video and audio is continuously uploaded from the device to the cloud and machine-interpreted in real time. AI algorithms classify the activities of the wearer, his hand movements, nearby objects, and other situational cues. If suspicious activity is detected, the feed is relayed to one of several patriot monitoring stations.”
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos536813)
-
+    
 9.  The wave provides both motive Martin Bereaja et al., “AI-tocracy,” Quarterly Journal of Economics, March 13, 2023, [academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjad012/7076890](http://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjad012/7076890).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos537536)
-
+    
 10.  And on the continuum Balaji Srinivasan foresees something very like this outcome, with America the zombie, China the demon: “As America descends into anarchy, the CCP points to their functional-but-highly-unfree system as the only alternative, and exports a turnkey version of their surveillance state to other countries as the next version of Belt and Road, as a piece of ‘infrastructure’ that comes complete with a SaaS subscription to China’s all-seeing AI eye.” Srinivasan, The Network State, 162.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos540937)
-
+     
 11.  The philosopher of technology Isis Hazewindus, “The Threat of the Megamachine,” IfThenElse, Nov. 21, 2021, [www.ifthenelse.eu/blog/the-threat-of-the-megamachine](http://www.ifthenelse.eu/blog/the-threat-of-the-megamachine).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos541227)
-
+     
 12.  A survey of sixty civilizations Michael Shermer, “Why ET Hasn’t Called,” Scientific American, Aug. 2002, [michaelshermer.com/sciam-columns/why-et-hasnt-called](http://michaelshermer.com/sciam-columns/why-et-hasnt-called).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos544415)
-
+     
 13.  Without new technologies Ian Morris, Why the West Rules—for Now: The Patterns of History and What They Reveal About the Future (London: Profile Books, 2010); Tainter, The Collapse of Complex Societies; Diamond, Collapse.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos544531)
-
+     
 14.  Over the next century Stein Emil Vollset et al., “Fertility, Mortality, Migration, and Population Scenarios for 195 Countries and Territories from 2017 to 2100: A Forecasting Analysis for the Global Burden of Disease Study,” Lancet, July 14, 2020, [www.thelancet.com/article/S0140-6736(20)30677-2/fulltext](http://www.thelancet.com/article/S0140-6736\(20\)30677-2/fulltext).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos547435)
-
+     
 16.  Countries including Japan, Germany Peter Zeihan, The End of the World Is Just the Beginning: Mapping the Collapse of Globalization (New York: Harper Business, 2022).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos547887)
-
+     
 17.  China is a major part Xiujian Peng, “Could China’s Population Start Falling?” BBC Future, June 6, 2022, [www.bbc.com/future/article/20220531-why-chinas-population-is-shrinking](http://www.bbc.com/future/article/20220531-why-chinas-population-is-shrinking).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos548150)
-
+     
 18.  All of this means Zeihan, The End of the World Is Just the Beginning, 203.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos548835)
-
+     
 19.  Demand for lithium, cobalt “Climate-Smart Mining: Minerals for Climate Action,” World Bank, [www.worldbank.org/en/topic/extractiveindustries/brief/climate-smart-mining-minerals-for-climate-action](http://www.worldbank.org/en/topic/extractiveindustries/brief/climate-smart-mining-minerals-for-climate-action).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos549412)
-
+     
 20.  Given the population and resource constraints Galor, The Journey of Humanity, 130.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos549893)
-
+     
 21.  In 1955, toward the end of his life John von Neumann, “Can We Survive Technology?,” in The Neumann Compendium (River Edge, N.J.: World Scientific, 1995), [geosci.uchicago.edu/~kite/doc/von\_Neumann\_1955.pdf](http://geosci.uchicago.edu/~kite/doc/von_Neumann_1955.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id124/index_split_020.html#filepos552292)
 
 ---
@@ -4593,59 +4599,59 @@ CHAPTER 12: THE DILEMMA
 CHAPTER 13: CONTAINMENT MUST BE POSSIBLE
 
 1.  How do they account for an age David Cahn et al., “AI 2022: The Explosion,” Coatue Venture, [coatue-external.notion.site/AI-2022-The-Explosion-e76afd140f824f2eb6b049c5b85a7877](http://coatue-external.notion.site/AI-2022-The-Explosion-e76afd140f824f2eb6b049c5b85a7877).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos560799)
-
+    
 2.  As we’ve seen, even wealthy nations “2021 GHS Index Country Profile for United States,” Global Health Security Index, [www.ghsindex.org/country/united-states](http://www.ghsindex.org/country/united-states).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos564627)
-
+    
 3.  Yet a catalog of disastrous decisions Edouard Mathieu et al., “Coronavirus (COVID-19) Deaths,” Our World in Data, [ourworldindata.org/covid-deaths](http://ourworldindata.org/covid-deaths).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos564880)
-
+    
 4.  National budgets for such things For example, compared with during the 1957 Asian flu, the U.S. federal budget is vastly bigger, in absolute terms of course, but also as a percentage of GDP (16.2 percent versus 20.8 percent). In 1957 there was no dedicated Department of Health, and the forerunner of the CDC was still a relatively fledgling organization at eleven years old. Ferguson, Doom, 234.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos565342)
-
+    
 5.  The most ambitious legislation “The Artificial Intelligence Act,” Future of Life Institute, [artificialintelligenceact.eu](http://artificialintelligenceact.eu).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos566424)
-
+    
 6.  Some argue it’s too focused See, for example, “FLI Position Paper on the EU AI Act,” Future of Life Institute, Aug. 4, 2021, [futureoflife.org/wp-content/uploads/2021/08/FLI-Position-Paper-on-the-EU-AI-Act.pdf?x72900](http://futureoflife.org/wp-content/uploads/2021/08/FLI-Position-Paper-on-the-EU-AI-Act.pdf?x72900); and David Matthews, “EU Artificial Intelligence Act Not ‘Futureproof,’ Experts Warn MEPs,” Science Business, March 22, 2022, [sciencebusiness.net/news/eu-artificial-intelligence-act-not-futureproof-experts-warn-meps](http://sciencebusiness.net/news/eu-artificial-intelligence-act-not-futureproof-experts-warn-meps).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos567413)
-
+    
 7.  Some believe it lets big tech Khari Johnson, “The Fight to Define When AI Is High Risk,” Wired, Sept. 1, 2021, [www.wired.com/story/fight-to-define-when-ai-is-high-risk](http://www.wired.com/story/fight-to-define-when-ai-is-high-risk).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos567581)
-
+    
 8.  And yet 1.35 million people “Global Road Safety Statistics,” Brake, [www.brake.org.uk/get-involved/take-action/mybrake/knowledge-centre/global-road-safety#](http://www.brake.org.uk/get-involved/take-action/mybrake/knowledge-centre/global-road-safety#).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos569188)
-
+    
 9.  The government has issued Jennifer Conrad, “China Is About to Regulate AI—and the World Is Watching,” Wired, Feb. 22, 2022, [www.wired.com/story/china-regulate-ai-world-watching](http://www.wired.com/story/china-regulate-ai-world-watching).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos572040)
-
+    
 10.  It proactively banned various Christian Smith, “China’s Gaming Laws Are Cracking Down Even Further,” SVG, March 15, 2022, [www.svg.com/799717/chinas-gaming-laws-are-cracking-down-even-further](http://www.svg.com/799717/chinas-gaming-laws-are-cracking-down-even-further).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos572148)
-
+     
 11.  Draft regulation of recommendation “The National Internet Information Office’s Regulations on the Administration of Internet Information Service Algorithm Recommendations (Draft for Comment) Notice of Public Consultation,” Cyberspace Administration of China, Aug. 27, 2021, [www.cac.gov.cn/2021-08/27/c\_1631652502874117.htm](http://www.cac.gov.cn/2021-08/27/c_1631652502874117.htm).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos572372)
-
+     
 12.  It doesn’t describe how countries See, for example, Alex Engler, “The Limited Global Impact of the EU AI Act,” Brookings, June 14, 2022, [www.brookings.edu/blog/techtank/2022/06/14/the-limited-global-impact-of-the-eu-ai-act](http://www.brookings.edu/blog/techtank/2022/06/14/the-limited-global-impact-of-the-eu-ai-act). A study of 250,000 international treaties suggests they tend not to achieve their ends. See Steven J. Hoffman et al., “International Treaties Have Mostly Failed to Produce Their Intended Effects,” PNAS, Aug. 1, 2022, [www.pnas.org/doi/10.1073/pnas.2122854119](http://www.pnas.org/doi/10.1073/pnas.2122854119).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos573528)
-
+     
 14.  Our prehistoric brains See George Marshall, Don’t Even Think About It: Why Our Brains Are Wired to Ignore Climate Change (New York: Bloomsbury, 2014), for a detailed elaboration of this point.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos585147)
-
+     
 15.  As recently as the 1970s Rebecca Lindsey, “Climate Change: Atmospheric Carbon Dioxide,” Climate.gov, June 23, 2022, [www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide](http://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id122/index_split_022.html#filepos585629)
 
 ---
@@ -4653,210 +4659,210 @@ CHAPTER 13: CONTAINMENT MUST BE POSSIBLE
 CHAPTER 14: TEN STEPS TOWARD CONTAINMENT
 
 1.  The International Atomic Energy Agency “IAEA Safety Standards,” International Atomic Energy Agency, [www.iaea.org/resources/safety-standards/search?facility=All&term\_node\_tid\_depth\_2=All&field\_publication\_series\_info\_value=&combine=&items\_per\_page=100](http://www.iaea.org/resources/safety-standards/search?facility=All&term_node_tid_depth_2=All&field_publication_series_info_value=&combine=&items_per_page=100).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos596696)
-
+    
 2.  The main monitor of bioweapons Toby Ord, The Precipice: Existential Risk and the Future of Humanity (London: Bloomsbury, 2020), 57.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos597864)
-
+    
 3.  The number of AI safety researchers Benaich and Hogarth, State of AI Report 2022.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos598061)
-
+    
 4.  Given there are around For an estimate the number of AI researchers, see “What Is Effective Altruism?,” [www.effectivealtruism.org/articles/introduction-to-effective-altruism#fn-15](http://www.effectivealtruism.org/articles/introduction-to-effective-altruism#fn-15).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos598250)
-
+    
 5.  The original Apollo missions NASA, “Benefits from Apollo: Giant Leaps in Technology,” NASA Facts, July 2004, [www.nasa.gov/sites/default/files/80660main\_ApolloFS.pdf](http://www.nasa.gov/sites/default/files/80660main_ApolloFS.pdf).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos599427)
-
+    
 6.  Giving off light Kevin M. Esvelt, “Delay, Detect, Defend: Preparing for a Future in Which Thousands Can Release New Pandemics,” Geneva Centre for Security Policy, Nov. 14, 2022, [dam.gcsp.ch/files/doc/gcsp-geneva-paper-29-22](http://dam.gcsp.ch/files/doc/gcsp-geneva-paper-29-22).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos600554)
-
+    
 7.  There’s also great work being done Jan Leike, “Alignment Optimism,” Aligned, Dec. 5, 2022, [aligned.substack.com/p/alignment-optimism](http://aligned.substack.com/p/alignment-optimism).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos603064)
-
+    
 8.  The computer scientist Stuart Russell Russell, Human Compatible.
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos603617)
-
+    
 9.  This means attacking your systems Deep Ganguli et al., “Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned,” arXiv, Nov. 22, 2022, [arxiv.org/pdf/2209.07858.pdf](http://arxiv.org/pdf/2209.07858.pdf).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos610229)
-
+    
 10.  On the technical side Sam R. Bowman et al., “Measuring Progress on Scalable Oversight for Large Language Models,” arXiv, Nov. 11, 2022, [arxiv.org/abs/2211.03540](http://arxiv.org/abs/2211.03540).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos612073)
-
+     
 11.  At present only a fraction Security DNA Project, “Securing Global Biotechnology,” SecureDNA, [www.securedna.org](http://www.securedna.org).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos612962)
-
+     
 12.  Xi Jinping was worried Ben Murphy, “Chokepoints: China’s Self-Identified Strategic Technology Import Dependencies,” Center for Security and Emerging Technology, May 2022, [cset.georgetown.edu/publication/chokepoints](http://cset.georgetown.edu/publication/chokepoints).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos616419)
-
+     
 13.  Indeed, China spends more Chris Miller, Chip War: The Fight for the World’s Most Critical Technology (New York: Scribner, 2022).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos616801)
-
+     
 14.  One technology executive Demetri Sevastopulo and Kathrin Hille, “US Hits China with Sweeping Tech Export Controls,” Financial Times, Oct. 7, 2022, [www.ft.com/content/6825bee4-52a7-4c86-b1aa-31c100708c3e](http://www.ft.com/content/6825bee4-52a7-4c86-b1aa-31c100708c3e).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos619250)
-
+     
 15.  In the short to medium term Gregory C. Allen, “Choking Off China’s Access to the Future of AI,” Center for Strategic & International Studies, Oct. 11, 2022, [www.csis.org/analysis/choking-chinas-access-future-ai](http://www.csis.org/analysis/choking-chinas-access-future-ai).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos619479)
-
+     
 16.  If it takes hundreds of billions Julie Zhu, “China Readying $143 Billion Package for Its Chip Firms in Face of U.S. Curbs,” Reuters, Dec. 14, 2022, [www.reuters.com/technology/china-plans-over-143-bln-push-boost-domestic-chips-compete-with-us-sources-2022-12-13](http://www.reuters.com/technology/china-plans-over-143-bln-push-boost-domestic-chips-compete-with-us-sources-2022-12-13).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos619968)
-
+     
 17.  NVIDIA, the American manufacturer Stephen Nellis and Jane Lee, “Nvidia Tweaks Flagship H100 Chip for Export to China as H800,” Reuters, March 22, 2023, [www.reuters.com/technology/nvidia-tweaks-flagship-h100-chip-export-china-h800-2023-03-21](http://www.reuters.com/technology/nvidia-tweaks-flagship-h100-chip-export-china-h800-2023-03-21).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos620267)
-
+     
 19.  ASML’s machines Moreover, not just the machines but many component parts have only one manufacturer, like high-end lasers from Cymer or mirrors from Zeiss so pure that, were they the size of Germany, an irregularity would be only a few millimeters wide.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos622378)
-
+     
 20.  These three companies have See, for example, Michael Filler on Twitter, May 25, 2022, [twitter.com/michaelfiller/status/1529633698961833984](http://twitter.com/michaelfiller/status/1529633698961833984).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos622586)
-
+     
 21.  A crunch on the rare earth “Where Is the Greatest Risk to Our Mineral Resource Supplies?,” USGS, Feb. 21, 2020, [www.usgs.gov/news/national-news-release/new-methodology-identifies-mineral-commodities-whose-supply-disruption?qt-news\_science\_products=1#qt-news\_science\_products](http://www.usgs.gov/news/national-news-release/new-methodology-identifies-mineral-commodities-whose-supply-disruption?qt-news_science_products=1#qt-news_science_products).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos623200)
-
+     
 22.  Some 80 percent of the high-quality quartz Zeihan, The End of the World Is Just the Beginning, 314.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos623305)
-
+     
 23.  Indeed, at times shrill criticism Lee Vinsel, “You’re Doing It Wrong: Notes on Criticism and Technology Hype,” Medium, Feb. 1, 2021, [sts-news.medium.com/youre-doing-it-wrong-notes-on-criticism-and-technology-hype-18b08b4307e5](http://sts-news.medium.com/youre-doing-it-wrong-notes-on-criticism-and-technology-hype-18b08b4307e5).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos627188)
-
+     
 24.  Promisingly, research on ethical AI Stanford University Human-Centered Artificial Intelligence, Artificial Intelligence Index Report 2021.
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos630253)
-
+     
 25.  Major shortfalls For example, Shannon Vallor, “Mobilising the Intellectual Resources of the Arts and Humanities,” Ada Lovelace Institute, June 25, 2021, [www.adalovelaceinstitute.org/blog/mobilising-intellectual-resources-arts-humanities](http://www.adalovelaceinstitute.org/blog/mobilising-intellectual-resources-arts-humanities).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos630629)
-
+     
 26.  Forming a coalition Kay C. James on Twitter, March 20, 2019, [twitter.com/KayColesJames/status/1108365238779498497](http://twitter.com/KayColesJames/status/1108365238779498497).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos637567)
-
+     
 27.  There’s a good chance of positive “B Corps ‘Go Beyond’ Business as Usual,” B Lab, March 1, 2023, [www.bcorporation.net/en-us/news/press/b-corps-go-beyond-business-as-usual-for-b-corp-month-2023](http://www.bcorporation.net/en-us/news/press/b-corps-go-beyond-business-as-usual-for-b-corp-month-2023).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos640656)
-
+     
 28.  Although today companies have “U.S. Research and Development Funding and Performance: Fact Sheet,” Congressional Research Service, Sept. 13, 2022, [sgp.fas.org/crs/misc/R44307.pdf](http://sgp.fas.org/crs/misc/R44307.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos643150)
-
+     
 29.  Investing in science and technology See, for example, Mariana Mazzucato, The Entrepreneurial State: Debunking Public vs. Private Sector Myths (London: Anthem Press, 2013).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos643524)
-
+     
 30.  Their first task should be These points are well made in Jess Whittlestone and Jack Clark, “Why and How Governments Should Monitor AI Development,” arXiv, Aug. 31, 2021, [arxiv.org/pdf/2108.12427.pdf](http://arxiv.org/pdf/2108.12427.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos644420)
-
+     
 31.  In 2015 there was virtually “Legislation Related to Artificial Intelligence,” National Conference of State Legislatures, Aug. 26, 2022, [www.ncsl.org/research/telecommunications-and-information-technology/2020-legislation-related-to-artificial-intelligence.aspx](http://www.ncsl.org/research/telecommunications-and-information-technology/2020-legislation-related-to-artificial-intelligence.aspx).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos646322)
-
+     
 32.  The OECD AI Policy Observatory OECD, “National AI Policies & Strategies,” OECD AI Policy Observatory, [oecd.ai/en/dashboards/overview](http://oecd.ai/en/dashboards/overview).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos646504)
-
+     
 33.  In 2022 the White House released “Fact Sheet: Biden-Harris Administration Announces Key Actions to Advance Tech Accountability and Protect the Rights of the American Public,” White House, Oct. 4, 2022, [www.whitehouse.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public](http://www.whitehouse.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos646781)
-
+     
 34.  Today U.S. labor is taxed Daron Acemoglu et al., “Taxes, Automation, and the Future of Labor,” MIT Work of the Future, [mitsloan.mit.edu/shared/ods/documents?PublicationDocumentID=7929](http://mitsloan.mit.edu/shared/ods/documents?PublicationDocumentID=7929).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos649433)
-
+     
 35.  This is sometimes called Arnaud Costinot and Ivan Werning, “Robots, Trade, and Luddism: A Sufficient Statistic Approach to Optimal Technology Regulation,” Review of Economic Studies, Nov. 4, 2022, [academic.oup.com/restud/advance-article/doi/10.1093/restud/rdac076/6798670](http://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdac076/6798670).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos650274)
-
+     
 36.  MIT economists have argued Daron Acemoglu et al., “Does the US Tax Code Favor Automation?,” Brookings Papers on Economic Activity (Spring 2020), [www.brookings.edu/wp-content/uploads/2020/12/Acemoglu-FINAL-WEB.pdf](http://www.brookings.edu/wp-content/uploads/2020/12/Acemoglu-FINAL-WEB.pdf).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos650329)
-
+     
 37.  In an era of hyper-scaling Sam Altman, “Moore’s Law for Everything,” Sam Altman, March 16, 2021, [moores.samaltman.com](http://moores.samaltman.com).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos651277)
-
+     
 39.  Use of blinding laser weapons “The Convention on Certain Conventional Weapons,” United Nations, [www.un.org/disarmament/the-convention-on-certain-conventional-weapons](http://www.un.org/disarmament/the-convention-on-certain-conventional-weapons).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos653579)
-
+     
 40.  A study of 106 countries Françoise Baylis et al., “Human Germline and Heritable Genome Editing: The Global Policy Landscape,” CRISPR Journal, Oct. 20, 2020, [www.liebertpub.com/doi/10.1089/crispr.2020.0082](http://www.liebertpub.com/doi/10.1089/crispr.2020.0082).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos658263)
-
+     
 41.  In the aftermath of the first Eric S. Lander et al., “Adopt a Moratorium on Heritable Genome Editing,” Nature, March 13, 2019, [www.nature.com/articles/d41586-019-00726-5](http://www.nature.com/articles/d41586-019-00726-5).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos658637)
-
+     
 42.  By the early 2010s Peter Dizikes, “Study: Commercial Air Travel Is Safer Than Ever,” MIT News, Jan. 23, 2020, [news.mit.edu/2020/study-commercial-flights-safer-ever-0124](http://news.mit.edu/2020/study-commercial-flights-safer-ever-0124).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos664886)
-
+     
 43.  We met again in 2017 “AI Principles,” Future of Life Institute, Aug. 11, 2017, [futureoflife.org/open-letter/ai-principles](http://futureoflife.org/open-letter/ai-principles).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos670856)
-
+     
 44.  Social and moral responsibility Joseph Rotblat, “A Hippocratic Oath for Scientists,” Science, Nov. 19, 1999, [www.science.org/doi/10.1126/science.286.5444.1475](http://www.science.org/doi/10.1126/science.286.5444.1475).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos671622)
-
+     
 45.  Because we build technology See, for example, proposals from Rich Sutton, “Creating Human-Level AI: How and When?,” University of Alberta, Canada, [futureoflife.org/data/PDF/rich\_sutton.pdf?x72900](http://futureoflife.org/data/PDF/rich_sutton.pdf?x72900); Azeem Azhar, “We are the ones who decide what we want from the tools we build” (Azhar, Exponential, 253); or Kai-Fu Lee, “We will not be passive spectators in the story of AI—we are the authors of it” (Kai-Fu Lee and Qiufan Cheng, AI 2041: Ten Visions for Our Future \[London: W. H. Allen, 2021, 437\]).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos673903)
-
+     
 46.  Communication around AI Patrick O’Shea et al., “Communicating About the Social Implications of AI: A FrameWorks Strategic Brief,” FrameWorks Institute, Oct. 19, 2021, [www.frameworksinstitute.org/publication/communicating-about-the-social-implications-of-ai-a-frameworks-strategic-brief](http://www.frameworksinstitute.org/publication/communicating-about-the-social-implications-of-ai-a-frameworks-strategic-brief).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos675109)
-
+     
 47.  Research shows that when Stefan Schubert et al., “The Psychology of Existential Risk: Moral Judgments About Human Extinction,” Nature Scientific Reports, Oct. 21, 2019, [www.nature.com/articles/s41598-019-50145-9](http://www.nature.com/articles/s41598-019-50145-9).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos676056)
-
+     
 48.  Meanwhile, citizen assemblies offer Aviv Ovadya, “Towards Platform Democracy,” Harvard Kennedy School Belfer Center, Oct. 18, 2021, [www.belfercenter.org/publication/towards-platform-democracy-policymaking-beyond-corporate-ceos-and-partisan-pressure](http://www.belfercenter.org/publication/towards-platform-democracy-policymaking-beyond-corporate-ceos-and-partisan-pressure).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos676979)
-
+     
 49.  Referencing the Asilomar principles “Pause Giant AI Experiments: An Open Letter,” Future of Life Institute, March 29, 2023, [futureoflife.org/open-letter/pause-giant-ai-experiments](http://futureoflife.org/open-letter/pause-giant-ai-experiments).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos678480)
-
+     
 50.  A complaint against LLMs Adi Robertson, “FTC Should Stop OpenAI from Launching New GPT Models, Says AI Policy Group,” The Verge, March 30, 2023, [www.theverge.com/2023/3/30/23662101/ftc-openai-investigation-request-caidp-gpt-text-generation-bias](http://www.theverge.com/2023/3/30/23662101/ftc-openai-investigation-request-caidp-gpt-text-generation-bias).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos678836)
-
+     
 51.  One good example comes Esvelt, “Delay, Detect, Defend.” For another example of a holistic approach to containment strategy, see Allison Duettmann, “Defend Against Physical Threats: Multipolar Active Shields,” Foresight Institute, Feb. 14, 2022, [foresightinstitute.substack.com/p/defend-physical](http://foresightinstitute.substack.com/p/defend-physical).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos679727)
-
+     
 52.  The economist Daron Acemoglu Daron Acemoglu and James Robinson, The Narrow Corridor: How Nations Struggle for Liberty (London: Viking, 2019).
-
+     
      [GO TO NOTE REFERENCE IN TEXT](/links/id121/index_split_023.html#filepos685185)
-
+     
 
 LIFE AFTER THE ANTHROPOCENE
 
 1.  Technology should amplify See, for example, arguments like that of Divya Siddarth et al., “How AI Fails Us,” Edmond and Lily Safra Center for Ethics, Dec. 1, 2021, [ethics.harvard.edu/how-ai-fails-us](http://ethics.harvard.edu/how-ai-fails-us).
-
+    
     [GO TO NOTE REFERENCE IN TEXT](/links/id120/index_split_024.html#filepos704680)
 
 ---
@@ -4869,1994 +4875,1994 @@ The page numbers in this index refer to the printed version of the book. Each li
 
 A
 
-*   Aadhaar, [126](/links/id129/index_split_015.html#filepos319513)
-
-*   academia, [128](/links/id129/index_split_015.html#filepos324791)
-
-*   accessibility of new technology
-
-    *   AI, [69](/links/id133/index_split_011.html#filepos176396)
-
-    *   decentralization and, [198](/links/id125/index_split_019.html#filepos494377)
-
-    *   dematerialization and, [190](/links/id125/index_split_019.html#filepos473956)
-
-    *   genetic engineering, [82–83](/links/id132/index_split_012.html#filepos209535)
-
-    *   military applications and, [106](/links/id130/index_split_014.html#filepos270062), [126](/links/id129/index_split_015.html#filepos319513)
-
-    *   power and, [163–64](/links/id126/index_split_018.html#filepos405785), [198](/links/id125/index_split_019.html#filepos494377), [199](/links/id125/index_split_019.html#filepos497003)
-
-*   Acemoglu, Daron, [179](/links/id126/index_split_018.html#filepos447227), [276](/links/id121/index_split_023.html#filepos685185), [278](/links/id121/index_split_023.html#filepos690175)
-
-*   Acheson-Lilienthal Report, [42](/links/id135/index_split_009.html#filepos114541)
-
-*   additive manufacturing. See [3-D printing](#filepos1188306)
-
-*   Aerorozvidka, [103–4](/links/id130/index_split_014.html#filepos262914)
-
-*   agriculture
-
-    *   challenges of, [136–37](/links/id129/index_split_015.html#filepos345698)
-
-    *   climate change and, [138](/links/id129/index_split_015.html#filepos350938)
-
-    *   as general-purpose technology, [27](/links/id136/index_split_008.html#filepos76287)
-
-    *   profit motive and, [133](/links/id129/index_split_015.html#filepos337952)
-
-    *   robotics and, [93–94](/links/id131/index_split_013.html#filepos237062)
-
-    *   as technology wave, [28](/links/id136/index_split_008.html#filepos78830)
-
-*   AI Act (EU), [229](/links/id122/index_split_022.html#filepos566043), [260](/links/id121/index_split_023.html#filepos644736)
-
-*   AI Incidents Database, [246](/links/id121/index_split_023.html#filepos608306)
-
-*   air gaps, [241](/links/id121/index_split_023.html#filepos595493)
-
-*   airlines, [267–68](/links/id121/index_split_023.html#filepos662791)
-
-*   AlexNet, [58–59](/links/id133/index_split_011.html#filepos148179)
-
-*   algorithms, [63](/links/id133/index_split_011.html#filepos161091), [114](/links/id130/index_split_014.html#filepos290801), [247](/links/id121/index_split_023.html#filepos610825)
-
-*   Alibaba, [66](/links/id133/index_split_011.html#filepos168619)
-
-*   Allison, Graham, [123](/links/id129/index_split_015.html#filepos311888)
-
-*   Alphabet, [128](/links/id129/index_split_015.html#filepos324791), [256](/links/id121/index_split_023.html#filepos634339), [257](/links/id121/index_split_023.html#filepos636903)
-
-*   AlphaFold, [89–90](/links/id132/index_split_012.html#filepos227538), [109](/links/id130/index_split_014.html#filepos277660)
-
-*   AlphaGo, [53–54](/links/id133/index_split_011.html#filepos135032), [113](/links/id130/index_split_014.html#filepos288232), [117–19](/links/id129/index_split_015.html#filepos296960), [120](/links/id129/index_split_015.html#filepos304166)
-
-*   AlphaZero, [54](/links/id133/index_split_011.html#filepos137819)
-
-*   alternatives, [234](/links/id122/index_split_022.html#filepos579354)
-
-*   Altos Labs, [85](/links/id132/index_split_012.html#filepos217364)
-
-*   Amazon, [94–95](/links/id131/index_split_013.html#filepos239628), [189](/links/id125/index_split_019.html#filepos471462)
-
-*   Anduril, [166](/links/id126/index_split_018.html#filepos413743)
-
-*   anthrax, [174](/links/id126/index_split_018.html#filepos434228)
-
-*   anti-aging technologies. See [longevity technologies](#filepos1121478)
-
-*   antibiotics, [36](/links/id135/index_split_009.html#filepos98799)
-
-*   Apple, [187](/links/id125/index_split_019.html#filepos466368), [189](/links/id125/index_split_019.html#filepos471462)
-
-*   Arkhipov, Vasili, [44](/links/id135/index_split_009.html#filepos119514)
-
-*   arms race rhetoric, [124–25](/links/id129/index_split_015.html#filepos314500), [126–27](/links/id129/index_split_015.html#filepos319513)
-
-*   Arnold, Frances, [87](/links/id132/index_split_012.html#filepos222513)
-
-*   Arthur, W. Brian, [56](/links/id133/index_split_011.html#filepos142972)
-
-*   artificial capable intelligence (ACI), [vii](/links/id141/index_split_003.html#filepos23257), [77–78](/links/id133/index_split_011.html#filepos196958), [115](/links/id130/index_split_014.html#filepos293320), [164](/links/id126/index_split_018.html#filepos408492), [210](/links/id124/index_split_020.html#filepos522759)
-
-*   artificial general intelligence (AGI)
-
-    *   catastrophe scenarios and, [209](/links/id124/index_split_020.html#filepos520201), [210](/links/id124/index_split_020.html#filepos522759)
-
-    *   chatbots and, [114](/links/id130/index_split_014.html#filepos290801)
-
-    *   DeepMind founding and, [8](/links/id138/index_split_006.html#filepos37461)
-
-    *   defined, [vii](/links/id141/index_split_003.html#filepos23257), [51](/links/id133/index_split_011.html#filepos130522)
-
-    *   gorilla problem and, [115–16](/links/id130/index_split_014.html#filepos293320)
-
-
-*   gradual nature of, [75](/links/id133/index_split_011.html#filepos191737)
-
-*   superintelligence and, [75](/links/id133/index_split_011.html#filepos191737), [77](/links/id133/index_split_011.html#filepos196958), [78](/links/id133/index_split_011.html#filepos199565), [115](/links/id130/index_split_014.html#filepos293320)
-
-*   yet to come, [73–74](/links/id133/index_split_011.html#filepos186401)
-
-
-*   artificial intelligence (AI)
-
-    *   aspirations for, [7–8](/links/id138/index_split_006.html#filepos34831)
-
-    *   autonomy and, [114](/links/id130/index_split_014.html#filepos290801), [115](/links/id130/index_split_014.html#filepos293320)
-
-    *   as basis of coming wave, [55](/links/id133/index_split_011.html#filepos140390)
-
-    *   benefits of, [10–11](/links/id138/index_split_006.html#filepos42564)
-
-    *   catastrophe scenarios and, [208](/links/id124/index_split_020.html#filepos517634), [209–11](/links/id124/index_split_020.html#filepos520201)
-
-    *   chatbots, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724), [70](/links/id133/index_split_011.html#filepos178980), [113–14](/links/id130/index_split_014.html#filepos288232)
-
-    *   Chinese development of, [120–21](/links/id129/index_split_015.html#filepos304166)
-
-    *   choke points in, [251](/links/id121/index_split_023.html#filepos621545)
-
-    *   climate change and, [139](/links/id129/index_split_015.html#filepos353584)
-
-    *   consciousness and, [74](/links/id133/index_split_011.html#filepos189113), [75](/links/id133/index_split_011.html#filepos191737)
-
-    *   contradictions and, [202](/links/id125/index_split_019.html#filepos504628)
-
-    *   costs of, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724)
-
-    *   current applications, [61–62](/links/id133/index_split_011.html#filepos155787)
-
-    *   current capabilities of, [8–9](/links/id138/index_split_006.html#filepos37461)
-
-    *   cyberattacks and, [162–63](/links/id126/index_split_018.html#filepos403195), [166–67](/links/id126/index_split_018.html#filepos413743)
-
-    *   defined, [vii](/links/id141/index_split_003.html#filepos23257)
-
-    *   early experiments in, [51–54](/links/id133/index_split_011.html#filepos130522)
-
-    *   efficiency of, [68–69](/links/id133/index_split_011.html#filepos173724)
-
-    *   ego and, [140](/links/id129/index_split_015.html#filepos356234)
-
-    *   ethics and, [254](/links/id121/index_split_023.html#filepos629299)
-
-    *   explanation and, [243](/links/id121/index_split_023.html#filepos600612)
-
-    *   future of, [78](/links/id133/index_split_011.html#filepos199565)
-
-    *   future ubiquity of, [284–85](/links/id120/index_split_024.html#filepos700447)
-
-    *   global reach of, [9–10](/links/id138/index_split_006.html#filepos39969)
-
-    *   hallucination problem and, [243](/links/id121/index_split_023.html#filepos600612)
-
-    *   human brain as fixed target, [67–68](/links/id133/index_split_011.html#filepos171140)
-
-    *   hyper-evolution and, [109](/links/id130/index_split_014.html#filepos277660)
-
-    *   invisibility of, [73](/links/id133/index_split_011.html#filepos186401)
-
-    *   limitations of, [73](/links/id133/index_split_011.html#filepos186401)
-
-    *   medical applications, [110](/links/id130/index_split_014.html#filepos280224)
-
-    *   military applications, [104](/links/id130/index_split_014.html#filepos264947), [165](/links/id126/index_split_018.html#filepos411097)
-
-    *   Modern Turing Test, [76–77](/links/id133/index_split_011.html#filepos194297), [78](/links/id133/index_split_011.html#filepos199565), [115](/links/id130/index_split_014.html#filepos293320), [190](/links/id125/index_split_019.html#filepos473956), [210](/links/id124/index_split_020.html#filepos522759)
-
-    *   narrow nature of, [73–74](/links/id133/index_split_011.html#filepos186401)
-
-    *   near-term capabilities, [77](/links/id133/index_split_011.html#filepos196958)
-
-    *   omni-use technology and, [111](/links/id130/index_split_014.html#filepos282957), [130](/links/id129/index_split_015.html#filepos330146)
-
-    *   openness imperative and, [128–29](/links/id129/index_split_015.html#filepos324791)
-
-    *   potential of, [56](/links/id133/index_split_011.html#filepos142972), [70](/links/id133/index_split_011.html#filepos178980), [135](/links/id129/index_split_015.html#filepos343195)
-
-    *   as priority, [60](/links/id133/index_split_011.html#filepos153268)
-
-    *   profit motive and, [134](/links/id129/index_split_015.html#filepos340575), [135](/links/id129/index_split_015.html#filepos343195), [136](/links/id129/index_split_015.html#filepos345698)
-
-    *   proliferation of, [68–69](/links/id133/index_split_011.html#filepos173724)
-
-    *   protein structure and, [88–89](/links/id132/index_split_012.html#filepos225087)
-
-    *   red teaming and, [246](/links/id121/index_split_023.html#filepos608306)
-
-    *   regulation attempts, [229](/links/id122/index_split_022.html#filepos566043), [260–61](/links/id121/index_split_023.html#filepos644736)
-
-    *   research unpredictability and, [130](/links/id129/index_split_015.html#filepos330146)
-
-    *   robotics and, [95](/links/id131/index_split_013.html#filepos242332), [96](/links/id131/index_split_013.html#filepos244953), [98](/links/id131/index_split_013.html#filepos250100)
-
-    *   safety and, [241](/links/id121/index_split_023.html#filepos595493), [243–44](/links/id121/index_split_023.html#filepos600612)
-
-    *   scaling hypothesis, [67–68](/links/id133/index_split_011.html#filepos171140), [74](/links/id133/index_split_011.html#filepos189113)
-
-    *   self-critical culture and, [270](/links/id121/index_split_023.html#filepos670378)
-
-    *   sentience claims, [72](/links/id133/index_split_011.html#filepos184050), [75](/links/id133/index_split_011.html#filepos191737)
-
-    *   skepticism about, [72](/links/id133/index_split_011.html#filepos184050), [179](/links/id126/index_split_018.html#filepos447227)
-
-    *   surveillance and, [193–94](/links/id125/index_split_019.html#filepos481522), [195](/links/id125/index_split_019.html#filepos486519), [196](/links/id125/index_split_019.html#filepos489096)
-
-    *   synthetic biology and, [89–90](/links/id132/index_split_012.html#filepos227538), [109](/links/id130/index_split_014.html#filepos277660)
-
-    *   technological unemployment and, [177–81](/links/id126/index_split_018.html#filepos442103)
-
-    *   Turing test, [75](/links/id133/index_split_011.html#filepos191737)
-
-    *   See also [coming wave](#filepos1050502); [deep learning](#filepos1071372); [machine learning](#filepos1124497)
-
-*   arXiv, [129](/links/id129/index_split_015.html#filepos327465)
-
-*   Asilomar principles, [269–70](/links/id121/index_split_023.html#filepos667910), [272–73](/links/id121/index_split_023.html#filepos675877)
-
-*   ASML, [251](/links/id121/index_split_023.html#filepos621545)
-
-*   asymmetrical impact, [105–7](/links/id130/index_split_014.html#filepos267447), [234](/links/id122/index_split_022.html#filepos579354)
-
-*   Atlantis, [5](/links/id138/index_split_006.html#filepos30162)
-
-*   Atmanirbhar Bharat program (India), [125–26](/links/id129/index_split_015.html#filepos316974)
-
-*   attention, [63](/links/id133/index_split_011.html#filepos161091)
-
-*   attention maps, [63](/links/id133/index_split_011.html#filepos161091)
-
-*   audits, [245–48](/links/id121/index_split_023.html#filepos605700), [267](/links/id121/index_split_023.html#filepos662791)
-
-*   Aum Shinrikyo, [212–13](/links/id124/index_split_020.html#filepos527705), [214](/links/id124/index_split_020.html#filepos532830)
-
-*   authoritarianism, [153](/links/id127/index_split_017.html#filepos380740), [158–59](/links/id127/index_split_017.html#filepos393981), [191–96](/links/id125/index_split_019.html#filepos476459), [216–17](/links/id124/index_split_020.html#filepos538087)
-
-*   autocomplete, [63](/links/id133/index_split_011.html#filepos161091)
-
-*   automated drug discovery, [110](/links/id130/index_split_014.html#filepos280224)
-
-*   automation, [177–81](/links/id126/index_split_018.html#filepos442103)
-
-*   autonomy, [105](/links/id130/index_split_014.html#filepos267447), [113–15](/links/id130/index_split_014.html#filepos288232), [166](/links/id126/index_split_018.html#filepos413743), [234](/links/id122/index_split_022.html#filepos579354)
-
-*   Autor, David, [179](/links/id126/index_split_018.html#filepos447227)
-
-*   al-Awlaki, Anwar, [171](/links/id126/index_split_018.html#filepos426486)
-
+-   Aadhaar, [126](/links/id129/index_split_015.html#filepos319513)
+    
+-   academia, [128](/links/id129/index_split_015.html#filepos324791)
+    
+-   accessibility of new technology
+    
+    -   AI, [69](/links/id133/index_split_011.html#filepos176396)
+        
+    -   decentralization and, [198](/links/id125/index_split_019.html#filepos494377)
+        
+    -   dematerialization and, [190](/links/id125/index_split_019.html#filepos473956)
+        
+    -   genetic engineering, [82–83](/links/id132/index_split_012.html#filepos209535)
+        
+    -   military applications and, [106](/links/id130/index_split_014.html#filepos270062), [126](/links/id129/index_split_015.html#filepos319513)
+        
+    -   power and, [163–64](/links/id126/index_split_018.html#filepos405785), [198](/links/id125/index_split_019.html#filepos494377), [199](/links/id125/index_split_019.html#filepos497003)
+        
+-   Acemoglu, Daron, [179](/links/id126/index_split_018.html#filepos447227), [276](/links/id121/index_split_023.html#filepos685185), [278](/links/id121/index_split_023.html#filepos690175)
+    
+-   Acheson-Lilienthal Report, [42](/links/id135/index_split_009.html#filepos114541)
+    
+-   additive manufacturing. See [3-D printing](#filepos1188306)
+    
+-   Aerorozvidka, [103–4](/links/id130/index_split_014.html#filepos262914)
+    
+-   agriculture
+    
+    -   challenges of, [136–37](/links/id129/index_split_015.html#filepos345698)
+        
+    -   climate change and, [138](/links/id129/index_split_015.html#filepos350938)
+        
+    -   as general-purpose technology, [27](/links/id136/index_split_008.html#filepos76287)
+        
+    -   profit motive and, [133](/links/id129/index_split_015.html#filepos337952)
+        
+    -   robotics and, [93–94](/links/id131/index_split_013.html#filepos237062)
+        
+    -   as technology wave, [28](/links/id136/index_split_008.html#filepos78830)
+        
+-   AI Act (EU), [229](/links/id122/index_split_022.html#filepos566043), [260](/links/id121/index_split_023.html#filepos644736)
+    
+-   AI Incidents Database, [246](/links/id121/index_split_023.html#filepos608306)
+    
+-   air gaps, [241](/links/id121/index_split_023.html#filepos595493)
+    
+-   airlines, [267–68](/links/id121/index_split_023.html#filepos662791)
+    
+-   AlexNet, [58–59](/links/id133/index_split_011.html#filepos148179)
+    
+-   algorithms, [63](/links/id133/index_split_011.html#filepos161091), [114](/links/id130/index_split_014.html#filepos290801), [247](/links/id121/index_split_023.html#filepos610825)
+    
+-   Alibaba, [66](/links/id133/index_split_011.html#filepos168619)
+    
+-   Allison, Graham, [123](/links/id129/index_split_015.html#filepos311888)
+    
+-   Alphabet, [128](/links/id129/index_split_015.html#filepos324791), [256](/links/id121/index_split_023.html#filepos634339), [257](/links/id121/index_split_023.html#filepos636903)
+    
+-   AlphaFold, [89–90](/links/id132/index_split_012.html#filepos227538), [109](/links/id130/index_split_014.html#filepos277660)
+    
+-   AlphaGo, [53–54](/links/id133/index_split_011.html#filepos135032), [113](/links/id130/index_split_014.html#filepos288232), [117–19](/links/id129/index_split_015.html#filepos296960), [120](/links/id129/index_split_015.html#filepos304166)
+    
+-   AlphaZero, [54](/links/id133/index_split_011.html#filepos137819)
+    
+-   alternatives, [234](/links/id122/index_split_022.html#filepos579354)
+    
+-   Altos Labs, [85](/links/id132/index_split_012.html#filepos217364)
+    
+-   Amazon, [94–95](/links/id131/index_split_013.html#filepos239628), [189](/links/id125/index_split_019.html#filepos471462)
+    
+-   Anduril, [166](/links/id126/index_split_018.html#filepos413743)
+    
+-   anthrax, [174](/links/id126/index_split_018.html#filepos434228)
+    
+-   anti-aging technologies. See [longevity technologies](#filepos1121478)
+    
+-   antibiotics, [36](/links/id135/index_split_009.html#filepos98799)
+    
+-   Apple, [187](/links/id125/index_split_019.html#filepos466368), [189](/links/id125/index_split_019.html#filepos471462)
+    
+-   Arkhipov, Vasili, [44](/links/id135/index_split_009.html#filepos119514)
+    
+-   arms race rhetoric, [124–25](/links/id129/index_split_015.html#filepos314500), [126–27](/links/id129/index_split_015.html#filepos319513)
+    
+-   Arnold, Frances, [87](/links/id132/index_split_012.html#filepos222513)
+    
+-   Arthur, W. Brian, [56](/links/id133/index_split_011.html#filepos142972)
+    
+-   artificial capable intelligence (ACI), [vii](/links/id141/index_split_003.html#filepos23257), [77–78](/links/id133/index_split_011.html#filepos196958), [115](/links/id130/index_split_014.html#filepos293320), [164](/links/id126/index_split_018.html#filepos408492), [210](/links/id124/index_split_020.html#filepos522759)
+    
+-   artificial general intelligence (AGI)
+    
+    -   catastrophe scenarios and, [209](/links/id124/index_split_020.html#filepos520201), [210](/links/id124/index_split_020.html#filepos522759)
+        
+    -   chatbots and, [114](/links/id130/index_split_014.html#filepos290801)
+        
+    -   DeepMind founding and, [8](/links/id138/index_split_006.html#filepos37461)
+        
+    -   defined, [vii](/links/id141/index_split_003.html#filepos23257), [51](/links/id133/index_split_011.html#filepos130522)
+        
+    -   gorilla problem and, [115–16](/links/id130/index_split_014.html#filepos293320)
+        
+
+-   gradual nature of, [75](/links/id133/index_split_011.html#filepos191737)
+    
+-   superintelligence and, [75](/links/id133/index_split_011.html#filepos191737), [77](/links/id133/index_split_011.html#filepos196958), [78](/links/id133/index_split_011.html#filepos199565), [115](/links/id130/index_split_014.html#filepos293320)
+    
+-   yet to come, [73–74](/links/id133/index_split_011.html#filepos186401)
+    
+
+-   artificial intelligence (AI)
+    
+    -   aspirations for, [7–8](/links/id138/index_split_006.html#filepos34831)
+        
+    -   autonomy and, [114](/links/id130/index_split_014.html#filepos290801), [115](/links/id130/index_split_014.html#filepos293320)
+        
+    -   as basis of coming wave, [55](/links/id133/index_split_011.html#filepos140390)
+        
+    -   benefits of, [10–11](/links/id138/index_split_006.html#filepos42564)
+        
+    -   catastrophe scenarios and, [208](/links/id124/index_split_020.html#filepos517634), [209–11](/links/id124/index_split_020.html#filepos520201)
+        
+    -   chatbots, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724), [70](/links/id133/index_split_011.html#filepos178980), [113–14](/links/id130/index_split_014.html#filepos288232)
+        
+    -   Chinese development of, [120–21](/links/id129/index_split_015.html#filepos304166)
+        
+    -   choke points in, [251](/links/id121/index_split_023.html#filepos621545)
+        
+    -   climate change and, [139](/links/id129/index_split_015.html#filepos353584)
+        
+    -   consciousness and, [74](/links/id133/index_split_011.html#filepos189113), [75](/links/id133/index_split_011.html#filepos191737)
+        
+    -   contradictions and, [202](/links/id125/index_split_019.html#filepos504628)
+        
+    -   costs of, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724)
+        
+    -   current applications, [61–62](/links/id133/index_split_011.html#filepos155787)
+        
+    -   current capabilities of, [8–9](/links/id138/index_split_006.html#filepos37461)
+        
+    -   cyberattacks and, [162–63](/links/id126/index_split_018.html#filepos403195), [166–67](/links/id126/index_split_018.html#filepos413743)
+        
+    -   defined, [vii](/links/id141/index_split_003.html#filepos23257)
+        
+    -   early experiments in, [51–54](/links/id133/index_split_011.html#filepos130522)
+        
+    -   efficiency of, [68–69](/links/id133/index_split_011.html#filepos173724)
+        
+    -   ego and, [140](/links/id129/index_split_015.html#filepos356234)
+        
+    -   ethics and, [254](/links/id121/index_split_023.html#filepos629299)
+        
+    -   explanation and, [243](/links/id121/index_split_023.html#filepos600612)
+        
+    -   future of, [78](/links/id133/index_split_011.html#filepos199565)
+        
+    -   future ubiquity of, [284–85](/links/id120/index_split_024.html#filepos700447)
+        
+    -   global reach of, [9–10](/links/id138/index_split_006.html#filepos39969)
+        
+    -   hallucination problem and, [243](/links/id121/index_split_023.html#filepos600612)
+        
+    -   human brain as fixed target, [67–68](/links/id133/index_split_011.html#filepos171140)
+        
+    -   hyper-evolution and, [109](/links/id130/index_split_014.html#filepos277660)
+        
+    -   invisibility of, [73](/links/id133/index_split_011.html#filepos186401)
+        
+    -   limitations of, [73](/links/id133/index_split_011.html#filepos186401)
+        
+    -   medical applications, [110](/links/id130/index_split_014.html#filepos280224)
+        
+    -   military applications, [104](/links/id130/index_split_014.html#filepos264947), [165](/links/id126/index_split_018.html#filepos411097)
+        
+    -   Modern Turing Test, [76–77](/links/id133/index_split_011.html#filepos194297), [78](/links/id133/index_split_011.html#filepos199565), [115](/links/id130/index_split_014.html#filepos293320), [190](/links/id125/index_split_019.html#filepos473956), [210](/links/id124/index_split_020.html#filepos522759)
+        
+    -   narrow nature of, [73–74](/links/id133/index_split_011.html#filepos186401)
+        
+    -   near-term capabilities, [77](/links/id133/index_split_011.html#filepos196958)
+        
+    -   omni-use technology and, [111](/links/id130/index_split_014.html#filepos282957), [130](/links/id129/index_split_015.html#filepos330146)
+        
+    -   openness imperative and, [128–29](/links/id129/index_split_015.html#filepos324791)
+        
+    -   potential of, [56](/links/id133/index_split_011.html#filepos142972), [70](/links/id133/index_split_011.html#filepos178980), [135](/links/id129/index_split_015.html#filepos343195)
+        
+    -   as priority, [60](/links/id133/index_split_011.html#filepos153268)
+        
+    -   profit motive and, [134](/links/id129/index_split_015.html#filepos340575), [135](/links/id129/index_split_015.html#filepos343195), [136](/links/id129/index_split_015.html#filepos345698)
+        
+    -   proliferation of, [68–69](/links/id133/index_split_011.html#filepos173724)
+        
+    -   protein structure and, [88–89](/links/id132/index_split_012.html#filepos225087)
+        
+    -   red teaming and, [246](/links/id121/index_split_023.html#filepos608306)
+        
+    -   regulation attempts, [229](/links/id122/index_split_022.html#filepos566043), [260–61](/links/id121/index_split_023.html#filepos644736)
+        
+    -   research unpredictability and, [130](/links/id129/index_split_015.html#filepos330146)
+        
+    -   robotics and, [95](/links/id131/index_split_013.html#filepos242332), [96](/links/id131/index_split_013.html#filepos244953), [98](/links/id131/index_split_013.html#filepos250100)
+        
+    -   safety and, [241](/links/id121/index_split_023.html#filepos595493), [243–44](/links/id121/index_split_023.html#filepos600612)
+        
+    -   scaling hypothesis, [67–68](/links/id133/index_split_011.html#filepos171140), [74](/links/id133/index_split_011.html#filepos189113)
+        
+    -   self-critical culture and, [270](/links/id121/index_split_023.html#filepos670378)
+        
+    -   sentience claims, [72](/links/id133/index_split_011.html#filepos184050), [75](/links/id133/index_split_011.html#filepos191737)
+        
+    -   skepticism about, [72](/links/id133/index_split_011.html#filepos184050), [179](/links/id126/index_split_018.html#filepos447227)
+        
+    -   surveillance and, [193–94](/links/id125/index_split_019.html#filepos481522), [195](/links/id125/index_split_019.html#filepos486519), [196](/links/id125/index_split_019.html#filepos489096)
+        
+    -   synthetic biology and, [89–90](/links/id132/index_split_012.html#filepos227538), [109](/links/id130/index_split_014.html#filepos277660)
+        
+    -   technological unemployment and, [177–81](/links/id126/index_split_018.html#filepos442103)
+        
+    -   Turing test, [75](/links/id133/index_split_011.html#filepos191737)
+        
+    -   See also [coming wave](#filepos1050502); [deep learning](#filepos1071372); [machine learning](#filepos1124497)
+        
+-   arXiv, [129](/links/id129/index_split_015.html#filepos327465)
+    
+-   Asilomar principles, [269–70](/links/id121/index_split_023.html#filepos667910), [272–73](/links/id121/index_split_023.html#filepos675877)
+    
+-   ASML, [251](/links/id121/index_split_023.html#filepos621545)
+    
+-   asymmetrical impact, [105–7](/links/id130/index_split_014.html#filepos267447), [234](/links/id122/index_split_022.html#filepos579354)
+    
+-   Atlantis, [5](/links/id138/index_split_006.html#filepos30162)
+    
+-   Atmanirbhar Bharat program (India), [125–26](/links/id129/index_split_015.html#filepos316974)
+    
+-   attention, [63](/links/id133/index_split_011.html#filepos161091)
+    
+-   attention maps, [63](/links/id133/index_split_011.html#filepos161091)
+    
+-   audits, [245–48](/links/id121/index_split_023.html#filepos605700), [267](/links/id121/index_split_023.html#filepos662791)
+    
+-   Aum Shinrikyo, [212–13](/links/id124/index_split_020.html#filepos527705), [214](/links/id124/index_split_020.html#filepos532830)
+    
+-   authoritarianism, [153](/links/id127/index_split_017.html#filepos380740), [158–59](/links/id127/index_split_017.html#filepos393981), [191–96](/links/id125/index_split_019.html#filepos476459), [216–17](/links/id124/index_split_020.html#filepos538087)
+    
+-   autocomplete, [63](/links/id133/index_split_011.html#filepos161091)
+    
+-   automated drug discovery, [110](/links/id130/index_split_014.html#filepos280224)
+    
+-   automation, [177–81](/links/id126/index_split_018.html#filepos442103)
+    
+-   autonomy, [105](/links/id130/index_split_014.html#filepos267447), [113–15](/links/id130/index_split_014.html#filepos288232), [166](/links/id126/index_split_018.html#filepos413743), [234](/links/id122/index_split_022.html#filepos579354)
+    
+-   Autor, David, [179](/links/id126/index_split_018.html#filepos447227)
+    
+-   al-Awlaki, Anwar, [171](/links/id126/index_split_018.html#filepos426486)
+    
 
 B
 
-*   backpropagation, [59](/links/id133/index_split_011.html#filepos150763)
-
-*   bad actor empowerment, [165–66](/links/id126/index_split_018.html#filepos411097), [208](/links/id124/index_split_020.html#filepos517634), [266](/links/id121/index_split_023.html#filepos660315)
-
-    *   See also [terrorism](#filepos1187727)
-
-*   B corps, [258](/links/id121/index_split_023.html#filepos639403)
-
-*   Bell, Alexander Graham, [31](/links/id136/index_split_008.html#filepos86511)
-
-*   Benz, Carl, [24](/links/id136/index_split_008.html#filepos68623), [285](/links/id120/index_split_024.html#filepos703003)
-
-*   Berg, Paul, [269–70](/links/id121/index_split_023.html#filepos667910)
-
-*   BGI Group, [122](/links/id129/index_split_015.html#filepos309188)
-
-*   bias, [69–70](/links/id133/index_split_011.html#filepos176396), [239–40](/links/id121/index_split_023.html#filepos590880)
-
-*   Bioforge, [86](/links/id132/index_split_012.html#filepos219964)
-
-*   Biological Weapons Convention, [241](/links/id121/index_split_023.html#filepos595493), [263](/links/id121/index_split_023.html#filepos652540)
-
-*   biotech. See [synthetic biology](#filepos1179576)
-
-*   Black Death, [205](/links/id124/index_split_020.html#filepos510531)
-
-*   Bletchley Park, [32](/links/id136/index_split_008.html#filepos89069)
-
-*   books, [30](/links/id136/index_split_008.html#filepos83827)
-
-*   Boyer, Herbert W., [80](/links/id132/index_split_012.html#filepos204386)
-
-*   Breakout, [51–52](/links/id133/index_split_011.html#filepos130522), [113](/links/id130/index_split_014.html#filepos288232)
-
-*   Brin, Sergey, [53](/links/id133/index_split_011.html#filepos135032)
-
-*   British East India Company, [186](/links/id125/index_split_019.html#filepos463871), [189](/links/id125/index_split_019.html#filepos471462)
-
-*   Brown, David, [98](/links/id131/index_split_013.html#filepos250100)
-
-*   Brown, Wendy, [185](/links/id125/index_split_019.html#filepos461250)
-
+-   backpropagation, [59](/links/id133/index_split_011.html#filepos150763)
+    
+-   bad actor empowerment, [165–66](/links/id126/index_split_018.html#filepos411097), [208](/links/id124/index_split_020.html#filepos517634), [266](/links/id121/index_split_023.html#filepos660315)
+    
+    -   See also [terrorism](#filepos1187727)
+        
+-   B corps, [258](/links/id121/index_split_023.html#filepos639403)
+    
+-   Bell, Alexander Graham, [31](/links/id136/index_split_008.html#filepos86511)
+    
+-   Benz, Carl, [24](/links/id136/index_split_008.html#filepos68623), [285](/links/id120/index_split_024.html#filepos703003)
+    
+-   Berg, Paul, [269–70](/links/id121/index_split_023.html#filepos667910)
+    
+-   BGI Group, [122](/links/id129/index_split_015.html#filepos309188)
+    
+-   bias, [69–70](/links/id133/index_split_011.html#filepos176396), [239–40](/links/id121/index_split_023.html#filepos590880)
+    
+-   Bioforge, [86](/links/id132/index_split_012.html#filepos219964)
+    
+-   Biological Weapons Convention, [241](/links/id121/index_split_023.html#filepos595493), [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   biotech. See [synthetic biology](#filepos1179576)
+    
+-   Black Death, [205](/links/id124/index_split_020.html#filepos510531)
+    
+-   Bletchley Park, [32](/links/id136/index_split_008.html#filepos89069)
+    
+-   books, [30](/links/id136/index_split_008.html#filepos83827)
+    
+-   Boyer, Herbert W., [80](/links/id132/index_split_012.html#filepos204386)
+    
+-   Breakout, [51–52](/links/id133/index_split_011.html#filepos130522), [113](/links/id130/index_split_014.html#filepos288232)
+    
+-   Brin, Sergey, [53](/links/id133/index_split_011.html#filepos135032)
+    
+-   British East India Company, [186](/links/id125/index_split_019.html#filepos463871), [189](/links/id125/index_split_019.html#filepos471462)
+    
+-   Brown, David, [98](/links/id131/index_split_013.html#filepos250100)
+    
+-   Brown, Wendy, [185](/links/id125/index_split_019.html#filepos461250)
+    
 
 C
 
-*   “Can We Survive Technology” (Neumann), [221](/links/id124/index_split_020.html#filepos550927)
-
-*   capital expenditure, [134](/links/id129/index_split_015.html#filepos340575)
-
-*   Carey, Nessa, [82](/links/id132/index_split_012.html#filepos209535)
-
-*   Carlson curve, [81](/links/id132/index_split_012.html#filepos206951)
-
-*   cars. See [vehicles](#filepos1194817)
-
-*   Cartwright, Edmund, [282](/links/id120/index_split_024.html#filepos695528)
-
-*   Cas9, [81](/links/id132/index_split_012.html#filepos206951)
-
-*   catastrophe, [205–14](/links/id124/index_split_020.html#filepos510531)
-
-    *   containment and, [211–12](/links/id124/index_split_020.html#filepos525246), [214](/links/id124/index_split_020.html#filepos532830)
-
-    *   scenarios for, [207–9](/links/id124/index_split_020.html#filepos515094)
-
-    *   skepticism about, [206–7](/links/id124/index_split_020.html#filepos512534)
-
-    *   stagnation as, [217–21](/links/id124/index_split_020.html#filepos540677)
-
-    *   surveillance dystopia as, [215–17](/links/id124/index_split_020.html#filepos535474)
-
-*   Caulobacter ethensis-2.0, [84](/links/id132/index_split_012.html#filepos214694)
-
-*   Cello, [109](/links/id130/index_split_014.html#filepos277660)
-
-*   CFCs, [45](/links/id135/index_split_009.html#filepos121999), [46](/links/id135/index_split_009.html#filepos124580), [263](/links/id121/index_split_023.html#filepos652540)
-
-*   Charles Martel, [183–84](/links/id125/index_split_019.html#filepos456534)
-
-*   Charpentier, Emmanuelle, [81](/links/id132/index_split_012.html#filepos206951), [265](/links/id121/index_split_023.html#filepos657705)
-
-*   chatbots, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724), [70](/links/id133/index_split_011.html#filepos178980), [113–14](/links/id130/index_split_014.html#filepos288232)
-
-*   ChatGPT, [62](/links/id133/index_split_011.html#filepos158525), [65](/links/id133/index_split_011.html#filepos166135)
-
-*   chemical weapons, [46](/links/id135/index_split_009.html#filepos124580), [110](/links/id130/index_split_014.html#filepos280224)
-
-*   chemistry, [98–99](/links/id131/index_split_013.html#filepos250100)
-
-*   Chernobyl, [45](/links/id135/index_split_009.html#filepos121999)
-
-*   chess, [53](/links/id133/index_split_011.html#filepos135032)
-
-*   China
-
-    *   geopolitics and, [120–24](/links/id129/index_split_015.html#filepos304166)
-
-    *   historical containment attempts by, [39–40](/links/id135/index_split_009.html#filepos106697)
-
-    *   international cooperation and, [265–66](/links/id121/index_split_023.html#filepos657705)
-
-    *   Maoism, [192](/links/id125/index_split_019.html#filepos478976)
-
-    *   regulation and, [231](/links/id122/index_split_022.html#filepos571313)
-
-    *   silk and, [41](/links/id135/index_split_009.html#filepos111874)
-
-    *   surveillance, [193–95](/links/id125/index_split_019.html#filepos481522)
-
-    *   U.S. export controls and, [249–50](/links/id121/index_split_023.html#filepos616180)
-
-*   Chinchilla, [68](/links/id133/index_split_011.html#filepos173724)
-
-*   chips
-
-    *   choke points and, [249–51](/links/id121/index_split_023.html#filepos616180)
-
-    *   hyper-evolution and, [32–33](/links/id136/index_split_008.html#filepos89069), [57](/links/id133/index_split_011.html#filepos145579), [81](/links/id132/index_split_012.html#filepos206951), [108](/links/id130/index_split_014.html#filepos275124)
-
-    *   size of, [67](/links/id133/index_split_011.html#filepos171140)
-
-    *   See also [semiconductors](#filepos1167748)
-
-*   chlorofluorocarbons (CFCs), [35](/links/id135/index_split_009.html#filepos96776)
-
-*   CICERO, [167](/links/id126/index_split_018.html#filepos416293)
-
-*   climate change
-
-    *   containment attempts, [45](/links/id135/index_split_009.html#filepos121999), [46](/links/id135/index_split_009.html#filepos124580), [263](/links/id121/index_split_023.html#filepos652540)
-
-    *   as global challenge, [137–39](/links/id129/index_split_015.html#filepos348388)
-
-
-*   popular understanding of, [236](/links/id122/index_split_022.html#filepos584345)
-
-*   unintended consequences of technology and, [35](/links/id135/index_split_009.html#filepos96776)
-
-
-*   clocks, [157](/links/id127/index_split_017.html#filepos391435)
-
-*   cloud computing, [251](/links/id121/index_split_023.html#filepos621545)
-
-*   CloudWalk, [194](/links/id125/index_split_019.html#filepos483953)
-
-*   Cohen, Stanley N., [80](/links/id132/index_split_012.html#filepos204386)
-
-*   Cold War
-
-    *   containment and, [37](/links/id135/index_split_009.html#filepos101349)
-
-    *   international cooperation and, [263](/links/id121/index_split_023.html#filepos652540), [264](/links/id121/index_split_023.html#filepos655070)
-
-    *   nuclear weapons and, [42](/links/id135/index_split_009.html#filepos114541)
-
-    *   Sputnik and, [119–20](/links/id129/index_split_015.html#filepos301521), [126](/links/id129/index_split_015.html#filepos319513)
-
-*   coming wave
-
-    *   AI on, [3–4](/links/id140/index_split_004.html#filepos27064)
-
-    *   AI-synthetic biology interactivity and, [88–91](/links/id132/index_split_012.html#filepos225087)
-
-    *   autonomy and, [105](/links/id130/index_split_014.html#filepos267447), [113–15](/links/id130/index_split_014.html#filepos288232)
-
-    *   avoidance of, [12–14](/links/id138/index_split_006.html#filepos47730)
-
-    *   benefits of, [10](/links/id138/index_split_006.html#filepos42564), [11](/links/id138/index_split_006.html#filepos45084), [16](/links/id138/index_split_006.html#filepos57861), [283](/links/id120/index_split_024.html#filepos697946)
-
-    *   defined, [vii](/links/id141/index_split_003.html#filepos23257), [7](/links/id138/index_split_006.html#filepos34831)
-
-    *   ego as driver of, [139–41](/links/id129/index_split_015.html#filepos353584)
-
-    *   global challenges and, [137–40](/links/id129/index_split_015.html#filepos348388)
-
-    *   idealism and, [150–51](/links/id127/index_split_017.html#filepos372949)
-
-    *   inevitability of, [142–43](/links/id129/index_split_015.html#filepos361411), [214](/links/id124/index_split_020.html#filepos532830), [225](/links/id122/index_split_022.html#filepos556187)
-
-    *   interrelated nature of, [56–57](/links/id133/index_split_011.html#filepos142972)
-
-    *   popular understanding of, [234–36](/links/id122/index_split_022.html#filepos579354)
-
-    *   possible responses, [11](/links/id138/index_split_006.html#filepos45084)
-
-    *   power and, [102](/links/id131/index_split_013.html#filepos260306), [163–64](/links/id126/index_split_018.html#filepos405785)
-
-    *   profit motive and, [131–36](/links/id129/index_split_015.html#filepos332686)
-
-    *   research unpredictability and, [129–30](/links/id129/index_split_015.html#filepos327465)
-
-    *   skepticism about, [57–58](/links/id133/index_split_011.html#filepos145579), [72](/links/id133/index_split_011.html#filepos184050), [102](/links/id131/index_split_013.html#filepos260306), [179](/links/id126/index_split_018.html#filepos447227), [206–7](/links/id124/index_split_020.html#filepos512534)
-
-    *   technology penumbra of, [92–93](/links/id131/index_split_013.html#filepos235071)
-
-    *   See also [accessibility of new technology](#filepos1005668); [coming wave incentives](#filepos1051997); [omni-use technology](#filepos1142725)
-
-*   coming wave incentives, [119](/links/id129/index_split_015.html#filepos301521), [141](/links/id129/index_split_015.html#filepos358767)
-
-    *   containment and, [250](/links/id121/index_split_023.html#filepos618946)
-
-    *   geopolitics, [119–27](/links/id129/index_split_015.html#filepos301521)
-
-    *   global challenges, [137–40](/links/id129/index_split_015.html#filepos348388), [219](/links/id124/index_split_020.html#filepos545750)
-
-    *   openness imperative, [127–29](/links/id129/index_split_015.html#filepos322122)
-
-    *   profit motive, [131–36](/links/id129/index_split_015.html#filepos332686), [254–58](/links/id121/index_split_023.html#filepos629299)
-
-    *   regulation and, [231–32](/links/id122/index_split_022.html#filepos571313)
-
-*   coming wave technology characteristics
-
-    *   asymmetrical impact, [105–7](/links/id130/index_split_014.html#filepos267447), [234](/links/id122/index_split_022.html#filepos579354)
-
-    *   autonomy, [105](/links/id130/index_split_014.html#filepos267447), [113–15](/links/id130/index_split_014.html#filepos288232), [166](/links/id126/index_split_018.html#filepos413743), [234](/links/id122/index_split_022.html#filepos579354)
-
-    *   containment and, [234–35](/links/id122/index_split_022.html#filepos579354)
-
-    *   See also [hyper-evolution](#filepos1105835); [omni-use technology](#filepos1142725)
-
-*   computer vision, [58–60](/links/id133/index_split_011.html#filepos148179)
-
-*   computing, [32–34](/links/id136/index_split_008.html#filepos89069)
-
-    *   dematerialization and, [55](/links/id133/index_split_011.html#filepos140390), [190](/links/id125/index_split_019.html#filepos473956)
-
-    *   hyper-evolution of, [108](/links/id130/index_split_014.html#filepos275124)
-
-    *   manufacturing processes and, [84](/links/id132/index_split_012.html#filepos214694)
-
-    *   quantum computing, [97–99](/links/id131/index_split_013.html#filepos247516), [109](/links/id130/index_split_014.html#filepos277660), [114](/links/id130/index_split_014.html#filepos290801), [122](/links/id129/index_split_015.html#filepos309188)
-
-    *   U.S. export controls and, [249–50](/links/id121/index_split_023.html#filepos616180)
-
-*   Consortium, [84](/links/id132/index_split_012.html#filepos214694)
-
-*   containment
-
-    *   audits and, [245–48](/links/id121/index_split_023.html#filepos605700), [267](/links/id121/index_split_023.html#filepos662791)
-
-    *   beginnings of, [272–73](/links/id121/index_split_023.html#filepos675877)
-
-    *   catastrophe and, [211–12](/links/id124/index_split_020.html#filepos525246), [214](/links/id124/index_split_020.html#filepos532830)
-
-    *   choke points and, [249–51](/links/id121/index_split_023.html#filepos616180)
-
-    *   coherence and, [275](/links/id121/index_split_023.html#filepos683444)
-
-    *   critics and, [252–54](/links/id121/index_split_023.html#filepos624078)
-
-    *   defined, [vii](/links/id141/index_split_003.html#filepos23257), [37–38](/links/id135/index_split_009.html#filepos101349)
-
-    *   elements of, [232–33](/links/id122/index_split_022.html#filepos573919)
-
-    *   gorilla problem and, [115–16](/links/id130/index_split_014.html#filepos293320)
-
-    *   government roles, [258–63](/links/id121/index_split_023.html#filepos639403)
-
-    *   historical attempts, [38–41](/links/id135/index_split_009.html#filepos104107), [42–43](/links/id135/index_split_009.html#filepos114541), [119](/links/id129/index_split_015.html#filepos301521)
-
-    *   Industrial Revolution and, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308), [281–82](/links/id120/index_split_024.html#filepos693501)
-
-    *   integrated approach to, [228–29](/links/id122/index_split_022.html#filepos563503)
-
-    *   international cooperation and, [263–67](/links/id121/index_split_023.html#filepos652540)
-
-    *   makers’ responsibility for, [252](/links/id121/index_split_023.html#filepos624078)
-
-    *   as narrow corridor, [276–78](/links/id121/index_split_023.html#filepos685185)
-
-    *   need for, [16](/links/id138/index_split_006.html#filepos57861), [18–19](/links/id138/index_split_006.html#filepos63079), [46](/links/id135/index_split_009.html#filepos124580), [48](/links/id135/index_split_009.html#filepos129617), [285–86](/links/id120/index_split_024.html#filepos703003)
-
-    *   off switches and, [244–45](/links/id121/index_split_023.html#filepos603179)
-
-    *   omni-use technology and, [111](/links/id130/index_split_014.html#filepos282957)
-
-    *   organizational limitations and, [228](/links/id122/index_split_022.html#filepos563503)
-
-    *   overview, [274–75](/links/id121/index_split_023.html#filepos681038)
-
-    *   pathogens and, [273–74](/links/id121/index_split_023.html#filepos678524)
-
-    *   popular movements and, [271–72](/links/id121/index_split_023.html#filepos673043)
-
-    *   possibility of, [278–79](/links/id121/index_split_023.html#filepos690175)
-
-    *   profit motive and, [254–58](/links/id121/index_split_023.html#filepos629299)
-
-    *   quantum computing and, [98](/links/id131/index_split_013.html#filepos250100)
-
-    *   risks in, [43–45](/links/id135/index_split_009.html#filepos116979)
-
-    *   safety and, [239–43](/links/id121/index_split_023.html#filepos590880)
-
-    *   self-critical culture and, [267–70](/links/id121/index_split_023.html#filepos662791)
-
-    *   stagnation as method for, [217–21](/links/id124/index_split_020.html#filepos540677)
-
-    *   surveillance as method for, [206](/links/id124/index_split_020.html#filepos512534), [215–17](/links/id124/index_split_020.html#filepos535474)
-
-    *   technology characteristics and, [233–35](/links/id122/index_split_022.html#filepos576491)
-
-    *   See also [regulation as method for containment](#filepos1161204)
-
-*   containment problem, [vii](/links/id141/index_split_003.html#filepos23257)
-
-    *   See also [containment](#filepos1061923)
-
-*   Convention on Certain Conventional Weapons, [263](/links/id121/index_split_023.html#filepos652540)
-
-*   Copilot, [69](/links/id133/index_split_011.html#filepos176396)
-
-*   corporations
-
-    *   British East India Company, [186](/links/id125/index_split_019.html#filepos463871), [189](/links/id125/index_split_019.html#filepos471462)
-
-    *   concentrated power and, [187–88](/links/id125/index_split_019.html#filepos466368), [190–91](/links/id125/index_split_019.html#filepos473956)
-
-    *   containment and, [255](/links/id121/index_split_023.html#filepos631864), [258](/links/id121/index_split_023.html#filepos639403)
-
-    *   dematerialization and, [189–90](/links/id125/index_split_019.html#filepos471462)
-
-    *   intelligence and, [186–87](/links/id125/index_split_019.html#filepos463871)
-
-    *   public benefit, [258](/links/id121/index_split_023.html#filepos639403)
-
-    *   role in coming wave, [134–35](/links/id129/index_split_015.html#filepos340575)
-
-    *   taxation and, [262](/links/id121/index_split_023.html#filepos649903)
-
-*   Cortical Labs, [91](/links/id132/index_split_012.html#filepos232595)
-
-*   costs. See [technology cost decreases](#filepos1184695)
-
-*   COVID-19 pandemic
-
-    *   disinformation/misinformation and, [172](/links/id126/index_split_018.html#filepos429001)
-
-    *   gain-of-function (GOF) research and, [176](/links/id126/index_split_018.html#filepos439443)
-
-    *   organizational limitations and, [228](/links/id122/index_split_022.html#filepos563503)
-
-    *   surveillance and, [194](/links/id125/index_split_019.html#filepos483953), [195](/links/id125/index_split_019.html#filepos486519), [215](/links/id124/index_split_020.html#filepos535474)
-
-*   Craspase, [82](/links/id132/index_split_012.html#filepos209535)
-
-*   Crick, Francis, [80](/links/id132/index_split_012.html#filepos204386)
-
-*   CRISPR gene editing, [81–82](/links/id132/index_split_012.html#filepos206951), [86](/links/id132/index_split_012.html#filepos219964), [129–30](/links/id129/index_split_015.html#filepos327465)
-
-*   critic AIs, [244](/links/id121/index_split_023.html#filepos603179)
-
-*   Critical Assessment for Structure Prediction (CASP), [89](/links/id132/index_split_012.html#filepos227538), [90](/links/id132/index_split_012.html#filepos229991)
-
-*   Cronin, Audrey Kurth, [106](/links/id130/index_split_014.html#filepos270062), [127](/links/id129/index_split_015.html#filepos322122)
-
-*   crossbow, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308)
-
-*   cryptography, [98](/links/id131/index_split_013.html#filepos250100), [244](/links/id121/index_split_023.html#filepos603179), [248](/links/id121/index_split_023.html#filepos613537), [266](/links/id121/index_split_023.html#filepos660315)
-
-*   Cuban missile crisis, [44](/links/id135/index_split_009.html#filepos119514)
-
-*   Cugnot, Nicolas-Joseph, [23](/links/id136/index_split_008.html#filepos66570)
-
-*   cults, [212–13](/links/id124/index_split_020.html#filepos527705)
-
-*   culture, [267–70](/links/id121/index_split_023.html#filepos662791)
-
-*   cyberattacks, [160–63](/links/id126/index_split_018.html#filepos398504), [166–67](/links/id126/index_split_018.html#filepos413743)
-
+-   “Can We Survive Technology” (Neumann), [221](/links/id124/index_split_020.html#filepos550927)
+    
+-   capital expenditure, [134](/links/id129/index_split_015.html#filepos340575)
+    
+-   Carey, Nessa, [82](/links/id132/index_split_012.html#filepos209535)
+    
+-   Carlson curve, [81](/links/id132/index_split_012.html#filepos206951)
+    
+-   cars. See [vehicles](#filepos1194817)
+    
+-   Cartwright, Edmund, [282](/links/id120/index_split_024.html#filepos695528)
+    
+-   Cas9, [81](/links/id132/index_split_012.html#filepos206951)
+    
+-   catastrophe, [205–14](/links/id124/index_split_020.html#filepos510531)
+    
+    -   containment and, [211–12](/links/id124/index_split_020.html#filepos525246), [214](/links/id124/index_split_020.html#filepos532830)
+        
+    -   scenarios for, [207–9](/links/id124/index_split_020.html#filepos515094)
+        
+    -   skepticism about, [206–7](/links/id124/index_split_020.html#filepos512534)
+        
+    -   stagnation as, [217–21](/links/id124/index_split_020.html#filepos540677)
+        
+    -   surveillance dystopia as, [215–17](/links/id124/index_split_020.html#filepos535474)
+        
+-   Caulobacter ethensis-2.0, [84](/links/id132/index_split_012.html#filepos214694)
+    
+-   Cello, [109](/links/id130/index_split_014.html#filepos277660)
+    
+-   CFCs, [45](/links/id135/index_split_009.html#filepos121999), [46](/links/id135/index_split_009.html#filepos124580), [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   Charles Martel, [183–84](/links/id125/index_split_019.html#filepos456534)
+    
+-   Charpentier, Emmanuelle, [81](/links/id132/index_split_012.html#filepos206951), [265](/links/id121/index_split_023.html#filepos657705)
+    
+-   chatbots, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724), [70](/links/id133/index_split_011.html#filepos178980), [113–14](/links/id130/index_split_014.html#filepos288232)
+    
+-   ChatGPT, [62](/links/id133/index_split_011.html#filepos158525), [65](/links/id133/index_split_011.html#filepos166135)
+    
+-   chemical weapons, [46](/links/id135/index_split_009.html#filepos124580), [110](/links/id130/index_split_014.html#filepos280224)
+    
+-   chemistry, [98–99](/links/id131/index_split_013.html#filepos250100)
+    
+-   Chernobyl, [45](/links/id135/index_split_009.html#filepos121999)
+    
+-   chess, [53](/links/id133/index_split_011.html#filepos135032)
+    
+-   China
+    
+    -   geopolitics and, [120–24](/links/id129/index_split_015.html#filepos304166)
+        
+    -   historical containment attempts by, [39–40](/links/id135/index_split_009.html#filepos106697)
+        
+    -   international cooperation and, [265–66](/links/id121/index_split_023.html#filepos657705)
+        
+    -   Maoism, [192](/links/id125/index_split_019.html#filepos478976)
+        
+    -   regulation and, [231](/links/id122/index_split_022.html#filepos571313)
+        
+    -   silk and, [41](/links/id135/index_split_009.html#filepos111874)
+        
+    -   surveillance, [193–95](/links/id125/index_split_019.html#filepos481522)
+        
+    -   U.S. export controls and, [249–50](/links/id121/index_split_023.html#filepos616180)
+        
+-   Chinchilla, [68](/links/id133/index_split_011.html#filepos173724)
+    
+-   chips
+    
+    -   choke points and, [249–51](/links/id121/index_split_023.html#filepos616180)
+        
+    -   hyper-evolution and, [32–33](/links/id136/index_split_008.html#filepos89069), [57](/links/id133/index_split_011.html#filepos145579), [81](/links/id132/index_split_012.html#filepos206951), [108](/links/id130/index_split_014.html#filepos275124)
+        
+    -   size of, [67](/links/id133/index_split_011.html#filepos171140)
+        
+    -   See also [semiconductors](#filepos1167748)
+        
+-   chlorofluorocarbons (CFCs), [35](/links/id135/index_split_009.html#filepos96776)
+    
+-   CICERO, [167](/links/id126/index_split_018.html#filepos416293)
+    
+-   climate change
+    
+    -   containment attempts, [45](/links/id135/index_split_009.html#filepos121999), [46](/links/id135/index_split_009.html#filepos124580), [263](/links/id121/index_split_023.html#filepos652540)
+        
+    -   as global challenge, [137–39](/links/id129/index_split_015.html#filepos348388)
+        
+
+-   popular understanding of, [236](/links/id122/index_split_022.html#filepos584345)
+    
+-   unintended consequences of technology and, [35](/links/id135/index_split_009.html#filepos96776)
+    
+
+-   clocks, [157](/links/id127/index_split_017.html#filepos391435)
+    
+-   cloud computing, [251](/links/id121/index_split_023.html#filepos621545)
+    
+-   CloudWalk, [194](/links/id125/index_split_019.html#filepos483953)
+    
+-   Cohen, Stanley N., [80](/links/id132/index_split_012.html#filepos204386)
+    
+-   Cold War
+    
+    -   containment and, [37](/links/id135/index_split_009.html#filepos101349)
+        
+    -   international cooperation and, [263](/links/id121/index_split_023.html#filepos652540), [264](/links/id121/index_split_023.html#filepos655070)
+        
+    -   nuclear weapons and, [42](/links/id135/index_split_009.html#filepos114541)
+        
+    -   Sputnik and, [119–20](/links/id129/index_split_015.html#filepos301521), [126](/links/id129/index_split_015.html#filepos319513)
+        
+-   coming wave
+    
+    -   AI on, [3–4](/links/id140/index_split_004.html#filepos27064)
+        
+    -   AI-synthetic biology interactivity and, [88–91](/links/id132/index_split_012.html#filepos225087)
+        
+    -   autonomy and, [105](/links/id130/index_split_014.html#filepos267447), [113–15](/links/id130/index_split_014.html#filepos288232)
+        
+    -   avoidance of, [12–14](/links/id138/index_split_006.html#filepos47730)
+        
+    -   benefits of, [10](/links/id138/index_split_006.html#filepos42564), [11](/links/id138/index_split_006.html#filepos45084), [16](/links/id138/index_split_006.html#filepos57861), [283](/links/id120/index_split_024.html#filepos697946)
+        
+    -   defined, [vii](/links/id141/index_split_003.html#filepos23257), [7](/links/id138/index_split_006.html#filepos34831)
+        
+    -   ego as driver of, [139–41](/links/id129/index_split_015.html#filepos353584)
+        
+    -   global challenges and, [137–40](/links/id129/index_split_015.html#filepos348388)
+        
+    -   idealism and, [150–51](/links/id127/index_split_017.html#filepos372949)
+        
+    -   inevitability of, [142–43](/links/id129/index_split_015.html#filepos361411), [214](/links/id124/index_split_020.html#filepos532830), [225](/links/id122/index_split_022.html#filepos556187)
+        
+    -   interrelated nature of, [56–57](/links/id133/index_split_011.html#filepos142972)
+        
+    -   popular understanding of, [234–36](/links/id122/index_split_022.html#filepos579354)
+        
+    -   possible responses, [11](/links/id138/index_split_006.html#filepos45084)
+        
+    -   power and, [102](/links/id131/index_split_013.html#filepos260306), [163–64](/links/id126/index_split_018.html#filepos405785)
+        
+    -   profit motive and, [131–36](/links/id129/index_split_015.html#filepos332686)
+        
+    -   research unpredictability and, [129–30](/links/id129/index_split_015.html#filepos327465)
+        
+    -   skepticism about, [57–58](/links/id133/index_split_011.html#filepos145579), [72](/links/id133/index_split_011.html#filepos184050), [102](/links/id131/index_split_013.html#filepos260306), [179](/links/id126/index_split_018.html#filepos447227), [206–7](/links/id124/index_split_020.html#filepos512534)
+        
+    -   technology penumbra of, [92–93](/links/id131/index_split_013.html#filepos235071)
+        
+    -   See also [accessibility of new technology](#filepos1005668); [coming wave incentives](#filepos1051997); [omni-use technology](#filepos1142725)
+        
+-   coming wave incentives, [119](/links/id129/index_split_015.html#filepos301521), [141](/links/id129/index_split_015.html#filepos358767)
+    
+    -   containment and, [250](/links/id121/index_split_023.html#filepos618946)
+        
+    -   geopolitics, [119–27](/links/id129/index_split_015.html#filepos301521)
+        
+    -   global challenges, [137–40](/links/id129/index_split_015.html#filepos348388), [219](/links/id124/index_split_020.html#filepos545750)
+        
+    -   openness imperative, [127–29](/links/id129/index_split_015.html#filepos322122)
+        
+    -   profit motive, [131–36](/links/id129/index_split_015.html#filepos332686), [254–58](/links/id121/index_split_023.html#filepos629299)
+        
+    -   regulation and, [231–32](/links/id122/index_split_022.html#filepos571313)
+        
+-   coming wave technology characteristics
+    
+    -   asymmetrical impact, [105–7](/links/id130/index_split_014.html#filepos267447), [234](/links/id122/index_split_022.html#filepos579354)
+        
+    -   autonomy, [105](/links/id130/index_split_014.html#filepos267447), [113–15](/links/id130/index_split_014.html#filepos288232), [166](/links/id126/index_split_018.html#filepos413743), [234](/links/id122/index_split_022.html#filepos579354)
+        
+    -   containment and, [234–35](/links/id122/index_split_022.html#filepos579354)
+        
+    -   See also [hyper-evolution](#filepos1105835); [omni-use technology](#filepos1142725)
+        
+-   computer vision, [58–60](/links/id133/index_split_011.html#filepos148179)
+    
+-   computing, [32–34](/links/id136/index_split_008.html#filepos89069)
+    
+    -   dematerialization and, [55](/links/id133/index_split_011.html#filepos140390), [190](/links/id125/index_split_019.html#filepos473956)
+        
+    -   hyper-evolution of, [108](/links/id130/index_split_014.html#filepos275124)
+        
+    -   manufacturing processes and, [84](/links/id132/index_split_012.html#filepos214694)
+        
+    -   quantum computing, [97–99](/links/id131/index_split_013.html#filepos247516), [109](/links/id130/index_split_014.html#filepos277660), [114](/links/id130/index_split_014.html#filepos290801), [122](/links/id129/index_split_015.html#filepos309188)
+        
+    -   U.S. export controls and, [249–50](/links/id121/index_split_023.html#filepos616180)
+        
+-   Consortium, [84](/links/id132/index_split_012.html#filepos214694)
+    
+-   containment
+    
+    -   audits and, [245–48](/links/id121/index_split_023.html#filepos605700), [267](/links/id121/index_split_023.html#filepos662791)
+        
+    -   beginnings of, [272–73](/links/id121/index_split_023.html#filepos675877)
+        
+    -   catastrophe and, [211–12](/links/id124/index_split_020.html#filepos525246), [214](/links/id124/index_split_020.html#filepos532830)
+        
+    -   choke points and, [249–51](/links/id121/index_split_023.html#filepos616180)
+        
+    -   coherence and, [275](/links/id121/index_split_023.html#filepos683444)
+        
+    -   critics and, [252–54](/links/id121/index_split_023.html#filepos624078)
+        
+    -   defined, [vii](/links/id141/index_split_003.html#filepos23257), [37–38](/links/id135/index_split_009.html#filepos101349)
+        
+    -   elements of, [232–33](/links/id122/index_split_022.html#filepos573919)
+        
+    -   gorilla problem and, [115–16](/links/id130/index_split_014.html#filepos293320)
+        
+    -   government roles, [258–63](/links/id121/index_split_023.html#filepos639403)
+        
+    -   historical attempts, [38–41](/links/id135/index_split_009.html#filepos104107), [42–43](/links/id135/index_split_009.html#filepos114541), [119](/links/id129/index_split_015.html#filepos301521)
+        
+    -   Industrial Revolution and, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308), [281–82](/links/id120/index_split_024.html#filepos693501)
+        
+    -   integrated approach to, [228–29](/links/id122/index_split_022.html#filepos563503)
+        
+    -   international cooperation and, [263–67](/links/id121/index_split_023.html#filepos652540)
+        
+    -   makers’ responsibility for, [252](/links/id121/index_split_023.html#filepos624078)
+        
+    -   as narrow corridor, [276–78](/links/id121/index_split_023.html#filepos685185)
+        
+    -   need for, [16](/links/id138/index_split_006.html#filepos57861), [18–19](/links/id138/index_split_006.html#filepos63079), [46](/links/id135/index_split_009.html#filepos124580), [48](/links/id135/index_split_009.html#filepos129617), [285–86](/links/id120/index_split_024.html#filepos703003)
+        
+    -   off switches and, [244–45](/links/id121/index_split_023.html#filepos603179)
+        
+    -   omni-use technology and, [111](/links/id130/index_split_014.html#filepos282957)
+        
+    -   organizational limitations and, [228](/links/id122/index_split_022.html#filepos563503)
+        
+    -   overview, [274–75](/links/id121/index_split_023.html#filepos681038)
+        
+    -   pathogens and, [273–74](/links/id121/index_split_023.html#filepos678524)
+        
+    -   popular movements and, [271–72](/links/id121/index_split_023.html#filepos673043)
+        
+    -   possibility of, [278–79](/links/id121/index_split_023.html#filepos690175)
+        
+    -   profit motive and, [254–58](/links/id121/index_split_023.html#filepos629299)
+        
+    -   quantum computing and, [98](/links/id131/index_split_013.html#filepos250100)
+        
+    -   risks in, [43–45](/links/id135/index_split_009.html#filepos116979)
+        
+    -   safety and, [239–43](/links/id121/index_split_023.html#filepos590880)
+        
+    -   self-critical culture and, [267–70](/links/id121/index_split_023.html#filepos662791)
+        
+    -   stagnation as method for, [217–21](/links/id124/index_split_020.html#filepos540677)
+        
+    -   surveillance as method for, [206](/links/id124/index_split_020.html#filepos512534), [215–17](/links/id124/index_split_020.html#filepos535474)
+        
+    -   technology characteristics and, [233–35](/links/id122/index_split_022.html#filepos576491)
+        
+    -   See also [regulation as method for containment](#filepos1161204)
+        
+-   containment problem, [vii](/links/id141/index_split_003.html#filepos23257)
+    
+    -   See also [containment](#filepos1061923)
+        
+-   Convention on Certain Conventional Weapons, [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   Copilot, [69](/links/id133/index_split_011.html#filepos176396)
+    
+-   corporations
+    
+    -   British East India Company, [186](/links/id125/index_split_019.html#filepos463871), [189](/links/id125/index_split_019.html#filepos471462)
+        
+    -   concentrated power and, [187–88](/links/id125/index_split_019.html#filepos466368), [190–91](/links/id125/index_split_019.html#filepos473956)
+        
+    -   containment and, [255](/links/id121/index_split_023.html#filepos631864), [258](/links/id121/index_split_023.html#filepos639403)
+        
+    -   dematerialization and, [189–90](/links/id125/index_split_019.html#filepos471462)
+        
+    -   intelligence and, [186–87](/links/id125/index_split_019.html#filepos463871)
+        
+    -   public benefit, [258](/links/id121/index_split_023.html#filepos639403)
+        
+    -   role in coming wave, [134–35](/links/id129/index_split_015.html#filepos340575)
+        
+    -   taxation and, [262](/links/id121/index_split_023.html#filepos649903)
+        
+-   Cortical Labs, [91](/links/id132/index_split_012.html#filepos232595)
+    
+-   costs. See [technology cost decreases](#filepos1184695)
+    
+-   COVID-19 pandemic
+    
+    -   disinformation/misinformation and, [172](/links/id126/index_split_018.html#filepos429001)
+        
+    -   gain-of-function (GOF) research and, [176](/links/id126/index_split_018.html#filepos439443)
+        
+    -   organizational limitations and, [228](/links/id122/index_split_022.html#filepos563503)
+        
+    -   surveillance and, [194](/links/id125/index_split_019.html#filepos483953), [195](/links/id125/index_split_019.html#filepos486519), [215](/links/id124/index_split_020.html#filepos535474)
+        
+-   Craspase, [82](/links/id132/index_split_012.html#filepos209535)
+    
+-   Crick, Francis, [80](/links/id132/index_split_012.html#filepos204386)
+    
+-   CRISPR gene editing, [81–82](/links/id132/index_split_012.html#filepos206951), [86](/links/id132/index_split_012.html#filepos219964), [129–30](/links/id129/index_split_015.html#filepos327465)
+    
+-   critic AIs, [244](/links/id121/index_split_023.html#filepos603179)
+    
+-   Critical Assessment for Structure Prediction (CASP), [89](/links/id132/index_split_012.html#filepos227538), [90](/links/id132/index_split_012.html#filepos229991)
+    
+-   Cronin, Audrey Kurth, [106](/links/id130/index_split_014.html#filepos270062), [127](/links/id129/index_split_015.html#filepos322122)
+    
+-   crossbow, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308)
+    
+-   cryptography, [98](/links/id131/index_split_013.html#filepos250100), [244](/links/id121/index_split_023.html#filepos603179), [248](/links/id121/index_split_023.html#filepos613537), [266](/links/id121/index_split_023.html#filepos660315)
+    
+-   Cuban missile crisis, [44](/links/id135/index_split_009.html#filepos119514)
+    
+-   Cugnot, Nicolas-Joseph, [23](/links/id136/index_split_008.html#filepos66570)
+    
+-   cults, [212–13](/links/id124/index_split_020.html#filepos527705)
+    
+-   culture, [267–70](/links/id121/index_split_023.html#filepos662791)
+    
+-   cyberattacks, [160–63](/links/id126/index_split_018.html#filepos398504), [166–67](/links/id126/index_split_018.html#filepos413743)
+    
 
 D
 
-*   Daimler, Gottlieb, [24](/links/id136/index_split_008.html#filepos68623)
+-   Daimler, Gottlieb, [24](/links/id136/index_split_008.html#filepos68623)
+    
+-   data, proliferation of, [33](/links/id136/index_split_008.html#filepos91858)
+    
+-   decentralization, [198–99](/links/id125/index_split_019.html#filepos494377)
+    
+-   Deep Blue, [53](/links/id133/index_split_011.html#filepos135032)
+    
+-   deepfakes, [169–71](/links/id126/index_split_018.html#filepos421365), [172](/links/id126/index_split_018.html#filepos429001)
+    
+-   deep learning
+    
+    -   autonomy and, [113](/links/id130/index_split_014.html#filepos288232)
+        
+    -   computer vision and, [58–60](/links/id133/index_split_011.html#filepos148179)
+        
+    -   limitations of, [73](/links/id133/index_split_011.html#filepos186401)
+        
+    -   potential of, [61–62](/links/id133/index_split_011.html#filepos155787)
+        
+    -   protein structure and, [89–90](/links/id132/index_split_012.html#filepos227538)
+        
+    -   supervised, [65](/links/id133/index_split_011.html#filepos166135)
+        
+    -   synthetic biology and, [90–91](/links/id132/index_split_012.html#filepos229991)
+        
+    -   See also [machine learning](#filepos1124497)
+        
+-   DeepMind
+    
+    -   AGI as goal of, [8](/links/id138/index_split_006.html#filepos37461), [51](/links/id133/index_split_011.html#filepos130522)
+        
+    -   arms race rhetoric and, [124](/links/id129/index_split_015.html#filepos314500)
+        
+    -   choke points and, [251](/links/id121/index_split_023.html#filepos621545)
+        
+    -   containment and, [254](/links/id121/index_split_023.html#filepos629299), [255–56](/links/id121/index_split_023.html#filepos631864)
+        
+    -   DQN algorithm, [51–52](/links/id133/index_split_011.html#filepos130522), [113](/links/id130/index_split_014.html#filepos288232)
+        
 
-*   data, proliferation of, [33](/links/id136/index_split_008.html#filepos91858)
+-   efficiency and, [68](/links/id133/index_split_011.html#filepos173724)
+    
+-   founding of, [8](/links/id138/index_split_006.html#filepos37461), [9](/links/id138/index_split_006.html#filepos39969)
+    
+-   Google purchase of, [60](/links/id133/index_split_011.html#filepos153268), [255–57](/links/id121/index_split_023.html#filepos631864)
+    
+-   openness imperative and, [128](/links/id129/index_split_015.html#filepos324791)
+    
+-   practical applications and, [61](/links/id133/index_split_011.html#filepos155787)
+    
+-   protein structure and, [89–90](/links/id132/index_split_012.html#filepos227538)
+    
+-   See also [AlphaGo](#filepos1010234)
+    
 
-*   decentralization, [198–99](/links/id125/index_split_019.html#filepos494377)
-
-*   Deep Blue, [53](/links/id133/index_split_011.html#filepos135032)
-
-*   deepfakes, [169–71](/links/id126/index_split_018.html#filepos421365), [172](/links/id126/index_split_018.html#filepos429001)
-
-*   deep learning
-
-    *   autonomy and, [113](/links/id130/index_split_014.html#filepos288232)
-
-    *   computer vision and, [58–60](/links/id133/index_split_011.html#filepos148179)
-
-    *   limitations of, [73](/links/id133/index_split_011.html#filepos186401)
-
-    *   potential of, [61–62](/links/id133/index_split_011.html#filepos155787)
-
-    *   protein structure and, [89–90](/links/id132/index_split_012.html#filepos227538)
-
-    *   supervised, [65](/links/id133/index_split_011.html#filepos166135)
-
-    *   synthetic biology and, [90–91](/links/id132/index_split_012.html#filepos229991)
-
-    *   See also [machine learning](#filepos1124497)
-
-*   DeepMind
-
-    *   AGI as goal of, [8](/links/id138/index_split_006.html#filepos37461), [51](/links/id133/index_split_011.html#filepos130522)
-
-    *   arms race rhetoric and, [124](/links/id129/index_split_015.html#filepos314500)
-
-    *   choke points and, [251](/links/id121/index_split_023.html#filepos621545)
-
-    *   containment and, [254](/links/id121/index_split_023.html#filepos629299), [255–56](/links/id121/index_split_023.html#filepos631864)
-
-    *   DQN algorithm, [51–52](/links/id133/index_split_011.html#filepos130522), [113](/links/id130/index_split_014.html#filepos288232)
-
-
-*   efficiency and, [68](/links/id133/index_split_011.html#filepos173724)
-
-*   founding of, [8](/links/id138/index_split_006.html#filepos37461), [9](/links/id138/index_split_006.html#filepos39969)
-
-*   Google purchase of, [60](/links/id133/index_split_011.html#filepos153268), [255–57](/links/id121/index_split_023.html#filepos631864)
-
-*   openness imperative and, [128](/links/id129/index_split_015.html#filepos324791)
-
-*   practical applications and, [61](/links/id133/index_split_011.html#filepos155787)
-
-*   protein structure and, [89–90](/links/id132/index_split_012.html#filepos227538)
-
-*   See also [AlphaGo](#filepos1010234)
-
-
-*   Deere, John, [93](/links/id131/index_split_013.html#filepos237062)
-
-*   Delta, [104](/links/id130/index_split_014.html#filepos264947)
-
-*   demand, [25](/links/id136/index_split_008.html#filepos71180), [30](/links/id136/index_split_008.html#filepos83827), [31](/links/id136/index_split_008.html#filepos86511), [40](/links/id135/index_split_009.html#filepos109308), [41](/links/id135/index_split_009.html#filepos111874), [132–33](/links/id129/index_split_015.html#filepos335339)
-
-*   dematerialization, [55–56](/links/id133/index_split_011.html#filepos140390), [189–90](/links/id125/index_split_019.html#filepos471462), [233](/links/id122/index_split_022.html#filepos576491)
-
-*   demographic crisis, [219–20](/links/id124/index_split_020.html#filepos545750)
-
-*   diffusion, [30–31](/links/id136/index_split_008.html#filepos83827)
-
-*   dilemma, the, defined, [vii](/links/id141/index_split_003.html#filepos23257)
-
-*   Diplomacy, [167](/links/id126/index_split_018.html#filepos416293)
-
-*   disinformation/misinformation, [167](/links/id126/index_split_018.html#filepos416293), [169–73](/links/id126/index_split_018.html#filepos421365), [208](/links/id124/index_split_020.html#filepos517634)
-
-*   DJI, [106](/links/id130/index_split_014.html#filepos270062)
-
-*   DNA profiling, [81](/links/id132/index_split_012.html#filepos206951)
-
-*   DNA Script, [83](/links/id132/index_split_012.html#filepos212128)
-
-*   DNA synthesizers, [12–13](/links/id138/index_split_006.html#filepos47730)
-
-*   Doudna, Jennifer, [81](/links/id132/index_split_012.html#filepos206951)
-
-*   DQN (Deep Q-Network), [51–52](/links/id133/index_split_011.html#filepos130522), [113](/links/id130/index_split_014.html#filepos288232)
-
-*   drones, [103–4](/links/id130/index_split_014.html#filepos262914), [105](/links/id130/index_split_014.html#filepos267447), [106](/links/id130/index_split_014.html#filepos270062), [166](/links/id126/index_split_018.html#filepos413743), [207](/links/id124/index_split_020.html#filepos515094)
-
-*   dual-use technology. See [omni-use technology](#filepos1142725)
-
-*   dystopia, [215–17](/links/id124/index_split_020.html#filepos535474)
-
+-   Deere, John, [93](/links/id131/index_split_013.html#filepos237062)
+    
+-   Delta, [104](/links/id130/index_split_014.html#filepos264947)
+    
+-   demand, [25](/links/id136/index_split_008.html#filepos71180), [30](/links/id136/index_split_008.html#filepos83827), [31](/links/id136/index_split_008.html#filepos86511), [40](/links/id135/index_split_009.html#filepos109308), [41](/links/id135/index_split_009.html#filepos111874), [132–33](/links/id129/index_split_015.html#filepos335339)
+    
+-   dematerialization, [55–56](/links/id133/index_split_011.html#filepos140390), [189–90](/links/id125/index_split_019.html#filepos471462), [233](/links/id122/index_split_022.html#filepos576491)
+    
+-   demographic crisis, [219–20](/links/id124/index_split_020.html#filepos545750)
+    
+-   diffusion, [30–31](/links/id136/index_split_008.html#filepos83827)
+    
+-   dilemma, the, defined, [vii](/links/id141/index_split_003.html#filepos23257)
+    
+-   Diplomacy, [167](/links/id126/index_split_018.html#filepos416293)
+    
+-   disinformation/misinformation, [167](/links/id126/index_split_018.html#filepos416293), [169–73](/links/id126/index_split_018.html#filepos421365), [208](/links/id124/index_split_020.html#filepos517634)
+    
+-   DJI, [106](/links/id130/index_split_014.html#filepos270062)
+    
+-   DNA profiling, [81](/links/id132/index_split_012.html#filepos206951)
+    
+-   DNA Script, [83](/links/id132/index_split_012.html#filepos212128)
+    
+-   DNA synthesizers, [12–13](/links/id138/index_split_006.html#filepos47730)
+    
+-   Doudna, Jennifer, [81](/links/id132/index_split_012.html#filepos206951)
+    
+-   DQN (Deep Q-Network), [51–52](/links/id133/index_split_011.html#filepos130522), [113](/links/id130/index_split_014.html#filepos288232)
+    
+-   drones, [103–4](/links/id130/index_split_014.html#filepos262914), [105](/links/id130/index_split_014.html#filepos267447), [106](/links/id130/index_split_014.html#filepos270062), [166](/links/id126/index_split_018.html#filepos413743), [207](/links/id124/index_split_020.html#filepos515094)
+    
+-   dual-use technology. See [omni-use technology](#filepos1142725)
+    
+-   dystopia, [215–17](/links/id124/index_split_020.html#filepos535474)
+    
 
 E
 
-*   East Germany, [192](/links/id125/index_split_019.html#filepos478976)
-
-*   eBay, [188–89](/links/id125/index_split_019.html#filepos468878)
-
-*   economic inequality, [153–54](/links/id127/index_split_017.html#filepos380740)
-
-*   Edison, Thomas, [35](/links/id135/index_split_009.html#filepos96776)
-
-*   ego, [140–41](/links/id129/index_split_015.html#filepos356234)
-
-*   electricity, [30–31](/links/id136/index_split_008.html#filepos83827)
-
-*   EleutherAI, [68–69](/links/id133/index_split_011.html#filepos173724)
-
-*   Elizabeth I (queen of England), [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308)
-
-*   Endy, Drew, [84](/links/id132/index_split_012.html#filepos214694)
-
-*   energy, [99–101](/links/id131/index_split_013.html#filepos252619), [198](/links/id125/index_split_019.html#filepos494377)
-
-*   engines, [23–25](/links/id136/index_split_008.html#filepos66570)
-
-*   ENIAC, [32](/links/id136/index_split_008.html#filepos89069)
-
-*   enzymatic synthesis, [83](/links/id132/index_split_012.html#filepos212128), [109](/links/id130/index_split_014.html#filepos277660)
-
-*   Epic of Gilgamesh, [5](/links/id138/index_split_006.html#filepos30162)
-
-*   Esvelt, Kevin, [273](/links/id121/index_split_023.html#filepos678524)
-
-*   EternalBlue, [161–62](/links/id126/index_split_018.html#filepos400559)
-
-*   ethnic cleansing, [195](/links/id125/index_split_019.html#filepos486519)
-
-*   ETH Zurich, [84](/links/id132/index_split_012.html#filepos214694)
-
-*   European Union, [125](/links/id129/index_split_015.html#filepos316974), [229](/links/id122/index_split_022.html#filepos566043), [260](/links/id121/index_split_023.html#filepos644736)
-
-*   evolution, [26–27](/links/id136/index_split_008.html#filepos73721), [79](/links/id132/index_split_012.html#filepos202353), [84](/links/id132/index_split_012.html#filepos214694)
-
-*   explanation, [243](/links/id121/index_split_023.html#filepos600612)
-
-*   explosives, [35](/links/id135/index_split_009.html#filepos96776), [110](/links/id130/index_split_014.html#filepos280224)
-
-*   Exscientia, [110](/links/id130/index_split_014.html#filepos280224)
-
+-   East Germany, [192](/links/id125/index_split_019.html#filepos478976)
+    
+-   eBay, [188–89](/links/id125/index_split_019.html#filepos468878)
+    
+-   economic inequality, [153–54](/links/id127/index_split_017.html#filepos380740)
+    
+-   Edison, Thomas, [35](/links/id135/index_split_009.html#filepos96776)
+    
+-   ego, [140–41](/links/id129/index_split_015.html#filepos356234)
+    
+-   electricity, [30–31](/links/id136/index_split_008.html#filepos83827)
+    
+-   EleutherAI, [68–69](/links/id133/index_split_011.html#filepos173724)
+    
+-   Elizabeth I (queen of England), [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308)
+    
+-   Endy, Drew, [84](/links/id132/index_split_012.html#filepos214694)
+    
+-   energy, [99–101](/links/id131/index_split_013.html#filepos252619), [198](/links/id125/index_split_019.html#filepos494377)
+    
+-   engines, [23–25](/links/id136/index_split_008.html#filepos66570)
+    
+-   ENIAC, [32](/links/id136/index_split_008.html#filepos89069)
+    
+-   enzymatic synthesis, [83](/links/id132/index_split_012.html#filepos212128), [109](/links/id130/index_split_014.html#filepos277660)
+    
+-   Epic of Gilgamesh, [5](/links/id138/index_split_006.html#filepos30162)
+    
+-   Esvelt, Kevin, [273](/links/id121/index_split_023.html#filepos678524)
+    
+-   EternalBlue, [161–62](/links/id126/index_split_018.html#filepos400559)
+    
+-   ethnic cleansing, [195](/links/id125/index_split_019.html#filepos486519)
+    
+-   ETH Zurich, [84](/links/id132/index_split_012.html#filepos214694)
+    
+-   European Union, [125](/links/id129/index_split_015.html#filepos316974), [229](/links/id122/index_split_022.html#filepos566043), [260](/links/id121/index_split_023.html#filepos644736)
+    
+-   evolution, [26–27](/links/id136/index_split_008.html#filepos73721), [79](/links/id132/index_split_012.html#filepos202353), [84](/links/id132/index_split_012.html#filepos214694)
+    
+-   explanation, [243](/links/id121/index_split_023.html#filepos600612)
+    
+-   explosives, [35](/links/id135/index_split_009.html#filepos96776), [110](/links/id130/index_split_014.html#filepos280224)
+    
+-   Exscientia, [110](/links/id130/index_split_014.html#filepos280224)
+    
 
 F
 
-*   Facebook, [150](/links/id127/index_split_017.html#filepos372949), [172](/links/id126/index_split_018.html#filepos429001), [258](/links/id121/index_split_023.html#filepos639403)
-
-*   facial recognition software, [194](/links/id125/index_split_019.html#filepos483953), [207](/links/id124/index_split_020.html#filepos515094)
-
-*   Fakhrizadeh, Mohsen, [165](/links/id126/index_split_018.html#filepos411097)
-
-*   feudalism, [184](/links/id125/index_split_019.html#filepos458630)
-
-*   Feynman, Richard, [259](/links/id121/index_split_023.html#filepos642105)
-
-*   fire, [26–27](/links/id136/index_split_008.html#filepos73721)
-
-*   flood myths, [5](/links/id138/index_split_006.html#filepos30162)
-
-*   flying shuttle, [39](/links/id135/index_split_009.html#filepos106697)
-
-*   Ford, Henry, [24](/links/id136/index_split_008.html#filepos68623)
-
-*   Ford Motor Company, [98](/links/id131/index_split_013.html#filepos250100)
-
-*   four features, defined, [vii](/links/id141/index_split_003.html#filepos23257)
-
-*   fragility amplifiers. See [nation-state fragility amplifiers](#filepos1135285)
-
-*   fragmentation. See [decentralization](#filepos1069411)
-
-*   Franklin, Rosalind, [80](/links/id132/index_split_012.html#filepos204386)
-
-*   frenzy phase, [132](/links/id129/index_split_015.html#filepos335339)
-
-*   fusion power, [100](/links/id131/index_split_013.html#filepos255128)
-
+-   Facebook, [150](/links/id127/index_split_017.html#filepos372949), [172](/links/id126/index_split_018.html#filepos429001), [258](/links/id121/index_split_023.html#filepos639403)
+    
+-   facial recognition software, [194](/links/id125/index_split_019.html#filepos483953), [207](/links/id124/index_split_020.html#filepos515094)
+    
+-   Fakhrizadeh, Mohsen, [165](/links/id126/index_split_018.html#filepos411097)
+    
+-   feudalism, [184](/links/id125/index_split_019.html#filepos458630)
+    
+-   Feynman, Richard, [259](/links/id121/index_split_023.html#filepos642105)
+    
+-   fire, [26–27](/links/id136/index_split_008.html#filepos73721)
+    
+-   flood myths, [5](/links/id138/index_split_006.html#filepos30162)
+    
+-   flying shuttle, [39](/links/id135/index_split_009.html#filepos106697)
+    
+-   Ford, Henry, [24](/links/id136/index_split_008.html#filepos68623)
+    
+-   Ford Motor Company, [98](/links/id131/index_split_013.html#filepos250100)
+    
+-   four features, defined, [vii](/links/id141/index_split_003.html#filepos23257)
+    
+-   fragility amplifiers. See [nation-state fragility amplifiers](#filepos1135285)
+    
+-   fragmentation. See [decentralization](#filepos1069411)
+    
+-   Franklin, Rosalind, [80](/links/id132/index_split_012.html#filepos204386)
+    
+-   frenzy phase, [132](/links/id129/index_split_015.html#filepos335339)
+    
+-   fusion power, [100](/links/id131/index_split_013.html#filepos255128)
+    
 
 G
 
-*   gain-of-function (GOF) research, [175–77](/links/id126/index_split_018.html#filepos436833)
-
-*   Gato, [111](/links/id130/index_split_014.html#filepos282957)
-
-*   gene editing
-
-    *   containment and, [46](/links/id135/index_split_009.html#filepos124580), [265](/links/id121/index_split_023.html#filepos657705)
-
-    *   CRISPR technology and, [81–82](/links/id132/index_split_012.html#filepos206951), [86](/links/id132/index_split_012.html#filepos219964), [129–30](/links/id129/index_split_015.html#filepos327465)
-
-    *   ethical issues, [86](/links/id132/index_split_012.html#filepos219964)
-
-*   Genentech, [80](/links/id132/index_split_012.html#filepos204386)
-
-*   general-purpose technologies
-
-    *   as accelerants, [92](/links/id131/index_split_013.html#filepos235071)
-
-    *   containment and, [233](/links/id122/index_split_022.html#filepos576491)
-
-    *   corporate concentration and, [190–91](/links/id125/index_split_019.html#filepos473956)
-
-    *   defined, [26](/links/id136/index_split_008.html#filepos73721)
-
-    *   internal combustion engine as, [25](/links/id136/index_split_008.html#filepos71180), [26](/links/id136/index_split_008.html#filepos73721)
-
-    *   invisibility of, [27](/links/id136/index_split_008.html#filepos76287)
-
-    *   omni-use and, [111](/links/id130/index_split_014.html#filepos282957)
-
-*   generative AI, [69](/links/id133/index_split_011.html#filepos176396), [73](/links/id133/index_split_011.html#filepos186401)
-
-    *   See also [large language models](#filepos1118209)
-
-*   gene synthesis, [83–84](/links/id132/index_split_012.html#filepos212128), [247–48](/links/id121/index_split_023.html#filepos610825)
-
-*   genetically modified organisms (GMOs), [45](/links/id135/index_split_009.html#filepos121999), [46](/links/id135/index_split_009.html#filepos124580), [231](/links/id122/index_split_022.html#filepos571313)
-
-*   genetic engineering
-
-    *   accessibility and, [82–83](/links/id132/index_split_012.html#filepos209535)
-
-    *   autonomy and, [114](/links/id130/index_split_014.html#filepos290801)
-
-    *   containment and, [46](/links/id135/index_split_009.html#filepos124580), [265](/links/id121/index_split_023.html#filepos657705), [269–70](/links/id121/index_split_023.html#filepos667910)
-
-    *   genome sequencing, [80–81](/links/id132/index_split_012.html#filepos204386), [114](/links/id130/index_split_014.html#filepos290801)
-
-    *   origins of, [80](/links/id132/index_split_012.html#filepos204386)
-
-    *   See also [gene editing](#filepos1087278); [synthetic biology](#filepos1179576)
-
-*   genetics, [55](/links/id133/index_split_011.html#filepos140390)
-
-    *   See also [synthetic biology](#filepos1179576)
-
-*   Genghis Khan, [205](/links/id124/index_split_020.html#filepos510531)
-
-*   genome sequencing, [80–81](/links/id132/index_split_012.html#filepos204386)
-
-*   geopolitics
-
-    *   AlphaGo and, [117–19](/links/id129/index_split_015.html#filepos296960), [120](/links/id129/index_split_015.html#filepos304166)
-
-    *   arms race rhetoric and, [124–25](/links/id129/index_split_015.html#filepos314500), [126–27](/links/id129/index_split_015.html#filepos319513)
-
-    *   China and, [120–24](/links/id129/index_split_015.html#filepos304166)
-
-    *   as coming wave incentive, [119–27](/links/id129/index_split_015.html#filepos301521)
-
-    *   containment and, [234](/links/id122/index_split_022.html#filepos579354)
-
-    *   European Union and, [125](/links/id129/index_split_015.html#filepos316974)
-
-    *   India and, [125–26](/links/id129/index_split_015.html#filepos316974)
-
-    *   international cooperation and, [263–67](/links/id121/index_split_023.html#filepos652540)
-
-    *   post-sovereign world and, [192](/links/id125/index_split_019.html#filepos478976)
-
-    *   Sputnik and, [119–20](/links/id129/index_split_015.html#filepos301521)
-
-*   germline editing, [265](/links/id121/index_split_023.html#filepos657705)
-
-*   GitHub, [128–29](/links/id129/index_split_015.html#filepos324791)
-
-*   Gladstone, William, [131](/links/id129/index_split_015.html#filepos332686)
-
-*   global challenges, [137–40](/links/id129/index_split_015.html#filepos348388), [219](/links/id124/index_split_020.html#filepos545750)
-
-*   globalization, [107](/links/id130/index_split_014.html#filepos272524), [155–56](/links/id127/index_split_017.html#filepos385999)
-
-*   global warming. See [climate change](#filepos1043804)
-
-*   Go, [53–54](/links/id133/index_split_011.html#filepos135032), [113](/links/id130/index_split_014.html#filepos288232), [117–19](/links/id129/index_split_015.html#filepos296960), [120](/links/id129/index_split_015.html#filepos304166)
-
-*   Google
-
-    *   corporate power of, [187](/links/id125/index_split_019.html#filepos466368)
-
-    *   DeepMind purchase, [60](/links/id133/index_split_011.html#filepos153268), [255–57](/links/id121/index_split_023.html#filepos631864)
-
-    *   efficiency and, [68](/links/id133/index_split_011.html#filepos173724)
-
-    *   LaMDA and, [71](/links/id133/index_split_011.html#filepos181520), [72](/links/id133/index_split_011.html#filepos184050)
-
-    *   large language models and, [66](/links/id133/index_split_011.html#filepos168619)
-
-    *   quantum computing and, [97–98](/links/id131/index_split_013.html#filepos247516), [122](/links/id129/index_split_015.html#filepos309188)
-
-    *   robotics and, [95](/links/id131/index_split_013.html#filepos242332)
-
-    *   on transformers, [64](/links/id133/index_split_011.html#filepos163547)
-
-*   Google Scholar, [128](/links/id129/index_split_015.html#filepos324791)
-
-*   Gopher, [68](/links/id133/index_split_011.html#filepos173724)
-
-*   gorilla problem, [115–16](/links/id130/index_split_014.html#filepos293320)
-
-*   governments
-
-    *   containment and, [258–63](/links/id121/index_split_023.html#filepos639403)
-
-    *   organizational limitations of, [148–50](/links/id127/index_split_017.html#filepos367712)
-
-    *   See also [nation-states](#filepos1137267)
-
-*   GPS (Global Positioning System), [110](/links/id130/index_split_014.html#filepos280224)
-
-*   GPT-2, [64](/links/id133/index_split_011.html#filepos163547), [70](/links/id133/index_split_011.html#filepos178980)
-
-*   GPT-3, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724)
-
-*   GPT-4, [64](/links/id133/index_split_011.html#filepos163547), [113–14](/links/id130/index_split_014.html#filepos288232)
-
-*   GPUs, [130](/links/id129/index_split_015.html#filepos330146), [251](/links/id121/index_split_023.html#filepos621545)
-
-*   grand bargain, defined, [viii](/links/id141/index_split_003.html#filepos25399)
-
-*   Great Britain
-
-    *   corporations and, [186](/links/id125/index_split_019.html#filepos463871), [189](/links/id125/index_split_019.html#filepos471462)
-
-    *   surveillance, [193](/links/id125/index_split_019.html#filepos481522), [195–96](/links/id125/index_split_019.html#filepos486519)
-
-*   great power competition. See [geopolitics](#filepos1094226)
-
-*   Gutenberg, Johannes, [30](/links/id136/index_split_008.html#filepos83827), [35](/links/id135/index_split_009.html#filepos96776)
-
+-   gain-of-function (GOF) research, [175–77](/links/id126/index_split_018.html#filepos436833)
+    
+-   Gato, [111](/links/id130/index_split_014.html#filepos282957)
+    
+-   gene editing
+    
+    -   containment and, [46](/links/id135/index_split_009.html#filepos124580), [265](/links/id121/index_split_023.html#filepos657705)
+        
+    -   CRISPR technology and, [81–82](/links/id132/index_split_012.html#filepos206951), [86](/links/id132/index_split_012.html#filepos219964), [129–30](/links/id129/index_split_015.html#filepos327465)
+        
+    -   ethical issues, [86](/links/id132/index_split_012.html#filepos219964)
+        
+-   Genentech, [80](/links/id132/index_split_012.html#filepos204386)
+    
+-   general-purpose technologies
+    
+    -   as accelerants, [92](/links/id131/index_split_013.html#filepos235071)
+        
+    -   containment and, [233](/links/id122/index_split_022.html#filepos576491)
+        
+    -   corporate concentration and, [190–91](/links/id125/index_split_019.html#filepos473956)
+        
+    -   defined, [26](/links/id136/index_split_008.html#filepos73721)
+        
+    -   internal combustion engine as, [25](/links/id136/index_split_008.html#filepos71180), [26](/links/id136/index_split_008.html#filepos73721)
+        
+    -   invisibility of, [27](/links/id136/index_split_008.html#filepos76287)
+        
+    -   omni-use and, [111](/links/id130/index_split_014.html#filepos282957)
+        
+-   generative AI, [69](/links/id133/index_split_011.html#filepos176396), [73](/links/id133/index_split_011.html#filepos186401)
+    
+    -   See also [large language models](#filepos1118209)
+        
+-   gene synthesis, [83–84](/links/id132/index_split_012.html#filepos212128), [247–48](/links/id121/index_split_023.html#filepos610825)
+    
+-   genetically modified organisms (GMOs), [45](/links/id135/index_split_009.html#filepos121999), [46](/links/id135/index_split_009.html#filepos124580), [231](/links/id122/index_split_022.html#filepos571313)
+    
+-   genetic engineering
+    
+    -   accessibility and, [82–83](/links/id132/index_split_012.html#filepos209535)
+        
+    -   autonomy and, [114](/links/id130/index_split_014.html#filepos290801)
+        
+    -   containment and, [46](/links/id135/index_split_009.html#filepos124580), [265](/links/id121/index_split_023.html#filepos657705), [269–70](/links/id121/index_split_023.html#filepos667910)
+        
+    -   genome sequencing, [80–81](/links/id132/index_split_012.html#filepos204386), [114](/links/id130/index_split_014.html#filepos290801)
+        
+    -   origins of, [80](/links/id132/index_split_012.html#filepos204386)
+        
+    -   See also [gene editing](#filepos1087278); [synthetic biology](#filepos1179576)
+        
+-   genetics, [55](/links/id133/index_split_011.html#filepos140390)
+    
+    -   See also [synthetic biology](#filepos1179576)
+        
+-   Genghis Khan, [205](/links/id124/index_split_020.html#filepos510531)
+    
+-   genome sequencing, [80–81](/links/id132/index_split_012.html#filepos204386)
+    
+-   geopolitics
+    
+    -   AlphaGo and, [117–19](/links/id129/index_split_015.html#filepos296960), [120](/links/id129/index_split_015.html#filepos304166)
+        
+    -   arms race rhetoric and, [124–25](/links/id129/index_split_015.html#filepos314500), [126–27](/links/id129/index_split_015.html#filepos319513)
+        
+    -   China and, [120–24](/links/id129/index_split_015.html#filepos304166)
+        
+    -   as coming wave incentive, [119–27](/links/id129/index_split_015.html#filepos301521)
+        
+    -   containment and, [234](/links/id122/index_split_022.html#filepos579354)
+        
+    -   European Union and, [125](/links/id129/index_split_015.html#filepos316974)
+        
+    -   India and, [125–26](/links/id129/index_split_015.html#filepos316974)
+        
+    -   international cooperation and, [263–67](/links/id121/index_split_023.html#filepos652540)
+        
+    -   post-sovereign world and, [192](/links/id125/index_split_019.html#filepos478976)
+        
+    -   Sputnik and, [119–20](/links/id129/index_split_015.html#filepos301521)
+        
+-   germline editing, [265](/links/id121/index_split_023.html#filepos657705)
+    
+-   GitHub, [128–29](/links/id129/index_split_015.html#filepos324791)
+    
+-   Gladstone, William, [131](/links/id129/index_split_015.html#filepos332686)
+    
+-   global challenges, [137–40](/links/id129/index_split_015.html#filepos348388), [219](/links/id124/index_split_020.html#filepos545750)
+    
+-   globalization, [107](/links/id130/index_split_014.html#filepos272524), [155–56](/links/id127/index_split_017.html#filepos385999)
+    
+-   global warming. See [climate change](#filepos1043804)
+    
+-   Go, [53–54](/links/id133/index_split_011.html#filepos135032), [113](/links/id130/index_split_014.html#filepos288232), [117–19](/links/id129/index_split_015.html#filepos296960), [120](/links/id129/index_split_015.html#filepos304166)
+    
+-   Google
+    
+    -   corporate power of, [187](/links/id125/index_split_019.html#filepos466368)
+        
+    -   DeepMind purchase, [60](/links/id133/index_split_011.html#filepos153268), [255–57](/links/id121/index_split_023.html#filepos631864)
+        
+    -   efficiency and, [68](/links/id133/index_split_011.html#filepos173724)
+        
+    -   LaMDA and, [71](/links/id133/index_split_011.html#filepos181520), [72](/links/id133/index_split_011.html#filepos184050)
+        
+    -   large language models and, [66](/links/id133/index_split_011.html#filepos168619)
+        
+    -   quantum computing and, [97–98](/links/id131/index_split_013.html#filepos247516), [122](/links/id129/index_split_015.html#filepos309188)
+        
+    -   robotics and, [95](/links/id131/index_split_013.html#filepos242332)
+        
+    -   on transformers, [64](/links/id133/index_split_011.html#filepos163547)
+        
+-   Google Scholar, [128](/links/id129/index_split_015.html#filepos324791)
+    
+-   Gopher, [68](/links/id133/index_split_011.html#filepos173724)
+    
+-   gorilla problem, [115–16](/links/id130/index_split_014.html#filepos293320)
+    
+-   governments
+    
+    -   containment and, [258–63](/links/id121/index_split_023.html#filepos639403)
+        
+    -   organizational limitations of, [148–50](/links/id127/index_split_017.html#filepos367712)
+        
+    -   See also [nation-states](#filepos1137267)
+        
+-   GPS (Global Positioning System), [110](/links/id130/index_split_014.html#filepos280224)
+    
+-   GPT-2, [64](/links/id133/index_split_011.html#filepos163547), [70](/links/id133/index_split_011.html#filepos178980)
+    
+-   GPT-3, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724)
+    
+-   GPT-4, [64](/links/id133/index_split_011.html#filepos163547), [113–14](/links/id130/index_split_014.html#filepos288232)
+    
+-   GPUs, [130](/links/id129/index_split_015.html#filepos330146), [251](/links/id121/index_split_023.html#filepos621545)
+    
+-   grand bargain, defined, [viii](/links/id141/index_split_003.html#filepos25399)
+    
+-   Great Britain
+    
+    -   corporations and, [186](/links/id125/index_split_019.html#filepos463871), [189](/links/id125/index_split_019.html#filepos471462)
+        
+    -   surveillance, [193](/links/id125/index_split_019.html#filepos481522), [195–96](/links/id125/index_split_019.html#filepos486519)
+        
+-   great power competition. See [geopolitics](#filepos1094226)
+    
+-   Gutenberg, Johannes, [30](/links/id136/index_split_008.html#filepos83827), [35](/links/id135/index_split_009.html#filepos96776)
+    
 
 H
 
-*   H1N1 flu, [173–74](/links/id126/index_split_018.html#filepos431584)
-
-*   hallucination problem, [243](/links/id121/index_split_023.html#filepos600612)
-
-*   Harvard Wyss Institute, [95](/links/id131/index_split_013.html#filepos242332)
-
-*   Hassabis, Demis, [8](/links/id138/index_split_006.html#filepos37461)
-
-*   health care. See [medical applications](#filepos1126633)
-
-*   Henrich, Joseph, [28](/links/id136/index_split_008.html#filepos78830)
-
-*   Heritage Foundation, [257](/links/id121/index_split_023.html#filepos636903)
-
-*   Hershberg, Elliot, [87](/links/id132/index_split_012.html#filepos222513)
-
-*   Hezbollah, [196–97](/links/id125/index_split_019.html#filepos489096)
-
-*   Hidalgo, César, [108](/links/id130/index_split_014.html#filepos275124)
-
-*   hierarchical planning, [76–77](/links/id133/index_split_011.html#filepos194297)
-
-*   Hinton, Geoffrey, [59](/links/id133/index_split_011.html#filepos150763), [60](/links/id133/index_split_011.html#filepos153268), [130](/links/id129/index_split_015.html#filepos330146)
-
-*   Hiroshima/Nagasaki bombings, [41–42](/links/id135/index_split_009.html#filepos111874)
-
-*   Hobbes, Thomas, [216](/links/id124/index_split_020.html#filepos538087)
-
-*   Homo technologicus, [6](/links/id138/index_split_006.html#filepos32260)
-
-*   Hugging Face, [199](/links/id125/index_split_019.html#filepos497003)
-
-*   Human Genome Project, [80–81](/links/id132/index_split_012.html#filepos204386)
-
-*   Huskisson, William, [131](/links/id129/index_split_015.html#filepos332686)
-
-*   Hutchins, Marcus, [161](/links/id126/index_split_018.html#filepos400559)
-
-*   hyper-evolution, [105](/links/id130/index_split_014.html#filepos267447), [107–9](/links/id130/index_split_014.html#filepos272524)
-
-    *   chips and, [32–33](/links/id136/index_split_008.html#filepos89069), [57](/links/id133/index_split_011.html#filepos145579), [81](/links/id132/index_split_012.html#filepos206951), [108](/links/id130/index_split_014.html#filepos275124)
-
-    *   containment and, [250](/links/id121/index_split_023.html#filepos618946)
-
-    *   large language models and, [66](/links/id133/index_split_011.html#filepos168619), [68](/links/id133/index_split_011.html#filepos173724)
-
+-   H1N1 flu, [173–74](/links/id126/index_split_018.html#filepos431584)
+    
+-   hallucination problem, [243](/links/id121/index_split_023.html#filepos600612)
+    
+-   Harvard Wyss Institute, [95](/links/id131/index_split_013.html#filepos242332)
+    
+-   Hassabis, Demis, [8](/links/id138/index_split_006.html#filepos37461)
+    
+-   health care. See [medical applications](#filepos1126633)
+    
+-   Henrich, Joseph, [28](/links/id136/index_split_008.html#filepos78830)
+    
+-   Heritage Foundation, [257](/links/id121/index_split_023.html#filepos636903)
+    
+-   Hershberg, Elliot, [87](/links/id132/index_split_012.html#filepos222513)
+    
+-   Hezbollah, [196–97](/links/id125/index_split_019.html#filepos489096)
+    
+-   Hidalgo, César, [108](/links/id130/index_split_014.html#filepos275124)
+    
+-   hierarchical planning, [76–77](/links/id133/index_split_011.html#filepos194297)
+    
+-   Hinton, Geoffrey, [59](/links/id133/index_split_011.html#filepos150763), [60](/links/id133/index_split_011.html#filepos153268), [130](/links/id129/index_split_015.html#filepos330146)
+    
+-   Hiroshima/Nagasaki bombings, [41–42](/links/id135/index_split_009.html#filepos111874)
+    
+-   Hobbes, Thomas, [216](/links/id124/index_split_020.html#filepos538087)
+    
+-   Homo technologicus, [6](/links/id138/index_split_006.html#filepos32260)
+    
+-   Hugging Face, [199](/links/id125/index_split_019.html#filepos497003)
+    
+-   Human Genome Project, [80–81](/links/id132/index_split_012.html#filepos204386)
+    
+-   Huskisson, William, [131](/links/id129/index_split_015.html#filepos332686)
+    
+-   Hutchins, Marcus, [161](/links/id126/index_split_018.html#filepos400559)
+    
+-   hyper-evolution, [105](/links/id130/index_split_014.html#filepos267447), [107–9](/links/id130/index_split_014.html#filepos272524)
+    
+    -   chips and, [32–33](/links/id136/index_split_008.html#filepos89069), [57](/links/id133/index_split_011.html#filepos145579), [81](/links/id132/index_split_012.html#filepos206951), [108](/links/id130/index_split_014.html#filepos275124)
+        
+    -   containment and, [250](/links/id121/index_split_023.html#filepos618946)
+        
+    -   large language models and, [66](/links/id133/index_split_011.html#filepos168619), [68](/links/id133/index_split_011.html#filepos173724)
+        
 
 I
 
-*   India, [125–26](/links/id129/index_split_015.html#filepos316974), [169–70](/links/id126/index_split_018.html#filepos421365)
-
-*   Industrial Revolution
-
-    *   containment attempts, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308), [281–83](/links/id120/index_split_024.html#filepos693501)
-
-    *   openness imperative and, [127](/links/id129/index_split_015.html#filepos322122)
-
-    *   profit motive and, [133](/links/id129/index_split_015.html#filepos337952), [134](/links/id129/index_split_015.html#filepos340575)
-
-    *   technology waves and, [28–29](/links/id136/index_split_008.html#filepos78830)
-
-*   inertial confinement, [100](/links/id131/index_split_013.html#filepos255128)
-
-*   Inflection AI, [66](/links/id133/index_split_011.html#filepos168619), [68](/links/id133/index_split_011.html#filepos173724), [243](/links/id121/index_split_023.html#filepos600612), [244](/links/id121/index_split_023.html#filepos603179)
-
-*   information
-
-    *   dematerialization and, [55–56](/links/id133/index_split_011.html#filepos140390)
-
-    *   DNA as, [79](/links/id132/index_split_012.html#filepos202353), [87–88](/links/id132/index_split_012.html#filepos222513)
-
-*   Institute of Electrical and Electronics Engineers, [241](/links/id121/index_split_023.html#filepos595493)
-
-*   integrated circuit, [32](/links/id136/index_split_008.html#filepos89069)
-
-*   intelligence
-
-    *   action and, [75–76](/links/id133/index_split_011.html#filepos191737)
-
-    *   corporations and, [186–87](/links/id125/index_split_019.html#filepos463871)
-
-    *   economic value of, [136](/links/id129/index_split_015.html#filepos345698)
-
-    *   gorilla problem, [115–16](/links/id130/index_split_014.html#filepos293320)
-
-    *   prediction and, [62](/links/id133/index_split_011.html#filepos158525)
-
-    *   See also [artificial intelligence](#filepos1027176)
-
-*   interconnectedness, [28](/links/id136/index_split_008.html#filepos78830)
-
-*   Intergovernmental Panel on Climate Change, [138–39](/links/id129/index_split_015.html#filepos350938)
-
-*   internal combustion engine, [24–25](/links/id136/index_split_008.html#filepos68623), [26](/links/id136/index_split_008.html#filepos73721), [35–36](/links/id135/index_split_009.html#filepos96776)
-
-*   International Atomic Energy Agency, [241](/links/id121/index_split_023.html#filepos595493)
-
-*   international cooperation, [263–67](/links/id121/index_split_023.html#filepos652540)
-
-*   internet, [33](/links/id136/index_split_008.html#filepos91858), [107–8](/links/id130/index_split_014.html#filepos272524), [202](/links/id125/index_split_019.html#filepos504628)
-
-*   iPhone, [187](/links/id125/index_split_019.html#filepos466368)
-
-*   Iran, [165](/links/id126/index_split_018.html#filepos411097)
-
-*   Israel, [165](/links/id126/index_split_018.html#filepos411097)
-
+-   India, [125–26](/links/id129/index_split_015.html#filepos316974), [169–70](/links/id126/index_split_018.html#filepos421365)
+    
+-   Industrial Revolution
+    
+    -   containment attempts, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308), [281–83](/links/id120/index_split_024.html#filepos693501)
+        
+    -   openness imperative and, [127](/links/id129/index_split_015.html#filepos322122)
+        
+    -   profit motive and, [133](/links/id129/index_split_015.html#filepos337952), [134](/links/id129/index_split_015.html#filepos340575)
+        
+    -   technology waves and, [28–29](/links/id136/index_split_008.html#filepos78830)
+        
+-   inertial confinement, [100](/links/id131/index_split_013.html#filepos255128)
+    
+-   Inflection AI, [66](/links/id133/index_split_011.html#filepos168619), [68](/links/id133/index_split_011.html#filepos173724), [243](/links/id121/index_split_023.html#filepos600612), [244](/links/id121/index_split_023.html#filepos603179)
+    
+-   information
+    
+    -   dematerialization and, [55–56](/links/id133/index_split_011.html#filepos140390)
+        
+    -   DNA as, [79](/links/id132/index_split_012.html#filepos202353), [87–88](/links/id132/index_split_012.html#filepos222513)
+        
+-   Institute of Electrical and Electronics Engineers, [241](/links/id121/index_split_023.html#filepos595493)
+    
+-   integrated circuit, [32](/links/id136/index_split_008.html#filepos89069)
+    
+-   intelligence
+    
+    -   action and, [75–76](/links/id133/index_split_011.html#filepos191737)
+        
+    -   corporations and, [186–87](/links/id125/index_split_019.html#filepos463871)
+        
+    -   economic value of, [136](/links/id129/index_split_015.html#filepos345698)
+        
+    -   gorilla problem, [115–16](/links/id130/index_split_014.html#filepos293320)
+        
+    -   prediction and, [62](/links/id133/index_split_011.html#filepos158525)
+        
+    -   See also [artificial intelligence](#filepos1027176)
+        
+-   interconnectedness, [28](/links/id136/index_split_008.html#filepos78830)
+    
+-   Intergovernmental Panel on Climate Change, [138–39](/links/id129/index_split_015.html#filepos350938)
+    
+-   internal combustion engine, [24–25](/links/id136/index_split_008.html#filepos68623), [26](/links/id136/index_split_008.html#filepos73721), [35–36](/links/id135/index_split_009.html#filepos96776)
+    
+-   International Atomic Energy Agency, [241](/links/id121/index_split_023.html#filepos595493)
+    
+-   international cooperation, [263–67](/links/id121/index_split_023.html#filepos652540)
+    
+-   internet, [33](/links/id136/index_split_008.html#filepos91858), [107–8](/links/id130/index_split_014.html#filepos272524), [202](/links/id125/index_split_019.html#filepos504628)
+    
+-   iPhone, [187](/links/id125/index_split_019.html#filepos466368)
+    
+-   Iran, [165](/links/id126/index_split_018.html#filepos411097)
+    
+-   Israel, [165](/links/id126/index_split_018.html#filepos411097)
+    
 
 J
 
-*   James, Kay Coles, [257](/links/id121/index_split_023.html#filepos636903)
-
-*   Japan, containment attempts, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308)
-
-*   jobs, technology impact on, [177–81](/links/id126/index_split_018.html#filepos442103), [261](/links/id121/index_split_023.html#filepos647349), [262](/links/id121/index_split_023.html#filepos649903)
-
-*   Joint European Torus, [100](/links/id131/index_split_013.html#filepos255128)
-
+-   James, Kay Coles, [257](/links/id121/index_split_023.html#filepos636903)
+    
+-   Japan, containment attempts, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308)
+    
+-   jobs, technology impact on, [177–81](/links/id126/index_split_018.html#filepos442103), [261](/links/id121/index_split_023.html#filepos647349), [262](/links/id121/index_split_023.html#filepos649903)
+    
+-   Joint European Torus, [100](/links/id131/index_split_013.html#filepos255128)
+    
 
 K
 
-*   Kasparov, Garry, [53](/links/id133/index_split_011.html#filepos135032)
-
-*   Kay, John, [39](/links/id135/index_split_009.html#filepos106697)
-
-*   Ke Jie, [118–19](/links/id129/index_split_015.html#filepos298942), [121](/links/id129/index_split_015.html#filepos306639)
-
-*   Kennan, George F., [37](/links/id135/index_split_009.html#filepos101349)
-
-*   Keynes, John Maynard, [178](/links/id126/index_split_018.html#filepos444759)
-
-*   Khan, A. Q., [45](/links/id135/index_split_009.html#filepos121999)
-
-*   Khrushchev, Nikita, [126](/links/id129/index_split_015.html#filepos319513)
-
-*   Kilobots, [95](/links/id131/index_split_013.html#filepos242332)
-
-*   Klausner, Richard, [85](/links/id132/index_split_012.html#filepos217364)
-
-*   Krizhevsky, Alex, [59](/links/id133/index_split_011.html#filepos150763)
-
-*   Kurzweil, Ray, [57](/links/id133/index_split_011.html#filepos145579)
-
+-   Kasparov, Garry, [53](/links/id133/index_split_011.html#filepos135032)
+    
+-   Kay, John, [39](/links/id135/index_split_009.html#filepos106697)
+    
+-   Ke Jie, [118–19](/links/id129/index_split_015.html#filepos298942), [121](/links/id129/index_split_015.html#filepos306639)
+    
+-   Kennan, George F., [37](/links/id135/index_split_009.html#filepos101349)
+    
+-   Keynes, John Maynard, [178](/links/id126/index_split_018.html#filepos444759)
+    
+-   Khan, A. Q., [45](/links/id135/index_split_009.html#filepos121999)
+    
+-   Khrushchev, Nikita, [126](/links/id129/index_split_015.html#filepos319513)
+    
+-   Kilobots, [95](/links/id131/index_split_013.html#filepos242332)
+    
+-   Klausner, Richard, [85](/links/id132/index_split_012.html#filepos217364)
+    
+-   Krizhevsky, Alex, [59](/links/id133/index_split_011.html#filepos150763)
+    
+-   Kurzweil, Ray, [57](/links/id133/index_split_011.html#filepos145579)
+    
 
 L
 
-*   lab leaks, [173–75](/links/id126/index_split_018.html#filepos431584), [176](/links/id126/index_split_018.html#filepos439443)
-
-*   labor markets, [177–81](/links/id126/index_split_018.html#filepos442103), [261](/links/id121/index_split_023.html#filepos647349), [262](/links/id121/index_split_023.html#filepos649903), [282](/links/id120/index_split_024.html#filepos695528)
-
-*   LaMDA, [71–72](/links/id133/index_split_011.html#filepos181520), [75](/links/id133/index_split_011.html#filepos191737)
-
-*   Lander, Eric, [265](/links/id121/index_split_023.html#filepos657705)
-
-*   language, [27](/links/id136/index_split_008.html#filepos76287), [157](/links/id127/index_split_017.html#filepos391435)
-
-    *   See also [large language models](#filepos1118209)
-
-*   LanzaTech, [87](/links/id132/index_split_012.html#filepos222513)
-
-*   large language models (LLMs), [62–65](/links/id133/index_split_011.html#filepos158525)
-
-    *   bias in, [69–70](/links/id133/index_split_011.html#filepos176396), [239–40](/links/id121/index_split_023.html#filepos590880)
-
-    *   capabilities of, [64–65](/links/id133/index_split_011.html#filepos163547)
-
-    *   deepfakes and, [170](/links/id126/index_split_018.html#filepos423894)
-
-    *   efficiency of, [68](/links/id133/index_split_011.html#filepos173724)
-
-    *   open source and, [69](/links/id133/index_split_011.html#filepos176396)
-
-    *   scale of, [65–66](/links/id133/index_split_011.html#filepos166135)
-
-    *   synthetic biology and, [91](/links/id132/index_split_012.html#filepos232595)
-
-*   laser weapons, [263](/links/id121/index_split_023.html#filepos652540)
-
-*   law enforcement, [97–98](/links/id131/index_split_013.html#filepos247516)
-
-*   Lebanon, [196–97](/links/id125/index_split_019.html#filepos489096)
-
-*   LeCun, Yann, [130](/links/id129/index_split_015.html#filepos330146)
-
-*   Lee Sedol, [53–54](/links/id133/index_split_011.html#filepos135032), [117](/links/id129/index_split_015.html#filepos296960)
-
-*   Legg, Shane, [8](/links/id138/index_split_006.html#filepos37461)
-
-*   legislation, [260](/links/id121/index_split_023.html#filepos644736)
-
-    *   See also [regulation as method for containment](#filepos1161204)
-
-*   Lemoine, Blake, [71–72](/links/id133/index_split_011.html#filepos181520)
-
-*   Lenoir, Jean Joseph Étienne, [23](/links/id136/index_split_008.html#filepos66570)
-
-*   Li, Fei-Fei, [59](/links/id133/index_split_011.html#filepos150763)
-
-*   libertarianism, [201](/links/id125/index_split_019.html#filepos502098)
-
-*   Library of Alexandria, [41](/links/id135/index_split_009.html#filepos111874)
-
-*   licensing, [261](/links/id121/index_split_023.html#filepos647349)
-
-*   lithium production, [109](/links/id130/index_split_014.html#filepos277660)
-
-*   LLaMA system, [69](/links/id133/index_split_011.html#filepos176396)
-
-*   London DNA Foundry, [83](/links/id132/index_split_012.html#filepos212128)
-
-*   longevity technologies, [85–86](/links/id132/index_split_012.html#filepos217364)
-
-*   Luddites, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308), [281–83](/links/id120/index_split_024.html#filepos693501)
-
+-   lab leaks, [173–75](/links/id126/index_split_018.html#filepos431584), [176](/links/id126/index_split_018.html#filepos439443)
+    
+-   labor markets, [177–81](/links/id126/index_split_018.html#filepos442103), [261](/links/id121/index_split_023.html#filepos647349), [262](/links/id121/index_split_023.html#filepos649903), [282](/links/id120/index_split_024.html#filepos695528)
+    
+-   LaMDA, [71–72](/links/id133/index_split_011.html#filepos181520), [75](/links/id133/index_split_011.html#filepos191737)
+    
+-   Lander, Eric, [265](/links/id121/index_split_023.html#filepos657705)
+    
+-   language, [27](/links/id136/index_split_008.html#filepos76287), [157](/links/id127/index_split_017.html#filepos391435)
+    
+    -   See also [large language models](#filepos1118209)
+        
+-   LanzaTech, [87](/links/id132/index_split_012.html#filepos222513)
+    
+-   large language models (LLMs), [62–65](/links/id133/index_split_011.html#filepos158525)
+    
+    -   bias in, [69–70](/links/id133/index_split_011.html#filepos176396), [239–40](/links/id121/index_split_023.html#filepos590880)
+        
+    -   capabilities of, [64–65](/links/id133/index_split_011.html#filepos163547)
+        
+    -   deepfakes and, [170](/links/id126/index_split_018.html#filepos423894)
+        
+    -   efficiency of, [68](/links/id133/index_split_011.html#filepos173724)
+        
+    -   open source and, [69](/links/id133/index_split_011.html#filepos176396)
+        
+    -   scale of, [65–66](/links/id133/index_split_011.html#filepos166135)
+        
+    -   synthetic biology and, [91](/links/id132/index_split_012.html#filepos232595)
+        
+-   laser weapons, [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   law enforcement, [97–98](/links/id131/index_split_013.html#filepos247516)
+    
+-   Lebanon, [196–97](/links/id125/index_split_019.html#filepos489096)
+    
+-   LeCun, Yann, [130](/links/id129/index_split_015.html#filepos330146)
+    
+-   Lee Sedol, [53–54](/links/id133/index_split_011.html#filepos135032), [117](/links/id129/index_split_015.html#filepos296960)
+    
+-   Legg, Shane, [8](/links/id138/index_split_006.html#filepos37461)
+    
+-   legislation, [260](/links/id121/index_split_023.html#filepos644736)
+    
+    -   See also [regulation as method for containment](#filepos1161204)
+        
+-   Lemoine, Blake, [71–72](/links/id133/index_split_011.html#filepos181520)
+    
+-   Lenoir, Jean Joseph Étienne, [23](/links/id136/index_split_008.html#filepos66570)
+    
+-   Li, Fei-Fei, [59](/links/id133/index_split_011.html#filepos150763)
+    
+-   libertarianism, [201](/links/id125/index_split_019.html#filepos502098)
+    
+-   Library of Alexandria, [41](/links/id135/index_split_009.html#filepos111874)
+    
+-   licensing, [261](/links/id121/index_split_023.html#filepos647349)
+    
+-   lithium production, [109](/links/id130/index_split_014.html#filepos277660)
+    
+-   LLaMA system, [69](/links/id133/index_split_011.html#filepos176396)
+    
+-   London DNA Foundry, [83](/links/id132/index_split_012.html#filepos212128)
+    
+-   longevity technologies, [85–86](/links/id132/index_split_012.html#filepos217364)
+    
+-   Luddites, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308), [281–83](/links/id120/index_split_024.html#filepos693501)
+    
 
 M
 
-*   machine learning
-
-    *   autonomy and, [113](/links/id130/index_split_014.html#filepos288232)
-
-    *   bias in, [69–70](/links/id133/index_split_011.html#filepos176396), [239–40](/links/id121/index_split_023.html#filepos590880)
-
-    *   computer vision and, [58–60](/links/id133/index_split_011.html#filepos148179)
-
-    *   cyberattacks and, [162–63](/links/id126/index_split_018.html#filepos403195), [166–67](/links/id126/index_split_018.html#filepos413743)
-
-    *   limitations of, [73](/links/id133/index_split_011.html#filepos186401)
-
-    *   medical applications, [110](/links/id130/index_split_014.html#filepos280224)
-
-    *   military applications and, [103–5](/links/id130/index_split_014.html#filepos262914)
-
-    *   potential of, [61–62](/links/id133/index_split_011.html#filepos155787)
-
-    *   protein structure and, [89–90](/links/id132/index_split_012.html#filepos227538)
-
-    *   robotics and, [95](/links/id131/index_split_013.html#filepos242332)
-
-    *   supervised deep learning, [65](/links/id133/index_split_011.html#filepos166135)
-
-    *   synthetic biology and, [90–91](/links/id132/index_split_012.html#filepos229991)
-
-    *   See also [deep learning](#filepos1071372)
-
-*   Macron, Emmanuel, [125](/links/id129/index_split_015.html#filepos316974)
-
-*   Malthus, Thomas, [136](/links/id129/index_split_015.html#filepos345698)
-
-*   Manhattan Project, [41](/links/id135/index_split_009.html#filepos111874), [124](/links/id129/index_split_015.html#filepos314500), [126](/links/id129/index_split_015.html#filepos319513), [141](/links/id129/index_split_015.html#filepos358767), [270](/links/id121/index_split_023.html#filepos670378)
-
-*   Maoism, [192](/links/id125/index_split_019.html#filepos478976)
-
-*   Mao Zedong, [194](/links/id125/index_split_019.html#filepos483953)
-
-*   Marcus, Gary, [73](/links/id133/index_split_011.html#filepos186401)
-
-*   Maybach, Wilhelm, [24](/links/id136/index_split_008.html#filepos68623)
-
-*   McCarthy, John, [73](/links/id133/index_split_011.html#filepos186401)
-
-*   McCormick, Cyrus, [133](/links/id129/index_split_015.html#filepos337952)
-
-*   medical applications, [85](/links/id132/index_split_012.html#filepos217364), [95](/links/id131/index_split_013.html#filepos242332), [110](/links/id130/index_split_014.html#filepos280224)
-
-*   megamachine, [217](/links/id124/index_split_020.html#filepos540677)
-
-*   Megvii, [194](/links/id125/index_split_019.html#filepos483953)
-
-*   Meta, [69](/links/id133/index_split_011.html#filepos176396), [128](/links/id129/index_split_015.html#filepos324791), [167](/links/id126/index_split_018.html#filepos416293)
-
-*   Micius, [122](/links/id129/index_split_015.html#filepos309188)
-
-*   Microsoft, [69](/links/id133/index_split_011.html#filepos176396), [98](/links/id131/index_split_013.html#filepos250100), [128](/links/id129/index_split_015.html#filepos324791), [160–61](/links/id126/index_split_018.html#filepos398504)
-
-*   military applications
-
-    *   AI and, [104](/links/id130/index_split_014.html#filepos264947), [165](/links/id126/index_split_018.html#filepos411097)
-
-    *   asymmetry and, [106](/links/id130/index_split_014.html#filepos270062)
-
-    *   machine learning and, [103–5](/links/id130/index_split_014.html#filepos262914)
-
-    *   nation-state fragility amplifiers and, [167–69](/links/id126/index_split_018.html#filepos416293)
-
-    *   omni-use technology and, [110–11](/links/id130/index_split_014.html#filepos280224)
-
-    *   robotics and, [165–66](/links/id126/index_split_018.html#filepos411097)
-
-*   Minsky, Marvin, [58](/links/id133/index_split_011.html#filepos148179), [130](/links/id129/index_split_015.html#filepos330146)
-
-*   misinformation. See [disinformation/misinformation](#filepos1076256)
-
-*   Mitchell, Melanie, [73](/links/id133/index_split_011.html#filepos186401)
-
-*   Model T, [24](/links/id136/index_split_008.html#filepos68623)
-
-*   Modern Turing Test, [76–77](/links/id133/index_split_011.html#filepos194297), [78](/links/id133/index_split_011.html#filepos199565), [115](/links/id130/index_split_014.html#filepos293320), [190](/links/id125/index_split_019.html#filepos473956), [210](/links/id124/index_split_020.html#filepos522759)
-
-*   Mojica, Francisco, [129–30](/links/id129/index_split_015.html#filepos327465)
-
-*   Montreal Protocol (1987), [45](/links/id135/index_split_009.html#filepos121999), [263](/links/id121/index_split_023.html#filepos652540)
-
-*   Moore, Gordon, [32–33](/links/id136/index_split_008.html#filepos89069), [35](/links/id135/index_split_009.html#filepos96776)
-
-*   Moore’s Law, [32–33](/links/id136/index_split_008.html#filepos89069), [67](/links/id133/index_split_011.html#filepos171140), [81](/links/id132/index_split_012.html#filepos206951), [108](/links/id130/index_split_014.html#filepos275124)
-
-*   Motorwagen, [24](/links/id136/index_split_008.html#filepos68623)
-
-*   Mumford, Lewis, [29](/links/id136/index_split_008.html#filepos81361), [217](/links/id124/index_split_020.html#filepos540677)
-
-*   mutually assured destruction, [43](/links/id135/index_split_009.html#filepos116979)
-
+-   machine learning
+    
+    -   autonomy and, [113](/links/id130/index_split_014.html#filepos288232)
+        
+    -   bias in, [69–70](/links/id133/index_split_011.html#filepos176396), [239–40](/links/id121/index_split_023.html#filepos590880)
+        
+    -   computer vision and, [58–60](/links/id133/index_split_011.html#filepos148179)
+        
+    -   cyberattacks and, [162–63](/links/id126/index_split_018.html#filepos403195), [166–67](/links/id126/index_split_018.html#filepos413743)
+        
+    -   limitations of, [73](/links/id133/index_split_011.html#filepos186401)
+        
+    -   medical applications, [110](/links/id130/index_split_014.html#filepos280224)
+        
+    -   military applications and, [103–5](/links/id130/index_split_014.html#filepos262914)
+        
+    -   potential of, [61–62](/links/id133/index_split_011.html#filepos155787)
+        
+    -   protein structure and, [89–90](/links/id132/index_split_012.html#filepos227538)
+        
+    -   robotics and, [95](/links/id131/index_split_013.html#filepos242332)
+        
+    -   supervised deep learning, [65](/links/id133/index_split_011.html#filepos166135)
+        
+    -   synthetic biology and, [90–91](/links/id132/index_split_012.html#filepos229991)
+        
+    -   See also [deep learning](#filepos1071372)
+        
+-   Macron, Emmanuel, [125](/links/id129/index_split_015.html#filepos316974)
+    
+-   Malthus, Thomas, [136](/links/id129/index_split_015.html#filepos345698)
+    
+-   Manhattan Project, [41](/links/id135/index_split_009.html#filepos111874), [124](/links/id129/index_split_015.html#filepos314500), [126](/links/id129/index_split_015.html#filepos319513), [141](/links/id129/index_split_015.html#filepos358767), [270](/links/id121/index_split_023.html#filepos670378)
+    
+-   Maoism, [192](/links/id125/index_split_019.html#filepos478976)
+    
+-   Mao Zedong, [194](/links/id125/index_split_019.html#filepos483953)
+    
+-   Marcus, Gary, [73](/links/id133/index_split_011.html#filepos186401)
+    
+-   Maybach, Wilhelm, [24](/links/id136/index_split_008.html#filepos68623)
+    
+-   McCarthy, John, [73](/links/id133/index_split_011.html#filepos186401)
+    
+-   McCormick, Cyrus, [133](/links/id129/index_split_015.html#filepos337952)
+    
+-   medical applications, [85](/links/id132/index_split_012.html#filepos217364), [95](/links/id131/index_split_013.html#filepos242332), [110](/links/id130/index_split_014.html#filepos280224)
+    
+-   megamachine, [217](/links/id124/index_split_020.html#filepos540677)
+    
+-   Megvii, [194](/links/id125/index_split_019.html#filepos483953)
+    
+-   Meta, [69](/links/id133/index_split_011.html#filepos176396), [128](/links/id129/index_split_015.html#filepos324791), [167](/links/id126/index_split_018.html#filepos416293)
+    
+-   Micius, [122](/links/id129/index_split_015.html#filepos309188)
+    
+-   Microsoft, [69](/links/id133/index_split_011.html#filepos176396), [98](/links/id131/index_split_013.html#filepos250100), [128](/links/id129/index_split_015.html#filepos324791), [160–61](/links/id126/index_split_018.html#filepos398504)
+    
+-   military applications
+    
+    -   AI and, [104](/links/id130/index_split_014.html#filepos264947), [165](/links/id126/index_split_018.html#filepos411097)
+        
+    -   asymmetry and, [106](/links/id130/index_split_014.html#filepos270062)
+        
+    -   machine learning and, [103–5](/links/id130/index_split_014.html#filepos262914)
+        
+    -   nation-state fragility amplifiers and, [167–69](/links/id126/index_split_018.html#filepos416293)
+        
+    -   omni-use technology and, [110–11](/links/id130/index_split_014.html#filepos280224)
+        
+    -   robotics and, [165–66](/links/id126/index_split_018.html#filepos411097)
+        
+-   Minsky, Marvin, [58](/links/id133/index_split_011.html#filepos148179), [130](/links/id129/index_split_015.html#filepos330146)
+    
+-   misinformation. See [disinformation/misinformation](#filepos1076256)
+    
+-   Mitchell, Melanie, [73](/links/id133/index_split_011.html#filepos186401)
+    
+-   Model T, [24](/links/id136/index_split_008.html#filepos68623)
+    
+-   Modern Turing Test, [76–77](/links/id133/index_split_011.html#filepos194297), [78](/links/id133/index_split_011.html#filepos199565), [115](/links/id130/index_split_014.html#filepos293320), [190](/links/id125/index_split_019.html#filepos473956), [210](/links/id124/index_split_020.html#filepos522759)
+    
+-   Mojica, Francisco, [129–30](/links/id129/index_split_015.html#filepos327465)
+    
+-   Montreal Protocol (1987), [45](/links/id135/index_split_009.html#filepos121999), [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   Moore, Gordon, [32–33](/links/id136/index_split_008.html#filepos89069), [35](/links/id135/index_split_009.html#filepos96776)
+    
+-   Moore’s Law, [32–33](/links/id136/index_split_008.html#filepos89069), [67](/links/id133/index_split_011.html#filepos171140), [81](/links/id132/index_split_012.html#filepos206951), [108](/links/id130/index_split_014.html#filepos275124)
+    
+-   Motorwagen, [24](/links/id136/index_split_008.html#filepos68623)
+    
+-   Mumford, Lewis, [29](/links/id136/index_split_008.html#filepos81361), [217](/links/id124/index_split_020.html#filepos540677)
+    
+-   mutually assured destruction, [43](/links/id135/index_split_009.html#filepos116979)
+    
 
 N
 
-*   nanotechnology, [101](/links/id131/index_split_013.html#filepos257699)
-
-*   narrow path, defined, [viii](/links/id141/index_split_003.html#filepos25399)
-
-*   National Laboratory for Quantum Information Sciences (China), [122](/links/id129/index_split_015.html#filepos309188)
-
-*   nation-state fragility amplifiers, [vii](/links/id141/index_split_003.html#filepos23257), [11](/links/id138/index_split_006.html#filepos45084)
-
-    *   AI and, [166–67](/links/id126/index_split_018.html#filepos413743)
-
-    *   authoritarianism and, [158–59](/links/id127/index_split_017.html#filepos393981)
-
-    *   bad actor empowerment and, [165–66](/links/id126/index_split_018.html#filepos411097), [168](/links/id126/index_split_018.html#filepos418809)
-
-    *   cyberattacks and, [160–63](/links/id126/index_split_018.html#filepos398504)
-
-    *   democracies and, [158](/links/id127/index_split_017.html#filepos393981), [185](/links/id125/index_split_019.html#filepos461250)
-
-    *   disinformation and, [169–73](/links/id126/index_split_018.html#filepos421365)
-
-    *   fragility and, [152–54](/links/id127/index_split_017.html#filepos378110)
-
-    *   globalization and, [155–56](/links/id127/index_split_017.html#filepos385999)
-
-    *   inadvertent, [173–77](/links/id126/index_split_018.html#filepos431584)
-
-    *   military applications and, [167–69](/links/id126/index_split_018.html#filepos416293)
-
-    *   power and, [163–64](/links/id126/index_split_018.html#filepos405785)
-
-    *   technological unemployment and, [177–81](/links/id126/index_split_018.html#filepos442103)
-
-*   nation-states
-
-    *   containment and, [143](/links/id129/index_split_015.html#filepos364002), [159](/links/id127/index_split_017.html#filepos396536)
-
-    *   economic inequality and, [153–54](/links/id127/index_split_017.html#filepos380740)
-
-    *   equilibrium of, [147](/links/id127/index_split_017.html#filepos365622)
-
-    *   functions of, [158](/links/id127/index_split_017.html#filepos393981)
-
-    *   importance of, [151–52](/links/id127/index_split_017.html#filepos375537)
-
-    *   regulation and, [230–31](/links/id122/index_split_022.html#filepos568700)
-
-    *   technology symbiosis with, [156–58](/links/id127/index_split_017.html#filepos388704)
-
-    *   trust and, [152–53](/links/id127/index_split_017.html#filepos378110)
-
-    *   See also [geopolitics](#filepos1094226); [governments](#filepos1098754); [nation-state fragility amplifiers](#filepos1135285)
-
-*   Neuralink, [91](/links/id132/index_split_012.html#filepos232595)
-
-*   neural networks, [59](/links/id133/index_split_011.html#filepos150763), [64](/links/id133/index_split_011.html#filepos163547)
-
-    *   See also [deep learning](#filepos1071372)
-
-*   1984 (Orwell), [196](/links/id125/index_split_019.html#filepos489096)
-
-*   Nobel, Alfred, [35](/links/id135/index_split_009.html#filepos96776)
-
-*   Nordhaus, William, [30–31](/links/id136/index_split_008.html#filepos83827)
-
-*   North Korea, [44](/links/id135/index_split_009.html#filepos119514), [161](/links/id126/index_split_018.html#filepos400559)
-
-*   NotPetya, [161–62](/links/id126/index_split_018.html#filepos400559), [163](/links/id126/index_split_018.html#filepos405785)
-
-*   Noyce, Robert, [32](/links/id136/index_split_008.html#filepos89069)
-
-*   nuclear technology
-
-    *   arms race rhetoric and, [126](/links/id129/index_split_015.html#filepos319513)
-
-    *   catastrophe and, [205](/links/id124/index_split_020.html#filepos510531)
-
-    *   containment of, [42–45](/links/id135/index_split_009.html#filepos114541), [264–65](/links/id121/index_split_023.html#filepos655070)
-
-    *   development of, [41–42](/links/id135/index_split_009.html#filepos111874)
-
-    *   ego and, [141](/links/id129/index_split_015.html#filepos358767)
-
-    *   safety and, [241](/links/id121/index_split_023.html#filepos595493)
-
-*   NVIDIA, [130](/links/id129/index_split_015.html#filepos330146), [250](/links/id121/index_split_023.html#filepos618946), [251](/links/id121/index_split_023.html#filepos621545)
-
+-   nanotechnology, [101](/links/id131/index_split_013.html#filepos257699)
+    
+-   narrow path, defined, [viii](/links/id141/index_split_003.html#filepos25399)
+    
+-   National Laboratory for Quantum Information Sciences (China), [122](/links/id129/index_split_015.html#filepos309188)
+    
+-   nation-state fragility amplifiers, [vii](/links/id141/index_split_003.html#filepos23257), [11](/links/id138/index_split_006.html#filepos45084)
+    
+    -   AI and, [166–67](/links/id126/index_split_018.html#filepos413743)
+        
+    -   authoritarianism and, [158–59](/links/id127/index_split_017.html#filepos393981)
+        
+    -   bad actor empowerment and, [165–66](/links/id126/index_split_018.html#filepos411097), [168](/links/id126/index_split_018.html#filepos418809)
+        
+    -   cyberattacks and, [160–63](/links/id126/index_split_018.html#filepos398504)
+        
+    -   democracies and, [158](/links/id127/index_split_017.html#filepos393981), [185](/links/id125/index_split_019.html#filepos461250)
+        
+    -   disinformation and, [169–73](/links/id126/index_split_018.html#filepos421365)
+        
+    -   fragility and, [152–54](/links/id127/index_split_017.html#filepos378110)
+        
+    -   globalization and, [155–56](/links/id127/index_split_017.html#filepos385999)
+        
+    -   inadvertent, [173–77](/links/id126/index_split_018.html#filepos431584)
+        
+    -   military applications and, [167–69](/links/id126/index_split_018.html#filepos416293)
+        
+    -   power and, [163–64](/links/id126/index_split_018.html#filepos405785)
+        
+    -   technological unemployment and, [177–81](/links/id126/index_split_018.html#filepos442103)
+        
+-   nation-states
+    
+    -   containment and, [143](/links/id129/index_split_015.html#filepos364002), [159](/links/id127/index_split_017.html#filepos396536)
+        
+    -   economic inequality and, [153–54](/links/id127/index_split_017.html#filepos380740)
+        
+    -   equilibrium of, [147](/links/id127/index_split_017.html#filepos365622)
+        
+    -   functions of, [158](/links/id127/index_split_017.html#filepos393981)
+        
+    -   importance of, [151–52](/links/id127/index_split_017.html#filepos375537)
+        
+    -   regulation and, [230–31](/links/id122/index_split_022.html#filepos568700)
+        
+    -   technology symbiosis with, [156–58](/links/id127/index_split_017.html#filepos388704)
+        
+    -   trust and, [152–53](/links/id127/index_split_017.html#filepos378110)
+        
+    -   See also [geopolitics](#filepos1094226); [governments](#filepos1098754); [nation-state fragility amplifiers](#filepos1135285)
+        
+-   Neuralink, [91](/links/id132/index_split_012.html#filepos232595)
+    
+-   neural networks, [59](/links/id133/index_split_011.html#filepos150763), [64](/links/id133/index_split_011.html#filepos163547)
+    
+    -   See also [deep learning](#filepos1071372)
+        
+-   1984 (Orwell), [196](/links/id125/index_split_019.html#filepos489096)
+    
+-   Nobel, Alfred, [35](/links/id135/index_split_009.html#filepos96776)
+    
+-   Nordhaus, William, [30–31](/links/id136/index_split_008.html#filepos83827)
+    
+-   North Korea, [44](/links/id135/index_split_009.html#filepos119514), [161](/links/id126/index_split_018.html#filepos400559)
+    
+-   NotPetya, [161–62](/links/id126/index_split_018.html#filepos400559), [163](/links/id126/index_split_018.html#filepos405785)
+    
+-   Noyce, Robert, [32](/links/id136/index_split_008.html#filepos89069)
+    
+-   nuclear technology
+    
+    -   arms race rhetoric and, [126](/links/id129/index_split_015.html#filepos319513)
+        
+    -   catastrophe and, [205](/links/id124/index_split_020.html#filepos510531)
+        
+    -   containment of, [42–45](/links/id135/index_split_009.html#filepos114541), [264–65](/links/id121/index_split_023.html#filepos655070)
+        
+    -   development of, [41–42](/links/id135/index_split_009.html#filepos111874)
+        
+    -   ego and, [141](/links/id129/index_split_015.html#filepos358767)
+        
+    -   safety and, [241](/links/id121/index_split_023.html#filepos595493)
+        
+-   NVIDIA, [130](/links/id129/index_split_015.html#filepos330146), [250](/links/id121/index_split_023.html#filepos618946), [251](/links/id121/index_split_023.html#filepos621545)
+    
 
 O
 
-*   Odin, [82](/links/id132/index_split_012.html#filepos209535)
-
-*   offensive vs. defensive capabilities, [157](/links/id127/index_split_017.html#filepos391435), [234](/links/id122/index_split_022.html#filepos579354)
-
-*   off-grid living, [198](/links/id125/index_split_019.html#filepos494377)
-
-*   off switches, [244–45](/links/id121/index_split_023.html#filepos603179)
-
-*   omni-use technology, [105](/links/id130/index_split_014.html#filepos267447), [110–12](/links/id130/index_split_014.html#filepos280224)
-
-    *   AI and, [111](/links/id130/index_split_014.html#filepos282957), [130](/links/id129/index_split_015.html#filepos330146)
-
-    *   containment and, [233](/links/id122/index_split_022.html#filepos576491)
-
-    *   contradictions and, [202](/links/id125/index_split_019.html#filepos504628)
-
-    *   power and, [182](/links/id126/index_split_018.html#filepos455079)
-
-    *   regulation and, [229–30](/links/id122/index_split_022.html#filepos566043)
-
-*   OpenAI, [62](/links/id133/index_split_011.html#filepos158525), [64](/links/id133/index_split_011.html#filepos163547), [69](/links/id133/index_split_011.html#filepos176396), [251](/links/id121/index_split_023.html#filepos621545)
-
-*   openness imperative, [127–29](/links/id129/index_split_015.html#filepos322122)
-
-*   opioids, [36](/links/id135/index_split_009.html#filepos98799)
-
-*   Oppenheimer, J. Robert, [140](/links/id129/index_split_015.html#filepos356234)
-
-*   optimization problems, [98](/links/id131/index_split_013.html#filepos250100)
-
-*   organizational limitations, [148–50](/links/id127/index_split_017.html#filepos367712), [228](/links/id122/index_split_022.html#filepos563503)
-
-*   Orwell, George, [196](/links/id125/index_split_019.html#filepos489096)
-
-*   Otto, Nicolaus August, [23](/links/id136/index_split_008.html#filepos66570)
-
-*   Ottoman Empire, [38](/links/id135/index_split_009.html#filepos104107), [40](/links/id135/index_split_009.html#filepos109308)
-
+-   Odin, [82](/links/id132/index_split_012.html#filepos209535)
+    
+-   offensive vs. defensive capabilities, [157](/links/id127/index_split_017.html#filepos391435), [234](/links/id122/index_split_022.html#filepos579354)
+    
+-   off-grid living, [198](/links/id125/index_split_019.html#filepos494377)
+    
+-   off switches, [244–45](/links/id121/index_split_023.html#filepos603179)
+    
+-   omni-use technology, [105](/links/id130/index_split_014.html#filepos267447), [110–12](/links/id130/index_split_014.html#filepos280224)
+    
+    -   AI and, [111](/links/id130/index_split_014.html#filepos282957), [130](/links/id129/index_split_015.html#filepos330146)
+        
+    -   containment and, [233](/links/id122/index_split_022.html#filepos576491)
+        
+    -   contradictions and, [202](/links/id125/index_split_019.html#filepos504628)
+        
+    -   power and, [182](/links/id126/index_split_018.html#filepos455079)
+        
+    -   regulation and, [229–30](/links/id122/index_split_022.html#filepos566043)
+        
+-   OpenAI, [62](/links/id133/index_split_011.html#filepos158525), [64](/links/id133/index_split_011.html#filepos163547), [69](/links/id133/index_split_011.html#filepos176396), [251](/links/id121/index_split_023.html#filepos621545)
+    
+-   openness imperative, [127–29](/links/id129/index_split_015.html#filepos322122)
+    
+-   opioids, [36](/links/id135/index_split_009.html#filepos98799)
+    
+-   Oppenheimer, J. Robert, [140](/links/id129/index_split_015.html#filepos356234)
+    
+-   optimization problems, [98](/links/id131/index_split_013.html#filepos250100)
+    
+-   organizational limitations, [148–50](/links/id127/index_split_017.html#filepos367712), [228](/links/id122/index_split_022.html#filepos563503)
+    
+-   Orwell, George, [196](/links/id125/index_split_019.html#filepos489096)
+    
+-   Otto, Nicolaus August, [23](/links/id136/index_split_008.html#filepos66570)
+    
+-   Ottoman Empire, [38](/links/id135/index_split_009.html#filepos104107), [40](/links/id135/index_split_009.html#filepos109308)
+    
 
 P
 
-*   Pakistan, [45](/links/id135/index_split_009.html#filepos121999)
-
-*   PaLM, [66](/links/id133/index_split_011.html#filepos168619), [68](/links/id133/index_split_011.html#filepos173724)
-
-*   pandemics, [205](/links/id124/index_split_020.html#filepos510531), [209](/links/id124/index_split_020.html#filepos520201), [243](/links/id121/index_split_023.html#filepos600612), [273–74](/links/id121/index_split_023.html#filepos678524)
-
-    *   See also [COVID-19 pandemic](#filepos1065856)
-
-*   Pan Jianwei, [122–23](/links/id129/index_split_015.html#filepos309188)
-
-*   Paris Agreement, [45](/links/id135/index_split_009.html#filepos121999), [46](/links/id135/index_split_009.html#filepos124580), [263](/links/id121/index_split_023.html#filepos652540)
-
-*   Partial Test Ban Treaty (1963), [42–43](/links/id135/index_split_009.html#filepos114541)
-
-*   Partnership on AI, [246](/links/id121/index_split_023.html#filepos608306)
-
-*   patent system, [127](/links/id129/index_split_015.html#filepos322122)
-
-*   pathogens
-
-    *   containment and, [273–74](/links/id121/index_split_023.html#filepos678524)
-
-    *   gain-of-function (GOF) research, [175–77](/links/id126/index_split_018.html#filepos436833)
-
-    *   lab leaks, [173–75](/links/id126/index_split_018.html#filepos431584), [176](/links/id126/index_split_018.html#filepos439443)
-
-*   PayPal, [188–89](/links/id125/index_split_019.html#filepos468878)
-
-*   peer review, [128](/links/id129/index_split_015.html#filepos324791)
-
-*   Pelosi, Nancy, [170](/links/id126/index_split_018.html#filepos423894)
-
-*   Perez, Carlota, [29](/links/id136/index_split_008.html#filepos81361), [132](/links/id129/index_split_015.html#filepos335339)
-
-*   pessimism aversion, [viii](/links/id141/index_split_003.html#filepos25399), [13–14](/links/id138/index_split_006.html#filepos50280), [102](/links/id131/index_split_013.html#filepos260306), [236](/links/id122/index_split_022.html#filepos584345), [253](/links/id121/index_split_023.html#filepos626669)
-
-*   petrochemical industry, [87](/links/id132/index_split_012.html#filepos222513)
-
-*   Phantom camera quadcopter, [106](/links/id130/index_split_014.html#filepos270062)
-
-*   phishing, [171](/links/id126/index_split_018.html#filepos426486)
-
-*   phonograph, [35](/links/id135/index_split_009.html#filepos96776)
-
-*   physical self-modifications, [86](/links/id132/index_split_012.html#filepos219964), [200](/links/id125/index_split_019.html#filepos499542)
-
-*   Pi, [243](/links/id121/index_split_023.html#filepos600612)
-
-*   Plague of Justinian, [205](/links/id124/index_split_020.html#filepos510531)
-
-*   Plato, [5](/links/id138/index_split_006.html#filepos30162)
-
-*   PlayStation 2, [110–11](/links/id130/index_split_014.html#filepos280224)
-
-*   polio vaccine, [263](/links/id121/index_split_023.html#filepos652540)
-
-*   political polarization, [155](/links/id127/index_split_017.html#filepos385999)
-
-*   popular movements, [271–72](/links/id121/index_split_023.html#filepos673043)
-
-*   population size
-
-    *   crisis of, [219–20](/links/id124/index_split_020.html#filepos545750)
-
-    *   technology waves and, [27–28](/links/id136/index_split_008.html#filepos76287)
-
-*   populism, [153](/links/id127/index_split_017.html#filepos380740)
-
-*   post-sovereign world
-
-    *   authoritarianism and, [185](/links/id125/index_split_019.html#filepos461250), [191–92](/links/id125/index_split_019.html#filepos476459)
-
-    *   contradictions and, [202–4](/links/id125/index_split_019.html#filepos504628)
-
-    *   corporations and, [186–89](/links/id125/index_split_019.html#filepos463871)
-
-    *   decentralization and, [198–99](/links/id125/index_split_019.html#filepos494377), [200–202](/links/id125/index_split_019.html#filepos499542)
-
-    *   dematerialization and, [189](/links/id125/index_split_019.html#filepos471462)
-
-    *   democracies and, [185](/links/id125/index_split_019.html#filepos461250)
-
-    *   ethnic cleansing and, [195](/links/id125/index_split_019.html#filepos486519)
-
-    *   hybrid entities and, [196–97](/links/id125/index_split_019.html#filepos489096)
-
-    *   power and, [184–85](/links/id125/index_split_019.html#filepos458630)
-
-    *   surveillance and, [193–96](/links/id125/index_split_019.html#filepos481522), [206](/links/id124/index_split_020.html#filepos512534)
-
-*   power, [102](/links/id131/index_split_013.html#filepos260306)
-
-    *   contradictions and, [202](/links/id125/index_split_019.html#filepos504628)
-
-    *   nation-state fragility amplifiers and, [163–64](/links/id126/index_split_018.html#filepos405785)
-
-    *   omni-use technology and, [182](/links/id126/index_split_018.html#filepos455079)
-
-    *   post-sovereign world and, [184–85](/links/id125/index_split_019.html#filepos458630)
-
-*   power loom, [282–83](/links/id120/index_split_024.html#filepos695528)
-
-*   printing, [30](/links/id136/index_split_008.html#filepos83827), [35](/links/id135/index_split_009.html#filepos96776), [38–39](/links/id135/index_split_009.html#filepos104107), [40](/links/id135/index_split_009.html#filepos109308), [157](/links/id127/index_split_017.html#filepos391435)
-
-*   profit motive, [131–36](/links/id129/index_split_015.html#filepos332686)
-
-    *   containment and, [254–58](/links/id121/index_split_023.html#filepos629299)
-
-*   proliferation, [30–31](/links/id136/index_split_008.html#filepos83827), [32–34](/links/id136/index_split_008.html#filepos89069)
-
-    *   AI and, [68–69](/links/id133/index_split_011.html#filepos173724)
-
-    *   inevitability of, [40–41](/links/id135/index_split_009.html#filepos109308), [47](/links/id135/index_split_009.html#filepos127159)
-
-*   protein folds, [88–90](/links/id132/index_split_012.html#filepos225087)
-
-*   Proteus, [94](/links/id131/index_split_013.html#filepos239628)
-
-*   Protocol on Blinding Laser Weapons (1995), [263](/links/id121/index_split_023.html#filepos652540)
-
-*   public benefit corporations, [258](/links/id121/index_split_023.html#filepos639403)
-
-*   Putin, Vladimir, [125](/links/id129/index_split_015.html#filepos316974)
-
+-   Pakistan, [45](/links/id135/index_split_009.html#filepos121999)
+    
+-   PaLM, [66](/links/id133/index_split_011.html#filepos168619), [68](/links/id133/index_split_011.html#filepos173724)
+    
+-   pandemics, [205](/links/id124/index_split_020.html#filepos510531), [209](/links/id124/index_split_020.html#filepos520201), [243](/links/id121/index_split_023.html#filepos600612), [273–74](/links/id121/index_split_023.html#filepos678524)
+    
+    -   See also [COVID-19 pandemic](#filepos1065856)
+        
+-   Pan Jianwei, [122–23](/links/id129/index_split_015.html#filepos309188)
+    
+-   Paris Agreement, [45](/links/id135/index_split_009.html#filepos121999), [46](/links/id135/index_split_009.html#filepos124580), [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   Partial Test Ban Treaty (1963), [42–43](/links/id135/index_split_009.html#filepos114541)
+    
+-   Partnership on AI, [246](/links/id121/index_split_023.html#filepos608306)
+    
+-   patent system, [127](/links/id129/index_split_015.html#filepos322122)
+    
+-   pathogens
+    
+    -   containment and, [273–74](/links/id121/index_split_023.html#filepos678524)
+        
+    -   gain-of-function (GOF) research, [175–77](/links/id126/index_split_018.html#filepos436833)
+        
+    -   lab leaks, [173–75](/links/id126/index_split_018.html#filepos431584), [176](/links/id126/index_split_018.html#filepos439443)
+        
+-   PayPal, [188–89](/links/id125/index_split_019.html#filepos468878)
+    
+-   peer review, [128](/links/id129/index_split_015.html#filepos324791)
+    
+-   Pelosi, Nancy, [170](/links/id126/index_split_018.html#filepos423894)
+    
+-   Perez, Carlota, [29](/links/id136/index_split_008.html#filepos81361), [132](/links/id129/index_split_015.html#filepos335339)
+    
+-   pessimism aversion, [viii](/links/id141/index_split_003.html#filepos25399), [13–14](/links/id138/index_split_006.html#filepos50280), [102](/links/id131/index_split_013.html#filepos260306), [236](/links/id122/index_split_022.html#filepos584345), [253](/links/id121/index_split_023.html#filepos626669)
+    
+-   petrochemical industry, [87](/links/id132/index_split_012.html#filepos222513)
+    
+-   Phantom camera quadcopter, [106](/links/id130/index_split_014.html#filepos270062)
+    
+-   phishing, [171](/links/id126/index_split_018.html#filepos426486)
+    
+-   phonograph, [35](/links/id135/index_split_009.html#filepos96776)
+    
+-   physical self-modifications, [86](/links/id132/index_split_012.html#filepos219964), [200](/links/id125/index_split_019.html#filepos499542)
+    
+-   Pi, [243](/links/id121/index_split_023.html#filepos600612)
+    
+-   Plague of Justinian, [205](/links/id124/index_split_020.html#filepos510531)
+    
+-   Plato, [5](/links/id138/index_split_006.html#filepos30162)
+    
+-   PlayStation 2, [110–11](/links/id130/index_split_014.html#filepos280224)
+    
+-   polio vaccine, [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   political polarization, [155](/links/id127/index_split_017.html#filepos385999)
+    
+-   popular movements, [271–72](/links/id121/index_split_023.html#filepos673043)
+    
+-   population size
+    
+    -   crisis of, [219–20](/links/id124/index_split_020.html#filepos545750)
+        
+    -   technology waves and, [27–28](/links/id136/index_split_008.html#filepos76287)
+        
+-   populism, [153](/links/id127/index_split_017.html#filepos380740)
+    
+-   post-sovereign world
+    
+    -   authoritarianism and, [185](/links/id125/index_split_019.html#filepos461250), [191–92](/links/id125/index_split_019.html#filepos476459)
+        
+    -   contradictions and, [202–4](/links/id125/index_split_019.html#filepos504628)
+        
+    -   corporations and, [186–89](/links/id125/index_split_019.html#filepos463871)
+        
+    -   decentralization and, [198–99](/links/id125/index_split_019.html#filepos494377), [200–202](/links/id125/index_split_019.html#filepos499542)
+        
+    -   dematerialization and, [189](/links/id125/index_split_019.html#filepos471462)
+        
+    -   democracies and, [185](/links/id125/index_split_019.html#filepos461250)
+        
+    -   ethnic cleansing and, [195](/links/id125/index_split_019.html#filepos486519)
+        
+    -   hybrid entities and, [196–97](/links/id125/index_split_019.html#filepos489096)
+        
+    -   power and, [184–85](/links/id125/index_split_019.html#filepos458630)
+        
+    -   surveillance and, [193–96](/links/id125/index_split_019.html#filepos481522), [206](/links/id124/index_split_020.html#filepos512534)
+        
+-   power, [102](/links/id131/index_split_013.html#filepos260306)
+    
+    -   contradictions and, [202](/links/id125/index_split_019.html#filepos504628)
+        
+    -   nation-state fragility amplifiers and, [163–64](/links/id126/index_split_018.html#filepos405785)
+        
+    -   omni-use technology and, [182](/links/id126/index_split_018.html#filepos455079)
+        
+    -   post-sovereign world and, [184–85](/links/id125/index_split_019.html#filepos458630)
+        
+-   power loom, [282–83](/links/id120/index_split_024.html#filepos695528)
+    
+-   printing, [30](/links/id136/index_split_008.html#filepos83827), [35](/links/id135/index_split_009.html#filepos96776), [38–39](/links/id135/index_split_009.html#filepos104107), [40](/links/id135/index_split_009.html#filepos109308), [157](/links/id127/index_split_017.html#filepos391435)
+    
+-   profit motive, [131–36](/links/id129/index_split_015.html#filepos332686)
+    
+    -   containment and, [254–58](/links/id121/index_split_023.html#filepos629299)
+        
+-   proliferation, [30–31](/links/id136/index_split_008.html#filepos83827), [32–34](/links/id136/index_split_008.html#filepos89069)
+    
+    -   AI and, [68–69](/links/id133/index_split_011.html#filepos173724)
+        
+    -   inevitability of, [40–41](/links/id135/index_split_009.html#filepos109308), [47](/links/id135/index_split_009.html#filepos127159)
+        
+-   protein folds, [88–90](/links/id132/index_split_012.html#filepos225087)
+    
+-   Proteus, [94](/links/id131/index_split_013.html#filepos239628)
+    
+-   Protocol on Blinding Laser Weapons (1995), [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   public benefit corporations, [258](/links/id121/index_split_023.html#filepos639403)
+    
+-   Putin, Vladimir, [125](/links/id129/index_split_015.html#filepos316974)
+    
 
 Q
 
-*   quantum computing, [97–99](/links/id131/index_split_013.html#filepos247516), [109](/links/id130/index_split_014.html#filepos277660), [114](/links/id130/index_split_014.html#filepos290801), [122](/links/id129/index_split_015.html#filepos309188)
-
+-   quantum computing, [97–99](/links/id131/index_split_013.html#filepos247516), [109](/links/id130/index_split_014.html#filepos277660), [114](/links/id130/index_split_014.html#filepos290801), [122](/links/id129/index_split_015.html#filepos309188)
+    
 
 R
 
-*   R&D spending, [129](/links/id129/index_split_015.html#filepos327465), [134](/links/id129/index_split_015.html#filepos340575), [259](/links/id121/index_split_023.html#filepos642105)
-
-*   racism, [69](/links/id133/index_split_011.html#filepos176396), [239–40](/links/id121/index_split_023.html#filepos590880)
-
-*   radio, [157](/links/id127/index_split_017.html#filepos391435)
-
-*   railways, [23](/links/id136/index_split_008.html#filepos66570), [131–32](/links/id129/index_split_015.html#filepos332686)
-
-*   ransomware, [160–62](/links/id126/index_split_018.html#filepos398504)
-
-*   Reagan, Ronald, [201](/links/id125/index_split_019.html#filepos502098)
-
-*   Rebellion Defense, [166](/links/id126/index_split_018.html#filepos413743)
-
-*   red teaming, [246](/links/id121/index_split_023.html#filepos608306)
-
-*   Reformation, [35](/links/id135/index_split_009.html#filepos96776)
-
-*   regenerative technologies, [85](/links/id132/index_split_012.html#filepos217364)
-
-*   regulation as method for containment, [225–26](/links/id122/index_split_022.html#filepos556187)
-
-    *   challenges of, [226–27](/links/id122/index_split_022.html#filepos558374), [229–30](/links/id122/index_split_022.html#filepos566043)
-
-    *   legislation and, [260](/links/id121/index_split_023.html#filepos644736)
-
-    *   licensing and, [261](/links/id121/index_split_023.html#filepos647349)
-
-    *   nation-states and, [230–31](/links/id122/index_split_022.html#filepos568700)
-
-    *   necessity of, [277](/links/id121/index_split_023.html#filepos687642)
-
-    *   self-critical culture and, [269](/links/id121/index_split_023.html#filepos667910)
-
-*   reinforcement learning, [95](/links/id131/index_split_013.html#filepos242332), [117](/links/id129/index_split_015.html#filepos296960), [166–67](/links/id126/index_split_018.html#filepos413743), [240](/links/id121/index_split_023.html#filepos592956)
-
-    *   See also [machine learning](#filepos1124497)
-
-*   Remotec Andros Mark 5A-1 robot, [97–98](/links/id131/index_split_013.html#filepos247516)
-
-*   Renaissance, [201](/links/id125/index_split_019.html#filepos502098)
-
-*   renewable energy, [100–101](/links/id131/index_split_013.html#filepos255128)
-
-*   Restrepo, Pascual, [179](/links/id126/index_split_018.html#filepos447227)
-
-*   revenge effects, [36](/links/id135/index_split_009.html#filepos98799), [176](/links/id126/index_split_018.html#filepos439443), [177](/links/id126/index_split_018.html#filepos442103)
-
-*   Ring, [227](/links/id122/index_split_022.html#filepos561024)
-
-*   RNA editing, [82](/links/id132/index_split_012.html#filepos209535)
-
-*   Robinson, James, [276](/links/id121/index_split_023.html#filepos685185), [278](/links/id121/index_split_023.html#filepos690175)
-
-*   robotics, [93–97](/links/id131/index_split_013.html#filepos237062)
-
-    *   Chinese development of, [122](/links/id129/index_split_015.html#filepos309188)
-
-    *   military applications, [165–66](/links/id126/index_split_018.html#filepos411097)
-
-    *   profit motive and, [134–35](/links/id129/index_split_015.html#filepos340575)
-
-    *   synthetic biology and, [109](/links/id130/index_split_014.html#filepos277660)
-
-*   Rogers, Everett, [56–57](/links/id133/index_split_011.html#filepos142972)
-
-*   Rotblat, Joseph, [270](/links/id121/index_split_023.html#filepos670378)
-
-*   Russell, Stuart, [115](/links/id130/index_split_014.html#filepos293320), [244](/links/id121/index_split_023.html#filepos603179)
-
-*   Russian flu epidemic, [173–74](/links/id126/index_split_018.html#filepos431584)
-
-*   Russian invasion of Ukraine, [44](/links/id135/index_split_009.html#filepos119514), [103–4](/links/id130/index_split_014.html#filepos262914)
-
-*   Rutherford, Ernest, [41](/links/id135/index_split_009.html#filepos111874)
-
+-   R&D spending, [129](/links/id129/index_split_015.html#filepos327465), [134](/links/id129/index_split_015.html#filepos340575), [259](/links/id121/index_split_023.html#filepos642105)
+    
+-   racism, [69](/links/id133/index_split_011.html#filepos176396), [239–40](/links/id121/index_split_023.html#filepos590880)
+    
+-   radio, [157](/links/id127/index_split_017.html#filepos391435)
+    
+-   railways, [23](/links/id136/index_split_008.html#filepos66570), [131–32](/links/id129/index_split_015.html#filepos332686)
+    
+-   ransomware, [160–62](/links/id126/index_split_018.html#filepos398504)
+    
+-   Reagan, Ronald, [201](/links/id125/index_split_019.html#filepos502098)
+    
+-   Rebellion Defense, [166](/links/id126/index_split_018.html#filepos413743)
+    
+-   red teaming, [246](/links/id121/index_split_023.html#filepos608306)
+    
+-   Reformation, [35](/links/id135/index_split_009.html#filepos96776)
+    
+-   regenerative technologies, [85](/links/id132/index_split_012.html#filepos217364)
+    
+-   regulation as method for containment, [225–26](/links/id122/index_split_022.html#filepos556187)
+    
+    -   challenges of, [226–27](/links/id122/index_split_022.html#filepos558374), [229–30](/links/id122/index_split_022.html#filepos566043)
+        
+    -   legislation and, [260](/links/id121/index_split_023.html#filepos644736)
+        
+    -   licensing and, [261](/links/id121/index_split_023.html#filepos647349)
+        
+    -   nation-states and, [230–31](/links/id122/index_split_022.html#filepos568700)
+        
+    -   necessity of, [277](/links/id121/index_split_023.html#filepos687642)
+        
+    -   self-critical culture and, [269](/links/id121/index_split_023.html#filepos667910)
+        
+-   reinforcement learning, [95](/links/id131/index_split_013.html#filepos242332), [117](/links/id129/index_split_015.html#filepos296960), [166–67](/links/id126/index_split_018.html#filepos413743), [240](/links/id121/index_split_023.html#filepos592956)
+    
+    -   See also [machine learning](#filepos1124497)
+        
+-   Remotec Andros Mark 5A-1 robot, [97–98](/links/id131/index_split_013.html#filepos247516)
+    
+-   Renaissance, [201](/links/id125/index_split_019.html#filepos502098)
+    
+-   renewable energy, [100–101](/links/id131/index_split_013.html#filepos255128)
+    
+-   Restrepo, Pascual, [179](/links/id126/index_split_018.html#filepos447227)
+    
+-   revenge effects, [36](/links/id135/index_split_009.html#filepos98799), [176](/links/id126/index_split_018.html#filepos439443), [177](/links/id126/index_split_018.html#filepos442103)
+    
+-   Ring, [227](/links/id122/index_split_022.html#filepos561024)
+    
+-   RNA editing, [82](/links/id132/index_split_012.html#filepos209535)
+    
+-   Robinson, James, [276](/links/id121/index_split_023.html#filepos685185), [278](/links/id121/index_split_023.html#filepos690175)
+    
+-   robotics, [93–97](/links/id131/index_split_013.html#filepos237062)
+    
+    -   Chinese development of, [122](/links/id129/index_split_015.html#filepos309188)
+        
+    -   military applications, [165–66](/links/id126/index_split_018.html#filepos411097)
+        
+    -   profit motive and, [134–35](/links/id129/index_split_015.html#filepos340575)
+        
+    -   synthetic biology and, [109](/links/id130/index_split_014.html#filepos277660)
+        
+-   Rogers, Everett, [56–57](/links/id133/index_split_011.html#filepos142972)
+    
+-   Rotblat, Joseph, [270](/links/id121/index_split_023.html#filepos670378)
+    
+-   Russell, Stuart, [115](/links/id130/index_split_014.html#filepos293320), [244](/links/id121/index_split_023.html#filepos603179)
+    
+-   Russian flu epidemic, [173–74](/links/id126/index_split_018.html#filepos431584)
+    
+-   Russian invasion of Ukraine, [44](/links/id135/index_split_009.html#filepos119514), [103–4](/links/id130/index_split_014.html#filepos262914)
+    
+-   Rutherford, Ernest, [41](/links/id135/index_split_009.html#filepos111874)
+    
 
 S
 
-*   Samsung Group, [188](/links/id125/index_split_019.html#filepos468878)
-
-*   Sanofi, [110](/links/id130/index_split_014.html#filepos280224)
-
-*   SARS, [174–75](/links/id126/index_split_018.html#filepos434228)
-
-*   scaling hypothesis, [67–68](/links/id133/index_split_011.html#filepos171140), [75](/links/id133/index_split_011.html#filepos191737)
-
-*   Schneier, Bruce, [167](/links/id126/index_split_018.html#filepos416293)
-
-*   Schumpeter, Joseph, [29](/links/id136/index_split_008.html#filepos81361)
-
-*   Scientific Revolution, [35](/links/id135/index_split_009.html#filepos96776), [127](/links/id129/index_split_015.html#filepos322122)
-
-*   SecureDNA, [247](/links/id121/index_split_023.html#filepos610825), [265](/links/id121/index_split_023.html#filepos657705)
-
-*   self-driving vehicles, [113](/links/id130/index_split_014.html#filepos288232)
-
-*   semiconductors, [32](/links/id136/index_split_008.html#filepos89069), [84](/links/id132/index_split_012.html#filepos214694), [249–50](/links/id121/index_split_023.html#filepos616180)
-
-*   SenseTime, [194](/links/id125/index_split_019.html#filepos483953)
-
-*   Shield AI, [166](/links/id126/index_split_018.html#filepos413743)
-
-*   silk, [41](/links/id135/index_split_009.html#filepos111874)
-
-*   Singer, Isaac, [133](/links/id129/index_split_015.html#filepos337952)
-
-*   Singularity, [74](/links/id133/index_split_011.html#filepos189113)
-
-    *   See also [superintelligence](#filepos1174476)
-
-*   smartphones, [33](/links/id136/index_split_008.html#filepos91858), [60](/links/id133/index_split_011.html#filepos153268), [112](/links/id130/index_split_014.html#filepos285589), [187](/links/id125/index_split_019.html#filepos466368)
-
-*   Smil, Vaclav, [138](/links/id129/index_split_015.html#filepos350938)
-
-*   Snowden, Edward, [122](/links/id129/index_split_015.html#filepos309188)
-
-*   social media
-
-    *   contradictions and, [202](/links/id125/index_split_019.html#filepos504628)
-
-    *   disinformation and, [172](/links/id126/index_split_018.html#filepos429001)
-
-    *   nation-states and, [155](/links/id127/index_split_017.html#filepos385999), [156](/links/id127/index_split_017.html#filepos388704)
-
-    *   openness imperative and, [128](/links/id129/index_split_015.html#filepos324791)
-
-    *   organizational efficiency and, [150](/links/id127/index_split_017.html#filepos372949)
-
-*   solar energy, [100](/links/id131/index_split_013.html#filepos255128), [198](/links/id125/index_split_019.html#filepos494377)
-
-*   Solugen, [86](/links/id132/index_split_012.html#filepos219964)
-
-*   South Korea, [188](/links/id125/index_split_019.html#filepos468878)
-
-*   Soviet Union, [171–72](/links/id126/index_split_018.html#filepos426486), [192](/links/id125/index_split_019.html#filepos478976)
-
-*   space debris, [36](/links/id135/index_split_009.html#filepos98799)
-
-*   space travel, [122](/links/id129/index_split_015.html#filepos309188)
-
-*   SpaceX, [104](/links/id130/index_split_014.html#filepos264947)
-
-*   Sparrow, [95](/links/id131/index_split_013.html#filepos242332)
-
-*   speed. See [hyper-evolution](#filepos1105835)
-
-*   Sputnik, [119–20](/links/id129/index_split_015.html#filepos301521), [126](/links/id129/index_split_015.html#filepos319513)
-
-*   Stability AI, [199](/links/id125/index_split_019.html#filepos497003)
-
-*   Stable Diffusion, [69](/links/id133/index_split_011.html#filepos176396)
-
-*   stagnation, [217–21](/links/id124/index_split_020.html#filepos540677)
-
-*   Starlink, [104](/links/id130/index_split_014.html#filepos264947)
-
-*   start-up myth, [141](/links/id129/index_split_015.html#filepos358767)
-
-*   steam engine, [23](/links/id136/index_split_008.html#filepos66570), [131](/links/id129/index_split_015.html#filepos332686)
-
-*   Stephenson, George, [131](/links/id129/index_split_015.html#filepos332686)
-
-*   stirrup, [183–84](/links/id125/index_split_019.html#filepos456534)
-
-*   stone tools, [26](/links/id136/index_split_008.html#filepos73721)
-
-*   superintelligence, [74–75](/links/id133/index_split_011.html#filepos189113), [77](/links/id133/index_split_011.html#filepos196958), [115](/links/id130/index_split_014.html#filepos293320)
-
-*   surveillance
-
-    *   audits and, [248](/links/id121/index_split_023.html#filepos613537)
-
-    *   dystopia and, [215–17](/links/id124/index_split_020.html#filepos535474)
-
-    *   post-sovereign world and, [193–96](/links/id125/index_split_019.html#filepos481522), [206](/links/id124/index_split_020.html#filepos512534)
-
-    *   regulation and, [228](/links/id122/index_split_022.html#filepos563503)
-
-    *   resistance to, [277–78](/links/id121/index_split_023.html#filepos687642)
-
-*   Sutskever, Ilya, [59](/links/id133/index_split_011.html#filepos150763)
-
-*   swarming robots, [95–96](/links/id131/index_split_013.html#filepos242332)
-
-*   Switch Transformer, [68](/links/id133/index_split_011.html#filepos173724)
-
-*   Sycamore, [122](/links/id129/index_split_015.html#filepos309188)
-
-*   synthetic biology
-
-    *   AI and, [89–90](/links/id132/index_split_012.html#filepos227538), [109](/links/id130/index_split_014.html#filepos277660)
-
-    *   audits and, [247–48](/links/id121/index_split_023.html#filepos610825)
-
-    *   catastrophe scenarios and, [208–9](/links/id124/index_split_020.html#filepos517634)
-
-    *   computers and, [87–88](/links/id132/index_split_012.html#filepos222513)
-
-    *   current applications, [84–85](/links/id132/index_split_012.html#filepos214694)
-
-    *   decentralization and, [200](/links/id125/index_split_019.html#filepos499542)
-
-    *   deep learning and, [90–91](/links/id132/index_split_012.html#filepos229991)
-
-    *   defined, [viii](/links/id141/index_split_003.html#filepos25399)
-
-    *   dematerialization and, [190](/links/id125/index_split_019.html#filepos473956)
-
-    *   development of, [55](/links/id133/index_split_011.html#filepos140390)
-
-    *   international cooperation and, [265–66](/links/id121/index_split_023.html#filepos657705)
-
-    *   omni-use technology and, [112](/links/id130/index_split_014.html#filepos285589)
-
-    *   potential of, [85–87](/links/id132/index_split_012.html#filepos217364)
-
-    *   power of, [56](/links/id133/index_split_011.html#filepos142972)
-
-    *   profit motive and, [134](/links/id129/index_split_015.html#filepos340575)
-
-    *   research unpredictability and, [129–30](/links/id129/index_split_015.html#filepos327465)
-
-    *   See also [coming wave](#filepos1050502); [gene editing](#filepos1087278)
-
-*   synthetic media, [169–71](/links/id126/index_split_018.html#filepos421365), [172–73](/links/id126/index_split_018.html#filepos429001)
-
-*   Synthia, [84](/links/id132/index_split_012.html#filepos214694)
-
-*   systems biology, [85](/links/id132/index_split_012.html#filepos217364)
-
-*   Szilard, Leo, [41](/links/id135/index_split_009.html#filepos111874)
-
+-   Samsung Group, [188](/links/id125/index_split_019.html#filepos468878)
+    
+-   Sanofi, [110](/links/id130/index_split_014.html#filepos280224)
+    
+-   SARS, [174–75](/links/id126/index_split_018.html#filepos434228)
+    
+-   scaling hypothesis, [67–68](/links/id133/index_split_011.html#filepos171140), [75](/links/id133/index_split_011.html#filepos191737)
+    
+-   Schneier, Bruce, [167](/links/id126/index_split_018.html#filepos416293)
+    
+-   Schumpeter, Joseph, [29](/links/id136/index_split_008.html#filepos81361)
+    
+-   Scientific Revolution, [35](/links/id135/index_split_009.html#filepos96776), [127](/links/id129/index_split_015.html#filepos322122)
+    
+-   SecureDNA, [247](/links/id121/index_split_023.html#filepos610825), [265](/links/id121/index_split_023.html#filepos657705)
+    
+-   self-driving vehicles, [113](/links/id130/index_split_014.html#filepos288232)
+    
+-   semiconductors, [32](/links/id136/index_split_008.html#filepos89069), [84](/links/id132/index_split_012.html#filepos214694), [249–50](/links/id121/index_split_023.html#filepos616180)
+    
+-   SenseTime, [194](/links/id125/index_split_019.html#filepos483953)
+    
+-   Shield AI, [166](/links/id126/index_split_018.html#filepos413743)
+    
+-   silk, [41](/links/id135/index_split_009.html#filepos111874)
+    
+-   Singer, Isaac, [133](/links/id129/index_split_015.html#filepos337952)
+    
+-   Singularity, [74](/links/id133/index_split_011.html#filepos189113)
+    
+    -   See also [superintelligence](#filepos1174476)
+        
+-   smartphones, [33](/links/id136/index_split_008.html#filepos91858), [60](/links/id133/index_split_011.html#filepos153268), [112](/links/id130/index_split_014.html#filepos285589), [187](/links/id125/index_split_019.html#filepos466368)
+    
+-   Smil, Vaclav, [138](/links/id129/index_split_015.html#filepos350938)
+    
+-   Snowden, Edward, [122](/links/id129/index_split_015.html#filepos309188)
+    
+-   social media
+    
+    -   contradictions and, [202](/links/id125/index_split_019.html#filepos504628)
+        
+    -   disinformation and, [172](/links/id126/index_split_018.html#filepos429001)
+        
+    -   nation-states and, [155](/links/id127/index_split_017.html#filepos385999), [156](/links/id127/index_split_017.html#filepos388704)
+        
+    -   openness imperative and, [128](/links/id129/index_split_015.html#filepos324791)
+        
+    -   organizational efficiency and, [150](/links/id127/index_split_017.html#filepos372949)
+        
+-   solar energy, [100](/links/id131/index_split_013.html#filepos255128), [198](/links/id125/index_split_019.html#filepos494377)
+    
+-   Solugen, [86](/links/id132/index_split_012.html#filepos219964)
+    
+-   South Korea, [188](/links/id125/index_split_019.html#filepos468878)
+    
+-   Soviet Union, [171–72](/links/id126/index_split_018.html#filepos426486), [192](/links/id125/index_split_019.html#filepos478976)
+    
+-   space debris, [36](/links/id135/index_split_009.html#filepos98799)
+    
+-   space travel, [122](/links/id129/index_split_015.html#filepos309188)
+    
+-   SpaceX, [104](/links/id130/index_split_014.html#filepos264947)
+    
+-   Sparrow, [95](/links/id131/index_split_013.html#filepos242332)
+    
+-   speed. See [hyper-evolution](#filepos1105835)
+    
+-   Sputnik, [119–20](/links/id129/index_split_015.html#filepos301521), [126](/links/id129/index_split_015.html#filepos319513)
+    
+-   Stability AI, [199](/links/id125/index_split_019.html#filepos497003)
+    
+-   Stable Diffusion, [69](/links/id133/index_split_011.html#filepos176396)
+    
+-   stagnation, [217–21](/links/id124/index_split_020.html#filepos540677)
+    
+-   Starlink, [104](/links/id130/index_split_014.html#filepos264947)
+    
+-   start-up myth, [141](/links/id129/index_split_015.html#filepos358767)
+    
+-   steam engine, [23](/links/id136/index_split_008.html#filepos66570), [131](/links/id129/index_split_015.html#filepos332686)
+    
+-   Stephenson, George, [131](/links/id129/index_split_015.html#filepos332686)
+    
+-   stirrup, [183–84](/links/id125/index_split_019.html#filepos456534)
+    
+-   stone tools, [26](/links/id136/index_split_008.html#filepos73721)
+    
+-   superintelligence, [74–75](/links/id133/index_split_011.html#filepos189113), [77](/links/id133/index_split_011.html#filepos196958), [115](/links/id130/index_split_014.html#filepos293320)
+    
+-   surveillance
+    
+    -   audits and, [248](/links/id121/index_split_023.html#filepos613537)
+        
+    -   dystopia and, [215–17](/links/id124/index_split_020.html#filepos535474)
+        
+    -   post-sovereign world and, [193–96](/links/id125/index_split_019.html#filepos481522), [206](/links/id124/index_split_020.html#filepos512534)
+        
+    -   regulation and, [228](/links/id122/index_split_022.html#filepos563503)
+        
+    -   resistance to, [277–78](/links/id121/index_split_023.html#filepos687642)
+        
+-   Sutskever, Ilya, [59](/links/id133/index_split_011.html#filepos150763)
+    
+-   swarming robots, [95–96](/links/id131/index_split_013.html#filepos242332)
+    
+-   Switch Transformer, [68](/links/id133/index_split_011.html#filepos173724)
+    
+-   Sycamore, [122](/links/id129/index_split_015.html#filepos309188)
+    
+-   synthetic biology
+    
+    -   AI and, [89–90](/links/id132/index_split_012.html#filepos227538), [109](/links/id130/index_split_014.html#filepos277660)
+        
+    -   audits and, [247–48](/links/id121/index_split_023.html#filepos610825)
+        
+    -   catastrophe scenarios and, [208–9](/links/id124/index_split_020.html#filepos517634)
+        
+    -   computers and, [87–88](/links/id132/index_split_012.html#filepos222513)
+        
+    -   current applications, [84–85](/links/id132/index_split_012.html#filepos214694)
+        
+    -   decentralization and, [200](/links/id125/index_split_019.html#filepos499542)
+        
+    -   deep learning and, [90–91](/links/id132/index_split_012.html#filepos229991)
+        
+    -   defined, [viii](/links/id141/index_split_003.html#filepos25399)
+        
+    -   dematerialization and, [190](/links/id125/index_split_019.html#filepos473956)
+        
+    -   development of, [55](/links/id133/index_split_011.html#filepos140390)
+        
+    -   international cooperation and, [265–66](/links/id121/index_split_023.html#filepos657705)
+        
+    -   omni-use technology and, [112](/links/id130/index_split_014.html#filepos285589)
+        
+    -   potential of, [85–87](/links/id132/index_split_012.html#filepos217364)
+        
+    -   power of, [56](/links/id133/index_split_011.html#filepos142972)
+        
+    -   profit motive and, [134](/links/id129/index_split_015.html#filepos340575)
+        
+    -   research unpredictability and, [129–30](/links/id129/index_split_015.html#filepos327465)
+        
+    -   See also [coming wave](#filepos1050502); [gene editing](#filepos1087278)
+        
+-   synthetic media, [169–71](/links/id126/index_split_018.html#filepos421365), [172–73](/links/id126/index_split_018.html#filepos429001)
+    
+-   Synthia, [84](/links/id132/index_split_012.html#filepos214694)
+    
+-   systems biology, [85](/links/id132/index_split_012.html#filepos217364)
+    
+-   Szilard, Leo, [41](/links/id135/index_split_009.html#filepos111874)
+    
 
 T
 
-*   taxation, [261–62](/links/id121/index_split_023.html#filepos647349)
-
-*   technological unemployment, [177–81](/links/id126/index_split_018.html#filepos442103), [261](/links/id121/index_split_023.html#filepos647349), [262](/links/id121/index_split_023.html#filepos649903), [282](/links/id120/index_split_024.html#filepos695528)
-
-*   technology
-
-    *   defined, [viii](/links/id141/index_split_003.html#filepos25399), [26](/links/id136/index_split_008.html#filepos73721)
-
-    *   failures of, [18](/links/id138/index_split_006.html#filepos63079)
-
-    *   interrelated nature of, [56–57](/links/id133/index_split_011.html#filepos142972)
-
-    *   societal dependence on, [218–19](/links/id124/index_split_020.html#filepos543225)
-
-    *   as symbiotic with nation-states, [156–58](/links/id127/index_split_017.html#filepos388704)
-
-    *   ubiquity of, [235–36](/links/id122/index_split_022.html#filepos581726)
-
-    *   unintended consequences of, [35–36](/links/id135/index_split_009.html#filepos96776)
-
-    *   See also [coming wave technology characteristics](#filepos1053240); specific technologies
-
-*   technology cost decreases
-
-    *   AI and, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724)
-
-    *   computing, [108](/links/id130/index_split_014.html#filepos275124)
-
-    *   containment and, [39](/links/id135/index_split_009.html#filepos106697), [43](/links/id135/index_split_009.html#filepos116979), [233–34](/links/id122/index_split_022.html#filepos576491)
-
-    *   genetic engineering, [80](/links/id132/index_split_012.html#filepos204386), [81](/links/id132/index_split_012.html#filepos206951), [83](/links/id132/index_split_012.html#filepos212128), [84](/links/id132/index_split_012.html#filepos214694)
-
-    *   genome sequencing, [81](/links/id132/index_split_012.html#filepos206951)
-
-    *   power and, [102](/links/id131/index_split_013.html#filepos260306)
-
-    *   proliferation and, [31](/links/id136/index_split_008.html#filepos86511)
-
-    *   robotics, [95](/links/id131/index_split_013.html#filepos242332), [96](/links/id131/index_split_013.html#filepos244953)
-
-*   technology waves, [6](/links/id138/index_split_006.html#filepos32260), [16](/links/id138/index_split_006.html#filepos57861), [25–26](/links/id136/index_split_008.html#filepos71180)
-
-    *   acceleration of, [28–29](/links/id136/index_split_008.html#filepos78830), [92](/links/id131/index_split_013.html#filepos235071)
-
-    *   diffusion and, [30–31](/links/id136/index_split_008.html#filepos83827)
-
-    *   evolution and, [26–27](/links/id136/index_split_008.html#filepos73721)
-
-    *   inevitability of, [29](/links/id136/index_split_008.html#filepos81361), [47](/links/id135/index_split_009.html#filepos127159)
-
-    *   invisibility of, [27](/links/id136/index_split_008.html#filepos76287), [73](/links/id133/index_split_011.html#filepos186401)
-
-    *   material and, [54–55](/links/id133/index_split_011.html#filepos137819)
-
-    *   proliferation and, [32–34](/links/id136/index_split_008.html#filepos89069)
-
-    *   resignation to, [47](/links/id135/index_split_009.html#filepos127159)
-
-    *   unpredictability of, [29](/links/id136/index_split_008.html#filepos81361)
-
-    *   urbanization and, [27–28](/links/id136/index_split_008.html#filepos76287)
-
-*   telephone, [31](/links/id136/index_split_008.html#filepos86511)
-
-*   television, [157](/links/id127/index_split_017.html#filepos391435)
-
-*   terrorism, [44–45](/links/id135/index_split_009.html#filepos119514), [160–62](/links/id126/index_split_018.html#filepos398504), [207](/links/id124/index_split_020.html#filepos515094), [212–13](/links/id124/index_split_020.html#filepos527705)
-
-*   Thiel, Peter, [201](/links/id125/index_split_019.html#filepos502098)
-
-*   3-D printing (additive manufacturing), [96](/links/id131/index_split_013.html#filepos244953), [109](/links/id130/index_split_014.html#filepos277660), [166](/links/id126/index_split_018.html#filepos413743), [190](/links/id125/index_split_019.html#filepos473956)
-
-*   Tilly, Charles, [157](/links/id127/index_split_017.html#filepos391435)
-
-*   Tiwari, Manoj, [169–70](/links/id126/index_split_018.html#filepos421365)
-
-*   Toffler, Alvin, [29](/links/id136/index_split_008.html#filepos81361)
-
-*   tokens, [63](/links/id133/index_split_011.html#filepos161091)
-
-*   totalitarianism. See [authoritarianism](#filepos1029592); [surveillance](#filepos1175566)
-
-*   traffic optimization, [98](/links/id131/index_split_013.html#filepos250100)
-
-*   transcriptors, [88](/links/id132/index_split_012.html#filepos225087)
-
-*   transformers, [64](/links/id133/index_split_011.html#filepos163547), [90–91](/links/id132/index_split_012.html#filepos229991)
-
-*   transistor, [32–33](/links/id136/index_split_008.html#filepos89069), [67](/links/id133/index_split_011.html#filepos171140)
-
-*   Treaty on the Non-proliferation of Nuclear Weapons (1968), [43](/links/id135/index_split_009.html#filepos116979), [263](/links/id121/index_split_023.html#filepos652540)
-
-*   Tsar Bomba, [42](/links/id135/index_split_009.html#filepos114541)
-
-*   Tsinghua University, [121](/links/id129/index_split_015.html#filepos306639)
-
-*   TSMC, [251](/links/id121/index_split_023.html#filepos621545)
-
-*   Turing, Alan, [35](/links/id135/index_split_009.html#filepos96776), [75](/links/id133/index_split_011.html#filepos191737)
-
-*   23andMe, [81](/links/id132/index_split_012.html#filepos206951)
-
-*   2001: A Space Odyssey, [110](/links/id130/index_split_014.html#filepos280224)
-
+-   taxation, [261–62](/links/id121/index_split_023.html#filepos647349)
+    
+-   technological unemployment, [177–81](/links/id126/index_split_018.html#filepos442103), [261](/links/id121/index_split_023.html#filepos647349), [262](/links/id121/index_split_023.html#filepos649903), [282](/links/id120/index_split_024.html#filepos695528)
+    
+-   technology
+    
+    -   defined, [viii](/links/id141/index_split_003.html#filepos25399), [26](/links/id136/index_split_008.html#filepos73721)
+        
+    -   failures of, [18](/links/id138/index_split_006.html#filepos63079)
+        
+    -   interrelated nature of, [56–57](/links/id133/index_split_011.html#filepos142972)
+        
+    -   societal dependence on, [218–19](/links/id124/index_split_020.html#filepos543225)
+        
+    -   as symbiotic with nation-states, [156–58](/links/id127/index_split_017.html#filepos388704)
+        
+    -   ubiquity of, [235–36](/links/id122/index_split_022.html#filepos581726)
+        
+    -   unintended consequences of, [35–36](/links/id135/index_split_009.html#filepos96776)
+        
+    -   See also [coming wave technology characteristics](#filepos1053240); specific technologies
+        
+-   technology cost decreases
+    
+    -   AI and, [64](/links/id133/index_split_011.html#filepos163547), [68](/links/id133/index_split_011.html#filepos173724)
+        
+    -   computing, [108](/links/id130/index_split_014.html#filepos275124)
+        
+    -   containment and, [39](/links/id135/index_split_009.html#filepos106697), [43](/links/id135/index_split_009.html#filepos116979), [233–34](/links/id122/index_split_022.html#filepos576491)
+        
+    -   genetic engineering, [80](/links/id132/index_split_012.html#filepos204386), [81](/links/id132/index_split_012.html#filepos206951), [83](/links/id132/index_split_012.html#filepos212128), [84](/links/id132/index_split_012.html#filepos214694)
+        
+    -   genome sequencing, [81](/links/id132/index_split_012.html#filepos206951)
+        
+    -   power and, [102](/links/id131/index_split_013.html#filepos260306)
+        
+    -   proliferation and, [31](/links/id136/index_split_008.html#filepos86511)
+        
+    -   robotics, [95](/links/id131/index_split_013.html#filepos242332), [96](/links/id131/index_split_013.html#filepos244953)
+        
+-   technology waves, [6](/links/id138/index_split_006.html#filepos32260), [16](/links/id138/index_split_006.html#filepos57861), [25–26](/links/id136/index_split_008.html#filepos71180)
+    
+    -   acceleration of, [28–29](/links/id136/index_split_008.html#filepos78830), [92](/links/id131/index_split_013.html#filepos235071)
+        
+    -   diffusion and, [30–31](/links/id136/index_split_008.html#filepos83827)
+        
+    -   evolution and, [26–27](/links/id136/index_split_008.html#filepos73721)
+        
+    -   inevitability of, [29](/links/id136/index_split_008.html#filepos81361), [47](/links/id135/index_split_009.html#filepos127159)
+        
+    -   invisibility of, [27](/links/id136/index_split_008.html#filepos76287), [73](/links/id133/index_split_011.html#filepos186401)
+        
+    -   material and, [54–55](/links/id133/index_split_011.html#filepos137819)
+        
+    -   proliferation and, [32–34](/links/id136/index_split_008.html#filepos89069)
+        
+    -   resignation to, [47](/links/id135/index_split_009.html#filepos127159)
+        
+    -   unpredictability of, [29](/links/id136/index_split_008.html#filepos81361)
+        
+    -   urbanization and, [27–28](/links/id136/index_split_008.html#filepos76287)
+        
+-   telephone, [31](/links/id136/index_split_008.html#filepos86511)
+    
+-   television, [157](/links/id127/index_split_017.html#filepos391435)
+    
+-   terrorism, [44–45](/links/id135/index_split_009.html#filepos119514), [160–62](/links/id126/index_split_018.html#filepos398504), [207](/links/id124/index_split_020.html#filepos515094), [212–13](/links/id124/index_split_020.html#filepos527705)
+    
+-   Thiel, Peter, [201](/links/id125/index_split_019.html#filepos502098)
+    
+-   3-D printing (additive manufacturing), [96](/links/id131/index_split_013.html#filepos244953), [109](/links/id130/index_split_014.html#filepos277660), [166](/links/id126/index_split_018.html#filepos413743), [190](/links/id125/index_split_019.html#filepos473956)
+    
+-   Tilly, Charles, [157](/links/id127/index_split_017.html#filepos391435)
+    
+-   Tiwari, Manoj, [169–70](/links/id126/index_split_018.html#filepos421365)
+    
+-   Toffler, Alvin, [29](/links/id136/index_split_008.html#filepos81361)
+    
+-   tokens, [63](/links/id133/index_split_011.html#filepos161091)
+    
+-   totalitarianism. See [authoritarianism](#filepos1029592); [surveillance](#filepos1175566)
+    
+-   traffic optimization, [98](/links/id131/index_split_013.html#filepos250100)
+    
+-   transcriptors, [88](/links/id132/index_split_012.html#filepos225087)
+    
+-   transformers, [64](/links/id133/index_split_011.html#filepos163547), [90–91](/links/id132/index_split_012.html#filepos229991)
+    
+-   transistor, [32–33](/links/id136/index_split_008.html#filepos89069), [67](/links/id133/index_split_011.html#filepos171140)
+    
+-   Treaty on the Non-proliferation of Nuclear Weapons (1968), [43](/links/id135/index_split_009.html#filepos116979), [263](/links/id121/index_split_023.html#filepos652540)
+    
+-   Tsar Bomba, [42](/links/id135/index_split_009.html#filepos114541)
+    
+-   Tsinghua University, [121](/links/id129/index_split_015.html#filepos306639)
+    
+-   TSMC, [251](/links/id121/index_split_023.html#filepos621545)
+    
+-   Turing, Alan, [35](/links/id135/index_split_009.html#filepos96776), [75](/links/id133/index_split_011.html#filepos191737)
+    
+-   23andMe, [81](/links/id132/index_split_012.html#filepos206951)
+    
+-   2001: A Space Odyssey, [110](/links/id130/index_split_014.html#filepos280224)
+    
 
 U
 
-*   Uighur ethnic cleansing, [195](/links/id125/index_split_019.html#filepos486519)
-
-*   Ukraine, [44](/links/id135/index_split_009.html#filepos119514), [103–4](/links/id130/index_split_014.html#filepos262914), [161–62](/links/id126/index_split_018.html#filepos400559)
-
-*   Unabomber, [213](/links/id124/index_split_020.html#filepos530272)
-
-*   United States
-
-    *   export controls, [249–50](/links/id121/index_split_023.html#filepos616180)
-
-    *   international cooperation and, [265–66](/links/id121/index_split_023.html#filepos657705)
-
-    *   surveillance, [195](/links/id125/index_split_019.html#filepos486519)
-
-*   universal basic income (UBI), [262](/links/id121/index_split_023.html#filepos649903)
-
-*   University of Oxford, [101](/links/id131/index_split_013.html#filepos257699)
-
-*   Urban II (pope), [39](/links/id135/index_split_009.html#filepos106697)
-
-*   urbanization, technology waves and, [27–28](/links/id136/index_split_008.html#filepos76287)
-
-*   U.S. National Security Agency (NSA), [161](/links/id126/index_split_018.html#filepos400559)
-
+-   Uighur ethnic cleansing, [195](/links/id125/index_split_019.html#filepos486519)
+    
+-   Ukraine, [44](/links/id135/index_split_009.html#filepos119514), [103–4](/links/id130/index_split_014.html#filepos262914), [161–62](/links/id126/index_split_018.html#filepos400559)
+    
+-   Unabomber, [213](/links/id124/index_split_020.html#filepos530272)
+    
+-   United States
+    
+    -   export controls, [249–50](/links/id121/index_split_023.html#filepos616180)
+        
+    -   international cooperation and, [265–66](/links/id121/index_split_023.html#filepos657705)
+        
+    -   surveillance, [195](/links/id125/index_split_019.html#filepos486519)
+        
+-   universal basic income (UBI), [262](/links/id121/index_split_023.html#filepos649903)
+    
+-   University of Oxford, [101](/links/id131/index_split_013.html#filepos257699)
+    
+-   Urban II (pope), [39](/links/id135/index_split_009.html#filepos106697)
+    
+-   urbanization, technology waves and, [27–28](/links/id136/index_split_008.html#filepos76287)
+    
+-   U.S. National Security Agency (NSA), [161](/links/id126/index_split_018.html#filepos400559)
+    
 
 V
 
-*   vehicles
-
-    *   asymmetrical impact and, [107](/links/id130/index_split_014.html#filepos272524)
-
-    *   autonomy and, [113](/links/id130/index_split_014.html#filepos288232)
-
-    *   internal combustion engine and, [24–25](/links/id136/index_split_008.html#filepos68623)
-
-    *   regulation of, [229–30](/links/id122/index_split_022.html#filepos566043)
-
-*   Venter, Craig, [84](/links/id132/index_split_012.html#filepos214694)
-
-*   Vigilant Solutions, [196](/links/id125/index_split_019.html#filepos489096)
-
-*   viruses, [173–75](/links/id126/index_split_018.html#filepos431584), [209](/links/id124/index_split_020.html#filepos520201), [273–74](/links/id121/index_split_023.html#filepos678524)
-
-*   von Neumann, John, [141](/links/id129/index_split_015.html#filepos358767), [221](/links/id124/index_split_020.html#filepos550927), [222](/links/id124/index_split_020.html#filepos553551)
-
+-   vehicles
+    
+    -   asymmetrical impact and, [107](/links/id130/index_split_014.html#filepos272524)
+        
+    -   autonomy and, [113](/links/id130/index_split_014.html#filepos288232)
+        
+    -   internal combustion engine and, [24–25](/links/id136/index_split_008.html#filepos68623)
+        
+    -   regulation of, [229–30](/links/id122/index_split_022.html#filepos566043)
+        
+-   Venter, Craig, [84](/links/id132/index_split_012.html#filepos214694)
+    
+-   Vigilant Solutions, [196](/links/id125/index_split_019.html#filepos489096)
+    
+-   viruses, [173–75](/links/id126/index_split_018.html#filepos431584), [209](/links/id124/index_split_020.html#filepos520201), [273–74](/links/id121/index_split_023.html#filepos678524)
+    
+-   von Neumann, John, [141](/links/id129/index_split_015.html#filepos358767), [221](/links/id124/index_split_020.html#filepos550927), [222](/links/id124/index_split_020.html#filepos553551)
+    
 
 W
 
-*   Walmart, [95–96](/links/id131/index_split_013.html#filepos242332)
-
-*   WannaCry, [160–61](/links/id126/index_split_018.html#filepos398504), [163](/links/id126/index_split_018.html#filepos405785), [166](/links/id126/index_split_018.html#filepos413743)
-
-*   Watson, James, [80](/links/id132/index_split_012.html#filepos204386)
-
-*   Watson, Thomas J., [32](/links/id136/index_split_008.html#filepos89069)
-
-*   WaveNet, [61](/links/id133/index_split_011.html#filepos155787)
-
-*   waves, [viii](/links/id141/index_split_003.html#filepos25399), [5–6](/links/id138/index_split_006.html#filepos30162), [16](/links/id138/index_split_006.html#filepos57861)
-
-    *   See also [technology waves](#filepos1186999)
-
-*   We (Zamyatin), [196](/links/id125/index_split_019.html#filepos489096)
-
-*   weapons
-
-    *   AI and, [165](/links/id126/index_split_018.html#filepos411097)
-
-    *   containment and, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308), [263](/links/id121/index_split_023.html#filepos652540)
-
-    *   nation-states and, [157](/links/id127/index_split_017.html#filepos391435)
-
-    *   stirrup and, [183–84](/links/id125/index_split_019.html#filepos456534)
-
-    *   See also [military applications](#filepos1129110); [nuclear technology](#filepos1140324)
-
-*   wheel, [28](/links/id136/index_split_008.html#filepos78830)
-
-*   White House Office of Science and Technology Policy, [260](/links/id121/index_split_023.html#filepos644736)
-
-*   Wilkins, Maurice, [80](/links/id132/index_split_012.html#filepos204386)
-
-*   Winner, Langdon, [156](/links/id127/index_split_017.html#filepos388704)
-
-*   World War I, [110](/links/id130/index_split_014.html#filepos280224), [205](/links/id124/index_split_020.html#filepos510531)
-
-*   World War II, [32](/links/id136/index_split_008.html#filepos89069), [42](/links/id135/index_split_009.html#filepos114541), [126](/links/id129/index_split_015.html#filepos319513), [205](/links/id124/index_split_020.html#filepos510531), [264](/links/id121/index_split_023.html#filepos655070)
-
-*   writing, [27](/links/id136/index_split_008.html#filepos76287), [28](/links/id136/index_split_008.html#filepos78830), [156–57](/links/id127/index_split_017.html#filepos388704)
-
+-   Walmart, [95–96](/links/id131/index_split_013.html#filepos242332)
+    
+-   WannaCry, [160–61](/links/id126/index_split_018.html#filepos398504), [163](/links/id126/index_split_018.html#filepos405785), [166](/links/id126/index_split_018.html#filepos413743)
+    
+-   Watson, James, [80](/links/id132/index_split_012.html#filepos204386)
+    
+-   Watson, Thomas J., [32](/links/id136/index_split_008.html#filepos89069)
+    
+-   WaveNet, [61](/links/id133/index_split_011.html#filepos155787)
+    
+-   waves, [viii](/links/id141/index_split_003.html#filepos25399), [5–6](/links/id138/index_split_006.html#filepos30162), [16](/links/id138/index_split_006.html#filepos57861)
+    
+    -   See also [technology waves](#filepos1186999)
+        
+-   We (Zamyatin), [196](/links/id125/index_split_019.html#filepos489096)
+    
+-   weapons
+    
+    -   AI and, [165](/links/id126/index_split_018.html#filepos411097)
+        
+    -   containment and, [39](/links/id135/index_split_009.html#filepos106697), [40](/links/id135/index_split_009.html#filepos109308), [263](/links/id121/index_split_023.html#filepos652540)
+        
+    -   nation-states and, [157](/links/id127/index_split_017.html#filepos391435)
+        
+    -   stirrup and, [183–84](/links/id125/index_split_019.html#filepos456534)
+        
+    -   See also [military applications](#filepos1129110); [nuclear technology](#filepos1140324)
+        
+-   wheel, [28](/links/id136/index_split_008.html#filepos78830)
+    
+-   White House Office of Science and Technology Policy, [260](/links/id121/index_split_023.html#filepos644736)
+    
+-   Wilkins, Maurice, [80](/links/id132/index_split_012.html#filepos204386)
+    
+-   Winner, Langdon, [156](/links/id127/index_split_017.html#filepos388704)
+    
+-   World War I, [110](/links/id130/index_split_014.html#filepos280224), [205](/links/id124/index_split_020.html#filepos510531)
+    
+-   World War II, [32](/links/id136/index_split_008.html#filepos89069), [42](/links/id135/index_split_009.html#filepos114541), [126](/links/id129/index_split_015.html#filepos319513), [205](/links/id124/index_split_020.html#filepos510531), [264](/links/id121/index_split_023.html#filepos655070)
+    
+-   writing, [27](/links/id136/index_split_008.html#filepos76287), [28](/links/id136/index_split_008.html#filepos78830), [156–57](/links/id127/index_split_017.html#filepos388704)
+    
 
 X
 
-*   Xi Jinping, [121](/links/id129/index_split_015.html#filepos306639), [122](/links/id129/index_split_015.html#filepos309188), [123–24](/links/id129/index_split_015.html#filepos311888), [249](/links/id121/index_split_023.html#filepos616180)
-
+-   Xi Jinping, [121](/links/id129/index_split_015.html#filepos306639), [122](/links/id129/index_split_015.html#filepos309188), [123–24](/links/id129/index_split_015.html#filepos311888), [249](/links/id121/index_split_023.html#filepos616180)
+    
 
 Z
 
-*   Zamyatin, Yevgeny, [196](/links/id125/index_split_019.html#filepos489096)
-
-*   Zhang, Feng, [265](/links/id121/index_split_023.html#filepos657705)
-
+-   Zamyatin, Yevgeny, [196](/links/id125/index_split_019.html#filepos489096)
+    
+-   Zhang, Feng, [265](/links/id121/index_split_023.html#filepos657705)
+    
 
 > [A](#filepos1003820) [B](#filepos1030862) [C](#filepos1035134) [D](#filepos1068777) [E](#filepos1078193) [F](#filepos1082803) [G](#filepos1085947) [H](#filepos1101136) [I](#filepos1105847) [J](#filepos1111849) [K](#filepos1112888) [L](#filepos1114945) [M](#filepos1121798) [N](#filepos1132023) [O](#filepos1140639) [P](#filepos1144657) [Q](#filepos1157255) [R](#filepos1157750) [S](#filepos1165572) [T](#filepos1180346) [U](#filepos1191495) [V](#filepos1193863) [W](#filepos1195800) [X](#filepos1200526) Y [Z](#filepos1201015)
 
@@ -6870,10 +6876,10 @@ ABOUT THE AUTHORS
 
 ---
 
-What’s next on
+What’s next on  
 your reading list?
 
-[Discover your next](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780593593967/display/1)
+[Discover your next](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780593593967/display/1)  
 [great read!](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780593593967/display/1)
 
 Get personalized book picks and up-to-date news about this author.
@@ -6883,3 +6889,4 @@ Get personalized book picks and up-to-date news about this author.
 \_144835715\_
 
 ---
+

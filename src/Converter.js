@@ -6,9 +6,11 @@ const TurndownService = require('turndown');
 class Converter {
     constructor(options = {}) {
         this.options = options;
-        this.turndownService = new TurndownService();
-        // We will store mapping from 'basename' to 'filename' for Turndown
-        // This is imperfect for collisions but best we can do without deep path resolution
+        this.turndownService = new TurndownService({
+            headingStyle: 'atx',
+            codeBlockStyle: 'fenced',
+            bulletListMarker: '-'
+        });
         this.filenameMap = new Map();
         this.assetsDir = 'assets';
     }
@@ -29,7 +31,7 @@ class Converter {
             fs.mkdirSync(this.assetsOutputDir, { recursive: true });
         }
 
-        // 2. Extract Images FIRST (so we have the map for Turndown)
+        // 2. Extract Images FIRST
         await this.extractImages(epub);
 
         // 3. Extract Metadata & Frontmatter
@@ -71,22 +73,28 @@ class Converter {
     }
 
     configureTurndown() {
+        const imageReplacement = (content, node) => {
+            const alt = node.getAttribute('alt') || '';
+            let src = node.getAttribute('src') || node.getAttribute('xlink:href') || node.getAttribute('href');
+            if (!src) return '';
+
+            const basename = path.basename(src.split('?')[0]);
+            const decodedBasename = decodeURIComponent(basename);
+
+            // Default to decoded basename if not found
+            const filename = this.filenameMap.get(decodedBasename) || decodedBasename;
+
+            return `![${alt}](${this.assetsDir}/${filename})`;
+        };
+
         this.turndownService.addRule('img', {
             filter: 'img',
-            replacement: (content, node) => {
-                const alt = node.getAttribute('alt') || '';
-                const src = node.getAttribute('src');
-                if (!src) return '';
+            replacement: imageReplacement
+        });
 
-                // transform src to asset path using our map
-                const basename = path.basename(src.split('?')[0]);
-                const decodedBasename = decodeURIComponent(basename);
-
-                // Default to decoded basename if not found (fallback)
-                const filename = this.filenameMap.get(decodedBasename) || decodedBasename;
-
-                return `![${alt}](${this.assetsDir}/${filename})`;
-            }
+        this.turndownService.addRule('svg-image', {
+            filter: 'image',
+            replacement: imageReplacement
         });
     }
 
@@ -101,7 +109,6 @@ class Converter {
                 try {
                     const data = await this.getImageData(epub, id);
 
-                    // Determine safe filename
                     let originalBasename = path.basename(item.href);
                     let filename = originalBasename;
                     let ext = path.extname(filename);
@@ -114,14 +121,7 @@ class Converter {
                     }
                     usedFilenames.add(filename);
 
-                    // Map the ORIGINAL basename to this new safe filename
-                    // Use the decoded version for mapping keys as Turndown might see decoded
-                    // actually item.href is usually URL encoded?
                     const decodedOriginal = decodeURIComponent(originalBasename);
-
-                    // If multiple originals map to same basename, the last one wins in the map.
-                    // This is the limitation of the 'basename' strategy.
-                    // But at least the FILES don't overwrite on disk.
                     this.filenameMap.set(decodedOriginal, filename);
 
                     const destPath = path.join(this.assetsOutputDir, filename);
@@ -135,13 +135,28 @@ class Converter {
 
     async processChapters(epub) {
         let textContent = '';
-        for (const chapter of epub.flow) {
-            const text = await this.getChapterText(epub, chapter.id);
-            if (text) {
-                const markdown = this.turndownService.turndown(text);
-                textContent += markdown + '\n\n---\n\n';
+        const cliProgress = require('cli-progress');
+        const bar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
+
+        console.log('Converting chapters...');
+        // epub.flow might be undefined if structure is different?
+        // But usually it exists.
+        if (epub.flow && epub.flow.length > 0) {
+             bar.start(epub.flow.length, 0);
+
+            for (const chapter of epub.flow) {
+                const text = await this.getChapterText(epub, chapter.id);
+                if (text) {
+                    const markdown = this.turndownService.turndown(text);
+                    textContent += markdown + '\n\n---\n\n';
+                }
+                bar.increment();
             }
+            bar.stop();
+        } else {
+            console.warn('No chapters found in epub.flow');
         }
+
         return textContent;
     }
 

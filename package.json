@@ -19,6 +19,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "cli-progress": "^3.12.0",
     "commander": "^11.0.0",
     "epub2": "^3.0.2",
     "turndown": "^7.2.2"
