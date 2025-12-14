@@ -29,11 +29,16 @@ describe('Converter Integration Test', () => {
         expect(content).toContain('title: "Complex Test Book"');
         expect(content).toContain('tags: [epub, book]');
 
+        // 1a. TOC + chapter-level anchors stay linked
+        expect(content).toContain('[[#Introduction|Introduction]]');
+        expect(content).toContain('[[#Visuals|Visuals]]');
+        expect(content).toContain('[[#Formatting|Formatting]]');
+        expect(content).toMatch(/#\s*Table Of Contents/);
+
         // 2. Check ATX Headers
-        // Note: Obsidian style is "# Heading ^id" (or similar, Turndown might produce "# Heading ^id")
-        // Turndown defaults: <h1 id="intro">Introduction</h1> -> # Introduction ^intro
-        expect(content).toMatch(/#\s*Introduction\s*\^intro/);
-        expect(content).toMatch(/#\s*Visuals & Links\s*\^chap2/);
+        // Note: Heading IDs no longer surface as block IDs; we link via heading text.
+        expect(content).toMatch(/#\s*Introduction/);
+        expect(content).toMatch(/#\s*Visuals & Links/);
 
         // 3. Check Anchor Injection (ID preservation)
         // Already verified above.
@@ -41,15 +46,15 @@ describe('Converter Integration Test', () => {
         // 4. Check Link Rewriting
         // Link to anchor in same file
         // Expect Target: ### Local Anchor Target ^local-anchor
-        expect(content).toMatch(/###\s*Local Anchor Target\s*\^local-anchor/);
-        // Expect Link: [[#^local-anchor|local anchor]]
-        expect(content).toMatch(/\[\[#\^local-anchor\|local anchor\]\]/);
+        expect(content).toMatch(/###\s*Local Anchor Target/);
+        // Expect Link: [[#Local Anchor Target|local anchor]]
+        expect(content).toMatch(/\[\[#Local Anchor Target\|local anchor\]\]/);
 
         // Link to another chapter's section
         // Expect Target: ## Section 2.1 ^chap2-section
-        expect(content).toMatch(/##\s*Section 2\.1\s*\^chap2-section/);
-        // Expect Link: [[#^chap2-section|Section 2.1]]
-        expect(content).toMatch(/\[\[#\^chap2-section\|Section 2\.1\]\]/);
+        expect(content).toMatch(/##\s*Section 2\.1/);
+        // Expect Link: [[#Section 2.1|Section 2.1]]
+        expect(content).toMatch(/\[\[#Section 2\.1\|Section 2\.1\]\]/);
 
         // Footnote link
         // Expect: [^note1]
@@ -98,4 +103,28 @@ describe('Converter Integration Test', () => {
         expect(content).toMatch(/> This is a blockquote\./);
 
     }, 30000); // 30s timeout
+});
+
+describe('Anchor preprocessing', () => {
+    test('hoists standalone anchors onto the next heading', () => {
+        const converter = new Converter();
+        converter.configureTurndown();
+
+        const html = '<a id="foreword"></a><h1>Foreword</h1>';
+        const preprocessed = converter._preprocessAnchors(html);
+        const md = converter.turndownService.turndown(preprocessed);
+
+        expect(md.trim()).toBe('# Foreword');
+    });
+
+    test('converts chapter title paragraphs to headings and attaches anchor', () => {
+        const converter = new Converter();
+        converter.configureTurndown();
+
+        const html = '<a id="c1"></a><p class="chaptitle">Chapter Title</p>';
+        const preprocessed = converter._preprocessAnchors(html);
+        const md = converter.turndownService.turndown(preprocessed);
+
+        expect(md.trim()).toBe('# Chapter Title');
+    });
 });
