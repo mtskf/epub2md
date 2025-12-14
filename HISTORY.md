@@ -36,3 +36,14 @@ User requested `GEMINI.md` to be in English.
 
 ### Lessons Learned
 - Validating the new automated PR workflow.
+
+## 2025-12-15: Separate AI Context
+
+### Context
+User requested separation of public and private AI context.
+
+### Changes
+- **Docs**: 
+  - Moved private/preference rules (Persona, Language, Automation) to local `.agent/rules.md`.
+  - Reinstated `GEMINI.md` as a public document containing only Project Vision and Philosophy.
+  - Removed `GEMINI.md` from `.gitignore`.
