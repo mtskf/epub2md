@@ -19,35 +19,44 @@ Markdown Output
 ## Core Components
 
 ### Converter.js
-Main conversion orchestrator with three key phases:
+
+Main conversion orchestrator. It delegates specific transformation logic to rules in `src/rules/` and utilities in `src/utils/`.
+
+Key phases:
 
 **Phase 1: Pre-Indexing**
+
 - `_preindexHeadingText()`: Scans all chapters, builds `headingTextMap` (ID → heading text)
 - Enables accurate link resolution to heading text
 
 **Phase 2: Preprocessing**
+
 - `_preprocessAnchors()`: Normalizes HTML structure
-  - Hoists standalone `<a id="x"></a>` onto next heading
-  - Converts chapter title paragraphs to `<h1>`
-  - Promotes first heading to H1 if needed
+    - Hoists standalone `<a id="x"></a>` onto next heading
+    - Converts chapter title paragraphs to `<h1>`
+    - Promotes first heading to H1 if needed
 
 **Phase 3: Markdown Conversion**
+
 - Turndown with custom rules for images, links, footnotes
 - See "Custom Rules" section below
 
 ## Custom Turndown Rules
 
 ### Images
+
 - **Purpose**: Prevent merging with headings
 - **Implementation**: Wrap with `\n\n`
 - **Output**: `\n\n![alt](assets/file.jpg)\n\n`
 
 ### Internal Links
+
 - **Strategy**: Heading-text-based (not Block IDs)
 - **Process**: Extract ID from `href="#id"` → lookup `headingTextMap` → output `[[#Heading Text|text]]`
 - **Fallback**: Chapter anchors if heading not found
 
 ### Footnotes
+
 - **References**: `<a href="#note1">[1]</a>` → `[^note1]`
 - **Definitions**: `<p id="note1">[1] Content</p>` → `[^note1]: Content`
 - **Cleanup**: Remove `[1]` prefix and back-links
@@ -69,6 +78,7 @@ Main conversion orchestrator with three key phases:
 ## Key Design Decisions
 
 See `docs/DECISIONS.md` for detailed ADRs:
+
 - ADR-1: Heading-text links vs Block IDs
 - ADR-2: Explicit image spacing
 - ADR-3: Native Obsidian footnotes
@@ -84,7 +94,15 @@ See `docs/DECISIONS.md` for detailed ADRs:
 ## File Structure
 
 ```
-src/Converter.js       # Core conversion logic
+src/Converter.js       # Main orchestrator
+src/rules/             # Turndown transformation rules
+  ├── images.js        # Image handling
+  ├── links.js         # Internal linking
+  ├── footnotes.js     # Footnote processing
+  └── obsidian.js      # Obsidian-specific logic
+src/utils/             # Utility functions
+  ├── frontmatter.js   # Metadata generation
+  └── anchors.js       # Anchor normalization
 test/
   converter.test.js    # Integration tests
   generate_test_epub.js # Dynamic test data
@@ -92,5 +110,6 @@ bin/epub2md.js         # CLI entry point
 ```
 
 For implementation details and lessons learned, see:
+
 - `docs/dev/LESSONS.md` - Development insights
 - `docs/DECISIONS.md` - Architectural decisions
