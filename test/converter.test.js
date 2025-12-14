@@ -79,7 +79,7 @@ describe('Converter Integration Test', () => {
         expect(fs.existsSync(assetsDir)).toBe(true);
         const files = fs.readdirSync(assetsDir);
         // Expect cover and one image
-        expect(files.some(f => f.endsWith('.jpg') || f.endsWith('.jpeg'))).toBe(true);
+        expect(files.some((f) => f.endsWith('.jpg') || f.endsWith('.jpeg'))).toBe(true);
 
         // Check image markdown
         // ![A random placeholder image](assets/...)
@@ -101,7 +101,6 @@ describe('Converter Integration Test', () => {
 
         // Blockquotes
         expect(content).toMatch(/> This is a blockquote\./);
-
     }, 30000); // 30s timeout
 });
 
