@@ -1,4 +1,6 @@
 node_modules/
 .DS_Store
 data
-test.mdoutput_test/
+test.epub
+test.md
+output_test
