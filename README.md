@@ -1,4 +1,4 @@
-# EPUB to Markdown Converter
+# epub2md: Epub to Markdown Converter
 
 A robust Node.js tool to convert EPUB files into Markdown, optimized for **Obsidian** and personal knowledge bases.
 
@@ -32,7 +32,7 @@ This tool was built to solve specific pain points in EPUB conversion:
 ## 🛠 Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mtskf/epub2md.git
 cd epub2md
 npm install
 npm link
