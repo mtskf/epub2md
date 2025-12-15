@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Regression test for TOC internal link resolution.
+- `tmp_epub/` to `.gitignore`.
+
+### Fixed
+- Fixed broken Table of Contents (TOC) links in generated Markdown for EPUBs with internal anchors nested within headings. Links now correctly point to the heading text compatible with Obsidian.
+
+### Added
 
 - Added `cover` property to YAML frontmatter pointing to the extracted cover image
 

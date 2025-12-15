@@ -304,13 +304,27 @@ class Converter {
             const normalized = this._ensureChapterAnchor(text, chapterAnchor);
             if (!normalized) continue;
 
-            const headingRegex = /<h([1-6])[^>]*id="([^"]+)"[^>]*>([\s\S]*?)<\/h\1>/gi;
+            const headingRegex = /<h([1-6])([^>]*)>([\s\S]*?)<\/h\1>/gi;
             let match;
             while ((match = headingRegex.exec(normalized)) !== null) {
-                const id = match[2];
-                const inner = match[3].replace(/<[^>]+>/g, '').trim();
-                if (id && inner) {
-                    this.headingTextMap.set(id, inner);
+                const attrs = match[2];
+                const innerRaw = match[3];
+                const innerText = innerRaw.replace(/<[^>]+>/g, '').trim();
+
+                if (!innerText) continue;
+
+                // Check ID on the heading itself
+                const idMatch = attrs.match(/id="([^"]+)"/i);
+                if (idMatch) {
+                    this.headingTextMap.set(idMatch[1], innerText);
+                }
+
+                // Check IDs on children (e.g. <a id="..."> or <span id="...">)
+                // We use a simple regex for this as well since it's HTML string
+                const childIdRegex = /id="([^"]+)"/gi;
+                let childMatch;
+                while ((childMatch = childIdRegex.exec(innerRaw)) !== null) {
+                    this.headingTextMap.set(childMatch[1], innerText);
                 }
             }
         }
