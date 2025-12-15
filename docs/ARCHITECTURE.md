@@ -112,5 +112,5 @@ bin/epub2md.js         # CLI entry point
 
 For implementation details and lessons learned, see:
 
-- `docs/dev/LESSONS.md` - Development insights
+- `docs/LESSONS.md` - Development insights
 - `docs/DECISIONS.md` - Architectural decisions

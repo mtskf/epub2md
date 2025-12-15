@@ -80,4 +80,4 @@ npm test
 - **[docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md)**: System design and implementation details
 - **[docs/CHANGELOG.md](./docs/CHANGELOG.md)**: User-facing changes and version history
 - **[docs/DECISIONS.md](./docs/DECISIONS.md)**: Architecture Decision Records (ADRs)
-- **[docs/dev/LESSONS.md](./docs/dev/LESSONS.md)**: Development lessons and best practices
+- **[docs/LESSONS.md](./docs/LESSONS.md)**: Development lessons and best practices
