@@ -12,6 +12,8 @@ function generateFrontmatter(metadata, coverImage) {
     if (metadata.language) lines.push(`language: "${metadata.language}"`);
     if (metadata.date) lines.push(`date: "${metadata.date}"`);
     if (coverImage) lines.push(`cover: "${coverImage}"`);
+    lines.push('read: false');
+    lines.push('rating: ');
     lines.push('tags: [converted-from-epub, book]');
     lines.push('---');
     lines.push('');
