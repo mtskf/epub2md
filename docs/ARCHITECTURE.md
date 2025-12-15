@@ -26,7 +26,8 @@ Key phases:
 
 **Phase 1: Pre-Indexing**
 
-- `_preindexHeadingText()`: Scans all chapters, builds `headingTextMap` (ID → heading text)
+- `_preindexHeadingText()`: Scans all chapters, builds `headingTextMap` (ID → heading text).
+    - **Note**: Recursively finds IDs within heading tags (e.g. `<span id="...">` inside `<h1>`) to ensure deep anchors resolve to the parent heading.
 - Enables accurate link resolution to heading text
 
 **Phase 2: Preprocessing**
